@@ -1,0 +1,19 @@
+name: "my-website"
+navbar:
+  title: "Samuel J. L. Gascoigne"
+  left:
+    - text: "About"
+      href: index.html
+    - text: "Research"
+      href: index.html
+    - text: "CV"
+      href: index.html
+    - text: "Contact"
+      href: index.html
+output_dir: "."
+output:
+  html_document:
+    theme: spacelab
+    highlight: textmate
+    toc: true 
+    toc_float: true 
