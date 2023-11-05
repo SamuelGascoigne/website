@@ -1,0 +1,40 @@
+---
+title: "Publications"
+#author: "Samuel J. L. Gascoigne"
+#date: "2023-11-05"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+
+## Under review
+
+**19|** Tuljapurkar SD, Jaggi H, **Gascoigne SJL**, Zuo W, Kajin M, Salguero-Gómez R. From disturbances to nonlinear fitness and back. *Ecology*. In review. (preprint available)
+
+**18|** **Gascoigne SJL**, Rosen R, Sanghvi K, Compagnoni A, Steiner UK, Bocedi G, Sepil I. Current perspectives and future directions in animal life history evolution. *Journal of Animal Ecology*. In review. (preprint available)
+
+**17|** Uwera Nalukwago D, **Gascoigne SJL**, DeFoe D, Barbosa F. A proximate mechanism for evolutionary tradeoffs in the bean beetle Callosobruchus maculatus. *Evolution*. In review. 
+
+**16|** **Gascoigne SJL**, Kajin M, Salguero-Gómez R. Criteria for buffering in ecological modelling. *Trends in Ecology & Evolution*. In review. 
+
+**15|** **Gascoigne SJL**, Kajin M, Tuljapurkar SD, Santos GS, Compagnoni A, Steiner UK, Vinton AC, Jaggi H, Sepil I, Salguero-Gómez R. Structured demographic buffering: A framework to explore the environment drivers and demographic mechanisms underlying demographic buffering. *Ecology Letters*. In review. (preprint available)
+
+**14|** Sanghvi K, Vega-Trejo R, Nakagawa S, **Gascoigne SJL**, Johnson S, Salguero-Gómez R, Pizzari T, Sepil I. No consistent declines in ejaculate traits with advancing male age across animals: a meta-analysis. *Nature Communications*. In review. (preprint available)
+
+**13|** Santos GS, **Gascoigne SJL**, Dias ATC, Kajin M, Salguero-Gómez R. A unified framework to identify demographic buffering in natural populations. *Ecology Letters*. In review. (preprint available)
+
+**12|** Veit W, **Gascoigne SJL**, Salguero-Gómez R. Evolution, complexity, and life history theory. *Biological Theory*. In review. (preprint available)
+
+## 2023
+
+## 2022
+
+## 2021
+
+## 2020
+
+## 2018

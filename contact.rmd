@@ -1,0 +1,20 @@
+---
+title: "Contact Information"
+#author: "Samuel J. L. Gascoigne"
+#date: "2023-11-05"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+*Samuel Gascoigne*
+
+**samuel.gascoigne[at]biology.ox.ac.uk**
+
+University of Oxford
+
+Department of Biology
+
+**Twitter:** [@sam_gascoigne](https://twitter.com/sam_gascoigne)
