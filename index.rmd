@@ -1,7 +1,7 @@
 ---
-title: "index"
-author: "Samuel J. L. Gascoigne"
-date: "2023-11-05"
+title: "About me"
+author: "Samuel Gascoigne | DPhil Student | University of Oxford"
+date: "05/11/2023"
 output: html_document
 ---
 
@@ -9,22 +9,26 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## R Markdown
+<br>
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+<center>
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+![](images/Gascoigne profile picture.jpg)
 
-```{r cars}
-summary(cars)
-```
+</center>
 
-## Including Plots
+<br>
 
-You can also embed plots, for example:
+<style>
+body {
+text-align: justify}
+</style>
 
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
+I am a population ecologist with broad interests in eco-evolutionary dynamics. Currently, I am particularly interested in (1) how populations respond to variable environments and (2) how population's evolve to accommodate the impacts of changing environments. To address these topics, I have an interdisciplinary research program including the humble fruit fly (*Drosophila melanogaster*) for more proximate (mecahanistic) questions and structured population models (*i.e.*, matrix population models and integral projection models) for more ultimate (evolutionary) questions.
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+I am currently a DPhil student at the University of Oxford advised by [Dr. Roberto Salguero-Gómez](https://www.salgo.ox.ac.uk/people/dr-rob-salguero-gomez) and [Dr. Irem Sepil](https://www.biology.ox.ac.uk/people/dr-irem-sepil). In addition to my DPhil, I help grow, curate and do outreach for the [COMPADRE and COMADRE databases](https://compadre-db.org).
+
+After my DPhil, I am excited to say I will start a research fellowship with [Dr. Greta Bocedi](https://gretabocedi.com) at the [University of Aberdeen](https://www.abdn.ac.uk), as well as research groups across [Aarhus University](https://international.au.dk) and [University of Helsinki](https://www.helsinki.fi/en), in the Novo Nordvisk funded [Centre for Ecological Genetics](https://bio.au.dk/forskning/forskningscentre/centre-for-ecological-genetics/people). Our work will be focused on (1) quantifying the impact of genetic structure on extinction risk across arthropod species in Denmark and (2) building new theory linking life-history evolution, dispersal ecology and population genetics to better understand *how* and *why* populations do or don't persist in a changing world.
+
+<object data="CV/Gascoigne_CV.pdf" type = "application/pdf" width = "100%">
+</object>

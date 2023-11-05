@@ -13,7 +13,7 @@ navbar:
 output_dir: "."
 output:
   html_document:
-    theme: spacelab
+    theme: flatly
     highlight: textmate
     toc: true 
     toc_float: true 
