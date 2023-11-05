@@ -5,7 +5,7 @@ navbar:
     - text: "About"
       href: index.html
     - text: "Research"
-      href: index.html
+      href: cv.html
     - text: "CV"
       href: cv.html
     - text: "Contact"
