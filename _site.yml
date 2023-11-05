@@ -4,12 +4,12 @@ navbar:
   left:
     - text: "About"
       href: index.html
-    - text: "Research"
-      href: cv.html
+ #   - text: "Research"
+ #     href: cv.html
     - text: "CV"
       href: cv.html
-    - text: "Contact"
-      href: index.html
+  #  - text: "Contact"
+  #    href: index.html
 output_dir: "."
 output:
   html_document:
