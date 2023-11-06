@@ -1,0 +1,84 @@
+---
+title: "Research"
+#author: "Samuel J. L. Gascoigne"
+#date: "2023-11-06"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<style>
+
+body {
+text-align: justify}
+
+h2 {
+  text-align: center;
+}
+
+h3 {
+  text-align: right;
+}
+
+</style>
+
+<br>
+
+**My research is focused on the ecological and evolutionary mechanisms that impact population dynamics in a changing world. To study these eco-evolutionary dynamics across the tree of life, I am fortunate to have a broad and interdisciplinary research programme. Here, I summarize a selection of ongoing projects and collaborations that aim to push new frontiers in ecology and evolution.**
+
+
+<br>
+
+---
+
+<br>
+
+## Population dynamics in variable environments
+
+### Relevant publications
+
+<br>
+
+---
+
+<br>
+
+## On the evolution of phenotypic plasticity
+
+### Relevant publications
+
+<br>
+
+---
+
+<br>
+
+## Open-access & reproducibility
+
+### Relevant publications
+
+<br>
+
+---
+
+<br>
+
+## Eco-physiology
+
+### Relevant publications
+
+<br>
+
+---
+
+<br>
+
+## Life history theory
+
+### Relevant publications
+
+<br>
+
+---

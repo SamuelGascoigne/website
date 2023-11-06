@@ -10,9 +10,17 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 <style>
+
 body {
 text-align: justify}
+
+h2, h3 {
+  text-align: right;
+}
+
 </style>
+
+
 
 <br>
 
@@ -29,7 +37,6 @@ text-align: justify}
 ---
 
 <br>
-
 
 
 ## Under review
