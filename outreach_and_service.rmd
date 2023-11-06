@@ -1,0 +1,56 @@
+---
+title: "Outreach & Service"
+#author: "Samuel J. L. Gascoigne"
+#date: "2023-11-06"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<style>
+
+body {
+text-align: justify}
+
+h2 {
+  text-align: center;
+}
+
+h3 {
+  text-align: right;
+}
+
+</style>
+
+<br>
+
+**Talk about valuing outreach and service here.**
+
+
+<br>
+
+---
+
+<br>
+
+## Workshops
+
+<br>
+
+---
+
+<br>
+
+## Mentoring
+
+<br>
+
+---
+
+<br>
+
+## Invited reviews
+
+<br>

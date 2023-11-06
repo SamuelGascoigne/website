@@ -9,6 +9,14 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+<style>
+
+h2, h3 {
+  text-align: right;
+}
+
+</style>
+
 <br>
 
 *Samuel Gascoigne*

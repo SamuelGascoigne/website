@@ -1,0 +1,52 @@
+---
+title: "Teaching"
+#author: "Samuel J. L. Gascoigne"
+#date: "2023-11-06"
+output: html_document
+---
+
+<style>
+
+body {
+text-align: justify}
+
+h2 {
+  text-align: center;
+}
+
+h3 {
+  text-align: right;
+}
+
+</style>
+
+<br>
+
+**Talk about enjoying teaching here.**
+
+
+<br>
+
+---
+
+<br>
+
+## Research methods
+
+<br>
+
+---
+
+<br>
+
+## Demographic sessions
+
+<br>
+
+---
+
+<br>
+
+## One-on-one tutoring
+
+<br>
