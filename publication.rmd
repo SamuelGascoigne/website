@@ -486,7 +486,7 @@ text-align: justify}
 
 <br>
   
-  <object data="publications/McDonald et al. 2018" type = "application/pdf" width = "100%" height = "400px">
+  <object data="publications/McDonald et al. 2018.pdf" type = "application/pdf" width = "100%" height = "400px">
 </object>
   
 </details>
@@ -507,7 +507,7 @@ text-align: justify}
 
 <br>
   
-  <object data="publications/Abeysiriwardena et al. 2018" type = "application/pdf" width = "100%" height = "400px">
+  <object data="publications/Abeysiriwardena et al. 2018.pdf" type = "application/pdf" width = "100%" height = "400px">
 </object>
   
 </details>
