@@ -13,9 +13,10 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <center>
 
-![](images/sam profile picture.png)
+<img src="images/sam profile picture.png" alt="Alt text" style="box-shadow: 3px 3px 3px gray;">
 
 </center>
+
 
 <br>
 
