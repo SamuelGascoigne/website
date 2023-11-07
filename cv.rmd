@@ -1,6 +1,11 @@
 ---
 title: "Curriculum Vitae"
-output: html_document
+output: 
+  html_document:
+    theme: flatly
+    highlight: textmate
+    toc: false 
+    toc_float: false 
 ---
 
 ```{r setup, include=FALSE}

@@ -2,7 +2,12 @@
 title: "Contact Information"
 #author: "Samuel J. L. Gascoigne"
 #date: "2023-11-05"
-output: html_document
+output: 
+  html_document:
+    theme: flatly
+    highlight: textmate
+    toc: false 
+    toc_float: false 
 ---
 
 ```{r setup, include=FALSE}
