@@ -28,7 +28,9 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <style>
 body {
-text-align: justify}
+text-align: justify;
+font-size: 14pt;
+}
 </style>
 
 ---
