@@ -19,7 +19,7 @@ h2, h3 {
 }
 
 body{
-font-size: 16pt;
+font-size: 13pt;
 
 }
 
