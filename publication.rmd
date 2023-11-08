@@ -21,7 +21,7 @@ h2, h3 {
 
 </style>
 
-
+<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
 <br>
 
@@ -256,7 +256,7 @@ h2, h3 {
 
   <summary>
   
-  **11|** Wood A, **Gascoigne SJL**, Gambetta G, Jeffers L, Coulson T. Seasonal climate impacts wine quality in Bordeaux. *iScience*, 26(107954). ([link](https://www.sciencedirect.com/science/article/pii/S258900422302031X), also see media coverage: [The Times](https://www.thetimes.co.uk/article/raise-a-glass-to-climate-change-until-you-can-t-gxpqlz3ks), [The Independent](https://www.independent.co.uk/news/science/bordeaux-andrew-wood-weather-university-of-oxford-france-b2427992.html), [Evening Standard](https://www.standard.co.uk/news/science/bordeaux-weather-university-of-oxford-france-experts-b1112881.html), [Daily Mail](https://www.dailymail.co.uk/sciencetech/article-12619357/Climate-change-making-wine-taste-BETTER-Warm-summers-wet-winters-yield-better-quality-vintages-study-finds.html), [National Geographic](https://www.nationalgeographic.com/environment/article/climate-change-french-wine-taste-better), [New Scientist](https://www.newscientist.com/article/2396693-climate-change-may-be-improving-the-quality-of-bordeaux-wines/) and many more)
+  **11|** Wood A, **Gascoigne SJL**, Gambetta G, Jeffers L, Coulson T. Seasonal climate impacts wine quality in Bordeaux. *iScience*, 26(107954). ([link](https://www.sciencedirect.com/science/article/pii/S258900422302031X), also see media coverage: [The Times](https://www.thetimes.co.uk/article/raise-a-glass-to-climate-change-until-you-can-t-gxpqlz3ks), [The Independent](https://www.independent.co.uk/news/science/bordeaux-andrew-wood-weather-university-of-oxford-france-b2427992.html), [Evening Standard](https://www.standard.co.uk/news/science/bordeaux-weather-university-of-oxford-france-experts-b1112881.html), [Daily Mail](https://www.dailymail.co.uk/sciencetech/article-12619357/Climate-change-making-wine-taste-BETTER-Warm-summers-wet-winters-yield-better-quality-vintages-study-finds.html), [National Geographic](https://www.nationalgeographic.com/environment/article/climate-change-french-wine-taste-better), [New Scientist](https://www.newscientist.com/article/2396693-climate-change-may-be-improving-the-quality-of-bordeaux-wines/) and many more) <div data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.isci.2023.107954" data-hide-no-mentions="true" class="altmetric-embed"></div>
   
   </summary>
   
@@ -277,7 +277,7 @@ h2, h3 {
 
   <summary>
   
-  **10|** **Gascoigne SJL**, Rolph S, Sankey D, Nidadavolu N, Stell Pičman AS, Hernandez CM, Philpott MER, Salam A, Bernard C, Fenollosa E, Lee YJ, McLean J, Hetti Achchige Perera S, Spacey OG, Kajin M, Vinton AC, Archer CR, Burns JH, Buss DL, Caswell H, Che-Castaldo JP, Childs DZ, Capdevila P, Compagnoni A, Crone E, Ezard THG, Hodgson D, Knight TM, Jones OR, Jongejans E, McDonald J, Tenhumberg B, Thomas CC, Tyre AJ, Ramula S, Stott I, Tremblay RL, Wilson P, Vaupel JW, Salguero-Gómez R. 2023. A standard protocol to report discrete stage-structured demographic information. *Methods in Ecology & Evolution*, 14(8), 2065-2083. ([link](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.14164))
+  **10|** **Gascoigne SJL**, Rolph S, Sankey D, Nidadavolu N, Stell Pičman AS, Hernandez CM, Philpott MER, Salam A, Bernard C, Fenollosa E, Lee YJ, McLean J, Hetti Achchige Perera S, Spacey OG, Kajin M, Vinton AC, Archer CR, Burns JH, Buss DL, Caswell H, Che-Castaldo JP, Childs DZ, Capdevila P, Compagnoni A, Crone E, Ezard THG, Hodgson D, Knight TM, Jones OR, Jongejans E, McDonald J, Tenhumberg B, Thomas CC, Tyre AJ, Ramula S, Stott I, Tremblay RL, Wilson P, Vaupel JW, Salguero-Gómez R. 2023. A standard protocol to report discrete stage-structured demographic information. *Methods in Ecology & Evolution*, 14(8), 2065-2083. ([link](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.14164))<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/2041-210X.14164" data-hide-no-mentions="true" class="altmetric-embed"></div>
   
   </summary>
   
@@ -298,7 +298,7 @@ h2, h3 {
 
   <summary>
   
-  **9|** Bernard C, Santos GS, Deere J, Rodriguez-Caro R, Capdevila P, Kusch E, **Gascoigne SJL**, Jackson J, Salguero-Gómez R. 2023. MOSAIC: A unified trait database to complement structured population models. *Scientific Data*, 10(335). ([link](https://www.nature.com/articles/s41597-023-02070-w))
+  **9|** Bernard C, Santos GS, Deere J, Rodriguez-Caro R, Capdevila P, Kusch E, **Gascoigne SJL**, Jackson J, Salguero-Gómez R. 2023. MOSAIC: A unified trait database to complement structured population models. *Scientific Data*, 10(335). ([link](https://www.nature.com/articles/s41597-023-02070-w))<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41597-023-02070-w" data-hide-no-mentions="true" class="altmetric-embed"></div>
   
   </summary>
   
@@ -319,7 +319,7 @@ h2, h3 {
 
   <summary>
   
-  **8|** Vinton AC, **Gascoigne SJL**, Sepil I, Salguero-Gómez R. 2023. The importance of spatial and temporal structure in determining the interplay between plasticity and evolution. *Trends in Ecology & Evolution*, 38(3), 221-223. ([link](https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(22)00335-4))
+  **8|** Vinton AC, **Gascoigne SJL**, Sepil I, Salguero-Gómez R. 2023. The importance of spatial and temporal structure in determining the interplay between plasticity and evolution. *Trends in Ecology & Evolution*, 38(3), 221-223. ([link](https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(22)00335-4))<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.tree.2022.12.009" data-hide-no-mentions="true" class="altmetric-embed"></div>
   
   </summary>
   
@@ -348,7 +348,7 @@ h2, h3 {
 
   <summary>
   
-  **7|** Vinton AC, **Gascoigne SJL**, Sepil I, Salguero-Gómez R. 2022. Plasticity’s role in adaptive evolution depends on environmental change components. *Trends in Ecology & Evolution*, 37(12), 1067-1078. ([link](https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(22)00216-6))
+  **7|** Vinton AC, **Gascoigne SJL**, Sepil I, Salguero-Gómez R. 2022. Plasticity’s role in adaptive evolution depends on environmental change components. *Trends in Ecology & Evolution*, 37(12), 1067-1078. ([link](https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(22)00216-6))<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.tree.2022.08.008" data-hide-no-mentions="true" class="altmetric-embed"></div>
   
   </summary>
   
@@ -369,7 +369,7 @@ h2, h3 {
 
   <summary>
   
-  **6|** Kapali GP, Callier V, **Gascoigne SJL**, Harrison JF, Shingleton AW. 2022. A steroid hormone regulates growth in response to oxygen availability. *Scientific Reports*, 12(1), 1-10. ([link](https://www.nature.com/articles/s41598-022-08563-9))
+  **6|** Kapali GP, Callier V, **Gascoigne SJL**, Harrison JF, Shingleton AW. 2022. A steroid hormone regulates growth in response to oxygen availability. *Scientific Reports*, 12(1), 1-10. ([link](https://www.nature.com/articles/s41598-022-08563-9))<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41598-022-08563-9" data-hide-no-mentions="true" class="altmetric-embed"></div>
   
   </summary>
   
@@ -390,7 +390,7 @@ h2, h3 {
 
   <summary>
   
-  **5|** **Gascoigne SJL**, Uwera Nalukwago D, Barbosa F. 2022. Larval density, sex, and allocation hierarchy affect life-history trait covariances in a bean beetle. *The American Naturalist*, 199(02). ([link](https://www.journals.uchicago.edu/doi/abs/10.1086/717639?journalCode=an))
+  **5|** **Gascoigne SJL**, Uwera Nalukwago D, Barbosa F. 2022. Larval density, sex, and allocation hierarchy affect life-history trait covariances in a bean beetle. *The American Naturalist*, 199(02). ([link](https://www.journals.uchicago.edu/doi/abs/10.1086/717639?journalCode=an))<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1086/717639" data-hide-no-mentions="true" class="altmetric-embed"></div>
   
   </summary>
   
@@ -422,7 +422,7 @@ h2, h3 {
 
   <summary>
   
-  **4|** Salguero-Gómez R, Jackson J, **Gascoigne SJL**. 2021. Four key challenges in the open-data revolution. *Journal of Animal Ecology*, 90(9), 2000-2004. ([link](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2656.13567))
+  **4|** Salguero-Gómez R, Jackson J, **Gascoigne SJL**. 2021. Four key challenges in the open-data revolution. *Journal of Animal Ecology*, 90(9), 2000-2004. ([link](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2656.13567))<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/1365-2656.13567" data-hide-no-mentions="true" class="altmetric-embed"></div>
   
   </summary>
   
@@ -453,7 +453,7 @@ h2, h3 {
 
   <summary>
   
-  **3|** Sandler A, Anderson J, Balaram A, Ganev Y, **Gascoigne SJL**, Gimondo C, Palmero B, Quraishi A, Rodriguez A, Said OS, Conrad W. 2020. Decitabine Treatment Demethylates Vast Majority of High-Confidence Differentially Methylated Regions In HCT-116 Colorectal Cancer. *F1000 Research*, 9(886). ([link](https://f1000research.com/articles/9-886/v1?src=rss&utm_source=researcher_app&utm_medium=referral&utm_campaign=RESR_MRKT_Researcher_inbound))
+  **3|** Sandler A, Anderson J, Balaram A, Ganev Y, **Gascoigne SJL**, Gimondo C, Palmero B, Quraishi A, Rodriguez A, Said OS, Conrad W. 2020. Decitabine Treatment Demethylates Vast Majority of High-Confidence Differentially Methylated Regions In HCT-116 Colorectal Cancer. *F1000 Research*, 9(886). ([link](https://f1000research.com/articles/9-886/v1?src=rss&utm_source=researcher_app&utm_medium=referral&utm_campaign=RESR_MRKT_Researcher_inbound))<div data-badge-popover="right" data-badge-type="donut" data-doi="10.12688/f1000research.20442.1" data-hide-no-mentions="true" class="altmetric-embed"></div>
   
   </summary>
   
@@ -484,7 +484,7 @@ h2, h3 {
 
   <summary>
   
-  **2|** McDonald JMC, Ghosh SM, **Gascoigne SJL**, Shingleton AW. 2018. Plasticity through canalization: The contrasting effect of temperature on trait size and growth in Drosophila. *Frontiers in Cell and Developmental Biology*, 6(156). ([link](https://www.frontiersin.org/articles/10.3389/fcell.2018.00156/full))
+  **2|** McDonald JMC, Ghosh SM, **Gascoigne SJL**, Shingleton AW. 2018. Plasticity through canalization: The contrasting effect of temperature on trait size and growth in Drosophila. *Frontiers in Cell and Developmental Biology*, 6(156). ([link](https://www.frontiersin.org/articles/10.3389/fcell.2018.00156/full))<div data-badge-popover="right" data-badge-type="donut" data-doi="10.3389/fcell.2018.00156" data-hide-no-mentions="true" class="altmetric-embed"></div>
   
   </summary>
   
@@ -505,7 +505,7 @@ h2, h3 {
 
   <summary>
   
-  **1|** Abeysiriwardena NM, **Gascoigne SJL**, Anandappa A. 2018. Algal bloom expansion increases cyanotoxin risk in food. *Yale Journal of Biology and Medicine*, 91(2), 129-142. ([link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6020737/))
+  **1|** Abeysiriwardena NM, **Gascoigne SJL**, Anandappa A. 2018. Algal bloom expansion increases cyanotoxin risk in food. *Yale Journal of Biology and Medicine*, 91(2), 129-142. ([link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6020737/))<div data-badge-popover="right" data-badge-type="donut" data-pmid="29955218" data-hide-no-mentions="true" class="altmetric-embed"></div>
   
   </summary>
   
