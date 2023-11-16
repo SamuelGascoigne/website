@@ -25,7 +25,7 @@ h2, h3 {
 
 <br>
 
-**Manuscripts: 19 total, 11 published, 8 under review**
+**Manuscripts: 19 total, 11 published, 1 in press, 7 under review**
 
 **[Google Scholar](https://scholar.google.com/citations?user=vQzYzlAAAAAJ&hl=en): h-index = 4, i10-index = 3**
 
@@ -118,36 +118,11 @@ h2, h3 {
 
 
 
-
 <details>
 
   <summary>
   
-  **16|** **Gascoigne SJL**, Kajin M, Salguero-Gómez R. Criteria for buffering in ecological modelling. *Trends in Ecology & Evolution*. In review. 
-  
-  </summary>
-  
-  <br>
-  
-  <span style="color: #8B0000;">*Here, we propose and argue for a set of necessary criteria for the determination of a buffering mechanism in ecological modelling.*</span>
-
-<br>
-  
-  
-</details>
-
-<br>
-
-
-
-
-
-
-<details>
-
-  <summary>
-  
-  **15|** **Gascoigne SJL**, Kajin M, Tuljapurkar SD, Santos GS, Compagnoni A, Steiner UK, Vinton AC, Jaggi H, Sepil I, Salguero-Gómez R. Structured demographic buffering: A framework to explore the environment drivers and demographic mechanisms underlying demographic buffering. *Ecology Letters*. In review.  ([link](https://www.biorxiv.org/content/10.1101/2023.07.20.549848v1.abstract))
+  **16|** **Gascoigne SJL**, Kajin M, Tuljapurkar SD, Santos GS, Compagnoni A, Steiner UK, Vinton AC, Jaggi H, Sepil I, Salguero-Gómez R. Structured demographic buffering: A framework to explore the environment drivers and demographic mechanisms underlying demographic buffering. *Ecology Letters*. In review.  ([link](https://www.biorxiv.org/content/10.1101/2023.07.20.549848v1.abstract))
   
   </summary>
   
@@ -173,7 +148,7 @@ h2, h3 {
 
   <summary>
   
-  **14|** Sanghvi K, Vega-Trejo R, Nakagawa S, **Gascoigne SJL**, Johnson S, Salguero-Gómez R, Pizzari T, Sepil I. No consistent declines in ejaculate traits with advancing male age across animals: a meta-analysis. *Nature Communications*. In review.  ([link](https://www.biorxiv.org/content/10.1101/2023.04.14.536443v1.abstract))
+  **15|** Sanghvi K, Vega-Trejo R, Nakagawa S, **Gascoigne SJL**, Johnson S, Salguero-Gómez R, Pizzari T, Sepil I. No consistent declines in ejaculate traits with advancing male age across animals: a meta-analysis. *Nature Communications*. In review.  ([link](https://www.biorxiv.org/content/10.1101/2023.04.14.536443v1.abstract))
   
   </summary>
   
@@ -199,7 +174,7 @@ h2, h3 {
 
   <summary>
   
-  **13|** Santos GS #, **Gascoigne SJL #**, Dias ATC, Kajin M, Salguero-Gómez R. A unified framework to identify demographic buffering in natural populations. *Ecology Letters*. In review. ([link](https://www.biorxiv.org/content/10.1101/2023.07.03.547528v1.abstract))
+  **14|** Santos GS #, **Gascoigne SJL #**, Dias ATC, Kajin M, Salguero-Gómez R. A unified framework to identify demographic buffering in natural populations. *Ecology Letters*. In review. ([link](https://www.biorxiv.org/content/10.1101/2023.07.03.547528v1.abstract))
   
   </summary>
   
@@ -225,7 +200,7 @@ h2, h3 {
 
   <summary>
   
-  **12|** Veit W, **Gascoigne SJL**, Salguero-Gómez R. Evolution, complexity, and life history theory. *Biological Theory*. In review.  ([link](http://philsci-archive.pitt.edu/21810/))
+  **13|** Veit W, **Gascoigne SJL**, Salguero-Gómez R. Evolution, complexity, and life history theory. *Biological Theory*. In review.  ([link](http://philsci-archive.pitt.edu/21810/))
   
   </summary>
   
@@ -237,6 +212,34 @@ h2, h3 {
   
   <object data="publications/Veit et al. 2023.pdf" type = "application/pdf" width = "100%" height = "400px" style="box-shadow: 3px 3px 3px gray;">
 </object>
+  
+</details>
+
+<br>
+
+
+---
+
+<br>
+
+## In press
+
+<br>
+
+<details>
+
+  <summary>
+  
+  **12|** **Gascoigne SJL**, Kajin M, Salguero-Gómez R. Criteria for buffering in ecological modelling. *Trends in Ecology & Evolution*. 
+  
+  </summary>
+  
+  <br>
+  
+  <span style="color: #8B0000;">*Here, we propose and argue for a set of necessary criteria for the determination of a buffering mechanism in ecological modelling.*</span>
+
+<br>
+  
   
 </details>
 

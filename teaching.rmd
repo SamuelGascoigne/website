@@ -51,7 +51,9 @@ h3 {
 
 <br>
 
-Just to save this idea, discuss the hierarchy of impact. First is teaching and mentoring. Second is opening opportunities. Third is the impact on the field. <p data-badge-popover="right" data-badge-type="medium-donut" data-doi="10.1038/nature.2014.14583" data-hide-no-mentions="true" class="altmetric-embed"></p>
+Just to save this idea, discuss the hierarchy of impact. First is teaching and mentoring. Second is opening opportunities. Third is the impact on the field. 
+
+<div data-badge-popover="right" data-badge-type="medium-donut" data-doi="10.1038/nature.2014.14583" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
 <p data-badge-popover="right" data-badge-type="medium-donut" data-doi="10.1038/nature.2014.14583" data-hide-no-mentions="true" class="altmetric-embed"></p>
 
