@@ -73,7 +73,7 @@ h2, h3 {
 
   <summary>
   
-  **18|** **Gascoigne SJL**, Rosen R, Sanghvi K, Compagnoni A, Steiner UK, Bocedi G, Sepil I. Current perspectives and future directions in animal life history evolution. *Journal of Animal Ecology*. In review. ([link](https://www.authorea.com/users/657075/articles/670780-current-perspectives-and-future-directions-in-animal-life-history-evolution))
+  **18|** **Gascoigne SJL**, Rosen A, Sanghvi K, Compagnoni A, Steiner UK, Bocedi G, Sepil I. Current perspectives and future directions in animal life history evolution. *Journal of Animal Ecology*. In review. ([link](https://www.authorea.com/users/657075/articles/670780-current-perspectives-and-future-directions-in-animal-life-history-evolution))
   
   </summary>
   
