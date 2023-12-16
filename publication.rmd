@@ -64,10 +64,6 @@ h2, h3 {
 <br>
 
 
-
-
-<br>
-
 <details>
   <summary>
   
