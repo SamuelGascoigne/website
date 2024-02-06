@@ -13,7 +13,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 body {
 text-align: justify;
-font-size: 13pt;}
+font-size: 12pt;
+}
 
 h2, h3 {
   text-align: right;
@@ -25,9 +26,12 @@ h2, h3 {
 
 <br>
 
-**Manuscripts: 20 total, 12 published, 1 in press, 7 under review**
+**Manuscripts: 20 total, 13 published, 7 under review**
 
-**[Google Scholar](https://scholar.google.com/citations?user=vQzYzlAAAAAJ&hl=en): h-index = 4, i10-index = 4**
+**[Google Scholar](https://scholar.google.com/citations?user=vQzYzlAAAAAJ&hl=en): h-index = 5**
+
+**Also see profiles on [ResearchGate](https://www.researchgate.net/profile/Samuel-Gascoigne), [Web of Science](https://www.webofscience.com/wos/author/record/ITV-8261-2023?state=%7B%7D) and [ORCID](https://orcid.org/0000-0002-2984-1810)**
+
 
 **# = shared first authorship**
 
@@ -47,7 +51,7 @@ h2, h3 {
 <details>
   <summary>
   
-  **20|** Huang Y, Wu C, Huang W, Liu Y, Qi M, Bai J, Dong Y, **Gascoigne SJL**, Ciais P, Peñuelas J, Salguero-Gómez R. Climate change has desynchronized insect and vegetation phenologies across Europe. ___Nature___. In review. ([link](https://www.biorxiv.org/content/10.1101/2023.12.11.571152v1.abstract))
+  **20|** Huang Y, Wu C, Huang W, Liu Y, Qi M, Bai J, Dong Y, **Gascoigne SJL**, Ciais P, Peñuelas J, Salguero-Gómez R. Climate change has desynchronized insect and vegetation phenologies across Europe. ___Nature Communications___. In review. ([link](https://www.biorxiv.org/content/10.1101/2023.12.11.571152v1.abstract))
   
   </summary>
   <br>
@@ -218,7 +222,7 @@ h2, h3 {
 
 <br>
 
-## In press
+## 2024
 
 <br>
 
@@ -226,7 +230,7 @@ h2, h3 {
 
   <summary>
   
-  **13|** Sanghvi K, Vega-Trejo R, Nakagawa S, **Gascoigne SJL**, Johnson S, Salguero-Gómez R, Pizzari T, Sepil I. No consistent declines in ejaculate traits with advancing male age across animals: a meta-analysis. ___Nature Communications___. In review.  ([link](https://www.biorxiv.org/content/10.1101/2023.04.14.536443v1.abstract))
+  **13|** Sanghvi K, Vega-Trejo R, Nakagawa S, **Gascoigne SJL**, Johnson S, Salguero-Gómez R, Pizzari T, Sepil I. 2024. No consistent declines in ejaculate traits with advancing male age across animals: a meta-analysis. ___Nature Communications___. 15(558).  ([link](https://www.nature.com/articles/s41467-024-44768-4))
   
   </summary>
   
@@ -236,10 +240,19 @@ h2, h3 {
 
 <br>
   
-  <object data="publications/Sanghvi et al. 2023.pdf" type = "application/pdf" width = "100%" height = "400px" style="box-shadow: 3px 3px 3px gray;">
+  <object data="publications/Sanghvi et al. 2024.pdf" type = "application/pdf" width = "100%" height = "400px" style="box-shadow: 3px 3px 3px gray;">
 </object>
   
 </details>
+
+<div>  
+  <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41467-024-44768-4" data-hide-no-mentions="true" class="altmetric-embed" style="float:right; display:inline;"></span> 
+  <span class="__dimensions_badge_embed__" data-doi="10.1038/s41467-024-44768-4" data-style="small_circle" style="float:right; display:inline;"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+</div>
+
+<br>
+<br>
+<br>
 
 <br>
 
@@ -258,12 +271,12 @@ h2, h3 {
 
   <summary>
   
-  **12|** **Gascoigne SJL**, Kajin M, Salguero-Gómez R. Criteria for buffering in ecological modelling. ___Trends in Ecology & Evolution___.  
-  
-  <div data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.tree.2023.11.006" data-hide-no-mentions="true" class="altmetric-embed" style="text-align: right"></div>
-   <span class="__dimensions_badge_embed__" data-doi="10.1016/j.tree.2023.11.006" data-style="small_circle" style="text-align: right"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-  
-  </summary>
+  **12|** **Gascoigne SJL**, Kajin M, Salguero-Gómez R. 2023. Criteria for buffering in ecological modelling. ___Trends in Ecology & Evolution___. ([link](https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(23)00323-3))  
+
+
+
+
+</summary>
   
   <br>
   
@@ -274,17 +287,24 @@ h2, h3 {
   
 </details>
 
+<div>  
+  <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.tree.2023.11.006" data-hide-no-mentions="true" class="altmetric-embed" style="float:right; display:inline;"></span> 
+  <span class="__dimensions_badge_embed__" data-doi="10.1016/j.tree.2023.11.006" data-style="small_circle" style="float:right; display:inline;"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+</div>
+
+<br>
+<br>
 <br>
 
 <details>
 
   <summary>
   
-  **11|** Wood A, **Gascoigne SJL**, Gambetta G, Jeffers L, Coulson T. Seasonal climate impacts wine quality in Bordeaux. ___iScience___, 26(107954). ([link](https://www.sciencedirect.com/science/article/pii/S258900422302031X), also see media coverage: [The Times](https://www.thetimes.co.uk/article/raise-a-glass-to-climate-change-until-you-can-t-gxpqlz3ks), [The Independent](https://www.independent.co.uk/news/science/bordeaux-andrew-wood-weather-university-of-oxford-france-b2427992.html), [Evening Standard](https://www.standard.co.uk/news/science/bordeaux-weather-university-of-oxford-france-experts-b1112881.html), [Daily Mail](https://www.dailymail.co.uk/sciencetech/article-12619357/Climate-change-making-wine-taste-BETTER-Warm-summers-wet-winters-yield-better-quality-vintages-study-finds.html), [National Geographic](https://www.nationalgeographic.com/environment/article/climate-change-french-wine-taste-better), [New Scientist](https://www.newscientist.com/article/2396693-climate-change-may-be-improving-the-quality-of-bordeaux-wines/) and many more) 
+  **11|** Wood A, **Gascoigne SJL**, Gambetta G, Jeffers L, Coulson T. 2023. Seasonal climate impacts wine quality in Bordeaux. ___iScience___, 26(107954). ([link](https://www.sciencedirect.com/science/article/pii/S258900422302031X), also see media coverage: [The Times](https://www.thetimes.co.uk/article/raise-a-glass-to-climate-change-until-you-can-t-gxpqlz3ks), [The Independent](https://www.independent.co.uk/news/science/bordeaux-andrew-wood-weather-university-of-oxford-france-b2427992.html), [Evening Standard](https://www.standard.co.uk/news/science/bordeaux-weather-university-of-oxford-france-experts-b1112881.html), [Daily Mail](https://www.dailymail.co.uk/sciencetech/article-12619357/Climate-change-making-wine-taste-BETTER-Warm-summers-wet-winters-yield-better-quality-vintages-study-finds.html), [National Geographic](https://www.nationalgeographic.com/environment/article/climate-change-french-wine-taste-better), [New Scientist](https://www.newscientist.com/article/2396693-climate-change-may-be-improving-the-quality-of-bordeaux-wines/) and many more) 
   
-  <div data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.isci.2023.107954" data-hide-no-mentions="true" class="altmetric-embed" style="text-align: right" ></div>
-  
-  <span class="__dimensions_badge_embed__" data-doi="10.1016/j.isci.2023.107954" data-style="small_circle" style="text-align: right"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+  <!-- <div data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.isci.2023.107954" data-hide-no-mentions="true" class="altmetric-embed" style="text-align: right" ></div> -->
+
+  <!-- <span class="__dimensions_badge_embed__" data-doi="10.1016/j.isci.2023.107954" data-style="small_circle" style="text-align: right"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script> -->
   
   </summary>
   
@@ -299,6 +319,13 @@ h2, h3 {
   
 </details>
 
+<div>  
+  <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.isci.2023.107954" data-hide-no-mentions="true" class="altmetric-embed" style="float:right; display:inline;"></span> 
+  <span class="__dimensions_badge_embed__" data-doi="10.1016/j.isci.2023.107954" data-style="small_circle" style="float:right; display:inline;"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+</div>
+
+<br>
+<br>
 <br>
 
 <details>
@@ -306,9 +333,6 @@ h2, h3 {
   <summary>
   
   **10|** **Gascoigne SJL**, Rolph S, Sankey D, Nidadavolu N, Stell Pičman AS, Hernandez CM, Philpott MER, Salam A, Bernard C, Fenollosa E, Lee YJ, McLean J, Hetti Achchige Perera S, Spacey OG, Kajin M, Vinton AC, Archer CR, Burns JH, Buss DL, Caswell H, Che-Castaldo JP, Childs DZ, Capdevila P, Compagnoni A, Crone E, Ezard THG, Hodgson D, Knight TM, Jones OR, Jongejans E, McDonald J, Tenhumberg B, Thomas CC, Tyre AJ, Ramula S, Stott I, Tremblay RL, Wilson P, Vaupel JW, Salguero-Gómez R. 2023. A standard protocol to report discrete stage-structured demographic information. ___Methods in Ecology & Evolution___, 14(8), 2065-2083. ([link](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.14164))
-  
-  <div data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/2041-210X.14164" data-hide-no-mentions="true" class="altmetric-embed" style="text-align: right"></div>
-    <span class="__dimensions_badge_embed__" data-doi="10.1111/2041-210X.14164" data-style="small_circle" style="text-align: right"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
   
   
   </summary>
@@ -324,6 +348,13 @@ h2, h3 {
   
 </details>
 
+<div>  
+  <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/2041-210X.14164" data-hide-no-mentions="true" class="altmetric-embed" style="float:right; display:inline;"></span> 
+  <span class="__dimensions_badge_embed__" data-doi="10.1111/2041-210X.14164" data-style="small_circle" style="float:right; display:inline;"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+</div>
+
+<br>
+<br>
 <br>
 
 <details>
@@ -331,10 +362,7 @@ h2, h3 {
   <summary>
   
   **9|** Bernard C, Santos GS, Deere J, Rodriguez-Caro R, Capdevila P, Kusch E, **Gascoigne SJL**, Jackson J, Salguero-Gómez R. 2023. MOSAIC: A unified trait database to complement structured population models. ___Scientific Data___, 10(335). ([link](https://www.nature.com/articles/s41597-023-02070-w))
-  
-  <div data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41597-023-02070-w" data-hide-no-mentions="true" class="altmetric-embed" style="text-align: right"></div>
-    <span class="__dimensions_badge_embed__" data-doi="10.1038/s41597-023-02070-w" data-style="small_circle" style="text-align: right"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-  
+
 
   
   </summary>
@@ -350,6 +378,13 @@ h2, h3 {
   
 </details>
 
+<div>  
+  <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41597-023-02070-w" data-hide-no-mentions="true" class="altmetric-embed" style="float:right; display:inline;"></span> 
+  <span class="__dimensions_badge_embed__" data-doi="10.1038/s41597-023-02070-w" data-style="small_circle" style="float:right; display:inline;"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+</div>
+
+<br>
+<br>
 <br>
 
 <details>
@@ -357,9 +392,6 @@ h2, h3 {
   <summary>
   
   **8|** Vinton AC, **Gascoigne SJL**, Sepil I, Salguero-Gómez R. 2023. The importance of spatial and temporal structure in determining the interplay between plasticity and evolution. ___Trends in Ecology & Evolution___, 38(3), 221-223. ([link](https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(22)00335-4))
-  
-  <div data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.tree.2022.12.009" data-hide-no-mentions="true" class="altmetric-embed" style="text-align: right"></div>
-   <span class="__dimensions_badge_embed__" data-doi="10.1016/j.tree.2022.12.009" data-style="small_circle" style="text-align: right"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
   
   </summary>
   
@@ -373,6 +405,13 @@ h2, h3 {
 </details>
 
 
+<div>  
+  <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.tree.2022.12.009" data-hide-no-mentions="true" class="altmetric-embed" style="float:right; display:inline;"></span> 
+  <span class="__dimensions_badge_embed__" data-doi="10.1016/j.tree.2022.12.009" data-style="small_circle" style="float:right; display:inline;"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+</div>
+
+<br>
+<br>
 <br>
 
 ---
@@ -390,9 +429,6 @@ h2, h3 {
   
   **7|** Vinton AC, **Gascoigne SJL**, Sepil I, Salguero-Gómez R. 2022. Plasticity’s role in adaptive evolution depends on environmental change components. ___Trends in Ecology & Evolution___, 37(12), 1067-1078. ([link](https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(22)00216-6))
   
-  <div data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.tree.2022.08.008" data-hide-no-mentions="true" class="altmetric-embed" style="text-align: right"></div>
-    <span class="__dimensions_badge_embed__" data-doi="10.1016/j.tree.2022.08.008" data-style="small_circle" style="text-align: right"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-  
   </summary>
   
   <br>
@@ -406,6 +442,13 @@ h2, h3 {
   
 </details>
 
+<div>  
+  <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.tree.2022.08.008" data-hide-no-mentions="true" class="altmetric-embed" style="float:right; display:inline;"></span> 
+  <span class="__dimensions_badge_embed__" data-doi="10.1016/j.tree.2022.08.008" data-style="small_circle" style="float:right; display:inline;"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+</div>
+
+<br>
+<br>
 <br>
 
 <details>
@@ -413,9 +456,6 @@ h2, h3 {
   <summary>
   
   **6|** Kapali GP, Callier V, **Gascoigne SJL**, Harrison JF, Shingleton AW. 2022. A steroid hormone regulates growth in response to oxygen availability. ___Scientific Reports___, 12(1), 1-10. ([link](https://www.nature.com/articles/s41598-022-08563-9))
-  
-  <div data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41598-022-08563-9" data-hide-no-mentions="true" class="altmetric-embed" style="text-align: right"></div>
-  <span class="__dimensions_badge_embed__" data-doi="10.1038/s41598-022-08563-9" data-style="small_circle" style="text-align: right"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
   
   </summary>
   
@@ -430,6 +470,13 @@ h2, h3 {
   
 </details>
 
+<div>  
+  <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41598-022-08563-9" data-hide-no-mentions="true" class="altmetric-embed" style="float:right; display:inline;"></span> 
+  <span class="__dimensions_badge_embed__" data-doi="10.1038/s41598-022-08563-9" data-style="small_circle" style="float:right; display:inline;"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+</div>
+
+<br>
+<br>
 <br>
 
 <details>
@@ -437,9 +484,6 @@ h2, h3 {
   <summary>
   
   **5|** **Gascoigne SJL**, Uwera Nalukwago D, Barbosa F. 2022. Larval density, sex, and allocation hierarchy affect life-history trait covariances in a bean beetle. ___The American Naturalist___, 199(02). ([link](https://www.journals.uchicago.edu/doi/abs/10.1086/717639?journalCode=an))
-  
-  <div data-badge-popover="right" data-badge-type="donut" data-doi="10.1086/717639" data-hide-no-mentions="true" class="altmetric-embed" style="text-align: right"></div>
-    <span class="__dimensions_badge_embed__" data-doi="10.1086/717639" data-style="small_circle" style="text-align: right"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
   
   </summary>
   
@@ -454,7 +498,15 @@ h2, h3 {
   
 </details>
 
+<div>  
+  <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1086/717639" data-hide-no-mentions="true" class="altmetric-embed" style="float:right; display:inline;"></span> 
+  <span class="__dimensions_badge_embed__" data-doi="10.1086/717639" data-style="small_circle" style="float:right; display:inline;"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+</div>
+
 <br>
+<br>
+<br>
+
 
 
 
@@ -472,9 +524,7 @@ h2, h3 {
   <summary>
   
   **4|** Salguero-Gómez R, Jackson J, **Gascoigne SJL**. 2021. Four key challenges in the open-data revolution. ___Journal of Animal Ecology___, 90(9), 2000-2004. ([link](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2656.13567))
-  
-  <div data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/1365-2656.13567" data-hide-no-mentions="true" class="altmetric-embed" style="text-align: right"></div>
-    <span class="__dimensions_badge_embed__" data-doi="10.1111/1365-2656.13567" data-style="small_circle" style="text-align: right"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+
   </summary>
   
   <br>
@@ -488,8 +538,13 @@ h2, h3 {
   
 </details>
 
+<div>  
+  <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/1365-2656.13567" data-hide-no-mentions="true" class="altmetric-embed" style="float:right; display:inline;"></span> 
+  <span class="__dimensions_badge_embed__" data-doi="10.1111/1365-2656.13567" data-style="small_circle" style="float:right; display:inline;"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+</div>
 
-
+<br>
+<br>
 <br>
 
 ---
@@ -506,8 +561,6 @@ h2, h3 {
   
   **3|** Sandler A, Anderson J, Balaram A, Ganev Y, **Gascoigne SJL**, Gimondo C, Palmero B, Quraishi A, Rodriguez A, Said OS, Conrad W. 2020. Decitabine Treatment Demethylates Vast Majority of High-Confidence Differentially Methylated Regions In HCT-116 Colorectal Cancer. ___F1000 Research___, 9(886). ([link](https://f1000research.com/articles/9-886/v1?src=rss&utm_source=researcher_app&utm_medium=referral&utm_campaign=RESR_MRKT_Researcher_inbound))
   
-  <div data-badge-popover="right" data-badge-type="donut" data-doi="10.12688/f1000research.20442.1" data-hide-no-mentions="true" class="altmetric-embed" style="text-align: right"></div>
-  
   </summary>
   
   <br>
@@ -522,7 +575,6 @@ h2, h3 {
 </details>
 
 
-<br>
 
 ---
 
@@ -538,9 +590,6 @@ h2, h3 {
   <summary>
   
   **2|** McDonald JMC, Ghosh SM, **Gascoigne SJL**, Shingleton AW. 2018. Plasticity through canalization: The contrasting effect of temperature on trait size and growth in Drosophila. ___Frontiers in Cell and Developmental Biology___, 6(156). ([link](https://www.frontiersin.org/articles/10.3389/fcell.2018.00156/full))
-  
-  <div data-badge-popover="right" data-badge-type="donut" data-doi="10.3389/fcell.2018.00156" data-hide-no-mentions="true" class="altmetric-embed" style="text-align: right"></div>
-    <span class="__dimensions_badge_embed__" data-doi="10.3389/fcell.2018.00156" data-style="small_circle" style="text-align: right"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
     
   </summary>
   
@@ -555,6 +604,13 @@ h2, h3 {
   
 </details>
 
+<div>  
+  <span data-badge-popover="right" data-badge-type="donut" data-doi="10.3389/fcell.2018.00156" data-hide-no-mentions="true" class="altmetric-embed" style="float:right; display:inline;"></span> 
+  <span class="__dimensions_badge_embed__" data-doi="10.3389/fcell.2018.00156" data-style="small_circle" style="float:right; display:inline;"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+</div>
+
+<br>
+<br>
 <br>
 
 <details>
@@ -562,9 +618,6 @@ h2, h3 {
   <summary>
   
   **1|** Abeysiriwardena NM, **Gascoigne SJL**, Anandappa A. 2018. Algal bloom expansion increases cyanotoxin risk in food. ___Yale Journal of Biology and Medicine___, 91(2), 129-142. ([link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6020737/))
-  
-  <div data-badge-popover="right" data-badge-type="donut" data-pmid="29955218" data-hide-no-mentions="true" class="altmetric-embed" style="text-align: right"></div>
-    <span class="__dimensions_badge_embed__" data-pmid="29955218" data-style="small_circle" style="text-align: right"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
   
   </summary>
   
@@ -579,6 +632,13 @@ h2, h3 {
   
 </details>
 
+<div>  
+  <span data-badge-popover="right" data-badge-type="donut" data-pmid="29955218" data-hide-no-mentions="true" class="altmetric-embed" style="float:right; display:inline;"></span> 
+  <span class="__dimensions_badge_embed__" data-pmid="29955218" data-style="small_circle" style="float:right; display:inline;"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+</div>
+
+<br>
+<br>
 <br>
 
 ---
