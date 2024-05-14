@@ -31,10 +31,10 @@ font-size: 12pt;
 
 *Samuel Gascoigne*
 
-**samuel.gascoigne[at]biology.ox.ac.uk**
+**samuel.gascoigne[at]abdn.ac.uk**
 
-University of Oxford
+University of Aberdeen
 
-Department of Biology
+School of Biological Sciences
 
 **Twitter:** [@sam_gascoigne](https://twitter.com/sam_gascoigne)
