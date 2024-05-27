@@ -62,7 +62,7 @@ After my DPhil, I am excited to say I have started a research fellowship with [D
 
 <center>
 
-<img src="images/institutions.png" alt="Alt text">
+<img src="images/institutions_1.png" alt="Alt text">
 
 </center>
 

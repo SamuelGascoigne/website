@@ -35,7 +35,7 @@ h3 {
 
 <br>
 
-## Population dynamics in variable environments
+## How do populations respond to variance across *time*?
 
 ### Relevant publications
 
@@ -45,7 +45,7 @@ h3 {
 
 <br>
 
-## On the evolution of phenotypic plasticity
+## How do populations respond to variance across *space*?
 
 ### Relevant publications
 
