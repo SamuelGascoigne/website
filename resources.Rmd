@@ -1,0 +1,72 @@
+---
+title: "Resources"
+author: "Sam Gascoigne"
+date: "2024-06-01"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+<style>
+
+body {
+text-align: justify}
+
+h3 {
+  text-align: center;
+}
+
+
+</style>
+
+<br>
+
+**My research is focused on the ecological and evolutionary mechanisms that impact population dynamics in a changing world. To study these eco-evolutionary dynamics across the tree of life, I am fortunate to have a broad and interdisciplinary research programme. Here, I summarize a selection of ongoing projects and collaborations that aim to push new frontiers in ecology and evolution.**
+
+
+<br>
+
+---
+
+<br>
+
+### A whistle-stop tour of demographic methods
+
+
+
+<br>
+
+---
+
+<br>
+
+### Structured demography made easy
+
+
+
+<br>
+
+---
+
+<br>
+
+### A primer on stochastic demography
+
+
+
+<br>
+
+---
+
+<br>
+
+### Landscape genetics: Deriving spatial structure from natural populations
+
+
+
+<br>
+
+---
