@@ -26,7 +26,7 @@ h2, h3 {
 
 <br>
 
-**Manuscripts: 21 total, 13 published, 8 under review**
+**Manuscripts: 22 total, 13 published, 9 under review**
 
 **[Google Scholar](https://scholar.google.com/citations?user=vQzYzlAAAAAJ&hl=en): h-index = 5**
 
@@ -45,6 +45,25 @@ h2, h3 {
 
 
 ## Under review
+
+<br>
+
+<details>
+  <summary>
+  
+  **22|** Noble DWA, Zoe A, Xirocostas ZA, Wu NC, Martinig AR, Almeida RA, Bairos-Novak KR, Heikel Balti H, Bertram MG, Bliard L, Brand JA, Byrne I, Chan YC, Clink DJ, Corbel Q, Correia RA, Crawford-Ash J, Culina A, D’Bastiani E, Deme GG, de Souza Leite M, Dhellemmes F, Dimri S, Drobniak SM, Elsy AD, Everingham SE, **Gascoigne SJL**, Grainger MJ, Hossack GC, Hovstad KA, Ivimey-Cook ER, Jones ML, Kačergytė I, Küstner G, Leibold DC, Mair MM, Martin J, Mizuno A, Moodie IR, Moreau D, O’Dea RE, Orr JA, Paquet M, Parajuli R, Pick JL, Pottier P, Purgar M, Recio P, Roche DG, Royauté R, Sabet SS, Segovia JMG, Silva I, Sánchez-Tójar A, Soares BE, Szabo B, Takola E, Thoré ESJ, Timilsina B, van Dis NE, Verberk WCEP, Vriend SJG, Wild KH, Williams C, Yang Y, Nakagawa S, Malgorzata Lagisz M. The promise of community-driven preprints in ecology and evolution. ___PLoS Biology___. Under review. ([preprint link](https://ecoevorxiv.org/repository/view/7239/))
+  
+  </summary>
+  <br>
+  
+  <span style="color: #8B0000;">*Here, we explore the first preprints uploaded to EcoEvoRxiv to characterise preprint practices in ecology and evolution.*</span>
+
+<br>
+  
+  <object data="publications/Noble et al. 2024.pdf" type = "application/pdf" width = "100%" height = "400px" style="box-shadow: 3px 3px 3px gray;">
+</object>
+  
+</details>
 
 <br>
 
