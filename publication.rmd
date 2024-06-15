@@ -51,7 +51,7 @@ h2, h3 {
 <details>
   <summary>
   
-  **22|** Noble DWA, Zoe A, Xirocostas ZA, Wu NC, Martinig AR, Almeida RA, Bairos-Novak KR, Heikel Balti H, Bertram MG, Bliard L, Brand JA, Byrne I, Chan YC, Clink DJ, Corbel Q, Correia RA, Crawford-Ash J, Culina A, D’Bastiani E, Deme GG, de Souza Leite M, Dhellemmes F, Dimri S, Drobniak SM, Elsy AD, Everingham SE, **Gascoigne SJL**, Grainger MJ, Hossack GC, Hovstad KA, Ivimey-Cook ER, Jones ML, Kačergytė I, Küstner G, Leibold DC, Mair MM, Martin J, Mizuno A, Moodie IR, Moreau D, O’Dea RE, Orr JA, Paquet M, Parajuli R, Pick JL, Pottier P, Purgar M, Recio P, Roche DG, Royauté R, Sabet SS, Segovia JMG, Silva I, Sánchez-Tójar A, Soares BE, Szabo B, Takola E, Thoré ESJ, Timilsina B, van Dis NE, Verberk WCEP, Vriend SJG, Wild KH, Williams C, Yang Y, Nakagawa S, Malgorzata Lagisz M. The promise of community-driven preprints in ecology and evolution. *PLoS Biology*. Under review. ([preprint link](https://ecoevorxiv.org/repository/view/7239/))
+  22| Noble DWA, Zoe A, Xirocostas ZA, Wu NC, Martinig AR, Almeida RA, Bairos-Novak KR, Heikel Balti H, Bertram MG, Bliard L, Brand JA, Byrne I, Chan YC, Clink DJ, Corbel Q, Correia RA, Crawford-Ash J, Culina A, D’Bastiani E, Deme GG, de Souza Leite M, Dhellemmes F, Dimri S, Drobniak SM, Elsy AD, Everingham SE, **Gascoigne SJL**, Grainger MJ, Hossack GC, Hovstad KA, Ivimey-Cook ER, Jones ML, Kačergytė I, Küstner G, Leibold DC, Mair MM, Martin J, Mizuno A, Moodie IR, Moreau D, O’Dea RE, Orr JA, Paquet M, Parajuli R, Pick JL, Pottier P, Purgar M, Recio P, Roche DG, Royauté R, Sabet SS, Segovia JMG, Silva I, Sánchez-Tójar A, Soares BE, Szabo B, Takola E, Thoré ESJ, Timilsina B, van Dis NE, Verberk WCEP, Vriend SJG, Wild KH, Williams C, Yang Y, Nakagawa S, Malgorzata Lagisz M. The promise of community-driven preprints in ecology and evolution. *PLoS Biology*. Under review. ([preprint link](https://ecoevorxiv.org/repository/view/7239/))
   
   </summary>
   <br>
@@ -60,7 +60,7 @@ h2, h3 {
 
 <br>
   
-  <object data="publications/Noble et al. 2024.pdf" type = "application/pdf" width = "100%" height = "400px" style="box-shadow: 3px 3px 3px gray;">
+  <object data="publications/Noble et al. 2024.pdf" type = "application/pdf" width = "100%" height = "325px" style="box-shadow: 3px 3px 3px gray;">
 </object>
   
 </details>
@@ -70,7 +70,7 @@ h2, h3 {
 <details>
   <summary>
   
-  **21|** **Gascoigne SJL**, Kajin M, Sepil I, Salguero-Gómez R. Testing for efficacy in four measures of demographic buffering. *Methods in Ecology & Evolution*. Under review. ([preprint link](https://ecoevorxiv.org/repository/view/7207/))
+  21| **Gascoigne SJL**, Kajin M, Sepil I, Salguero-Gómez R. Testing for efficacy in four measures of demographic buffering. *Methods in Ecology & Evolution*. Under review. ([preprint link](https://ecoevorxiv.org/repository/view/7207/))
   
   </summary>
   <br>
@@ -79,7 +79,7 @@ h2, h3 {
 
 <br>
   
-  <object data="publications/Gascoigne et al. 2024 Efficacy.pdf" type = "application/pdf" width = "100%" height = "400px" style="box-shadow: 3px 3px 3px gray;">
+  <object data="publications/Gascoigne et al. 2024 Efficacy.pdf" type = "application/pdf" width = "100%" height = "325px" style="box-shadow: 3px 3px 3px gray;">
 </object>
   
 </details>
@@ -89,7 +89,7 @@ h2, h3 {
 <details>
   <summary>
   
-  **20|** Huang Y, Wu C, Huang W, Liu Y, Qi M, Bai J, Dong Y, **Gascoigne SJL**, Ciais P, Peñuelas J, Salguero-Gómez R. Climate change has desynchronized insect and vegetation phenologies across Europe. *Nature Communications*. Under review. ([preprint link](https://www.biorxiv.org/content/10.1101/2023.12.11.571152v1.abstract))
+  20| Huang Y, Wu C, Huang W, Liu Y, Qi M, Bai J, Dong Y, **Gascoigne SJL**, Ciais P, Peñuelas J, Salguero-Gómez R. Climate change has desynchronized insect and vegetation phenologies across Europe. *Nature Communications*. Under review. ([preprint link](https://www.biorxiv.org/content/10.1101/2023.12.11.571152v1.abstract))
   
   </summary>
   <br>
@@ -98,7 +98,7 @@ h2, h3 {
 
 <br>
   
-  <object data="publications/Huang et al. 2023.pdf" type = "application/pdf" width = "100%" height = "400px" style="box-shadow: 3px 3px 3px gray;">
+  <object data="publications/Huang et al. 2023.pdf" type = "application/pdf" width = "100%" height = "325px" style="box-shadow: 3px 3px 3px gray;">
 </object>
   
 </details>
@@ -109,7 +109,7 @@ h2, h3 {
 <details>
   <summary>
   
-  **19|** Tuljapurkar SD, Jaggi H, **Gascoigne SJL**, Zuo W, Kajin M, Salguero-Gómez R. From disturbances to nonlinear fitness and back. *Ecology*. Under review. ([preprint link](https://www.biorxiv.org/content/10.1101/2023.10.20.563360v2.abstract))
+  19| Tuljapurkar SD, Jaggi H, **Gascoigne SJL**, Zuo W, Kajin M, Salguero-Gómez R. From disturbances to nonlinear fitness and back. *Ecology*. Under review. ([preprint link](https://www.biorxiv.org/content/10.1101/2023.10.20.563360v2.abstract))
   
   </summary>
   <br>
@@ -118,7 +118,7 @@ h2, h3 {
 
 <br>
   
-  <object data="publications/Tulja et al 2023.pdf" type = "application/pdf" width = "100%" height = "400px" style="box-shadow: 3px 3px 3px gray;">
+  <object data="publications/Tulja et al 2023.pdf" type = "application/pdf" width = "100%" height = "325px" style="box-shadow: 3px 3px 3px gray;">
 </object>
   
 </details>
@@ -135,7 +135,7 @@ h2, h3 {
 
   <summary>
   
-  **18|** **Gascoigne SJL**, Rosen A, Sanghvi K, Compagnoni A, Steiner UK, Bocedi G, Sepil I. Current perspectives and future directions in animal life history evolution. *Journal of Animal Ecology*. Under review. ([preprint link](https://www.authorea.com/users/657075/articles/670780-current-perspectives-and-future-directions-in-animal-life-history-evolution))
+  18| **Gascoigne SJL**, Rosen A, Sanghvi K, Compagnoni A, Steiner UK, Bocedi G, Sepil I. Current perspectives and future directions in animal life history evolution. *Journal of Animal Ecology*. Under review. ([preprint link](https://www.authorea.com/users/657075/articles/670780-current-perspectives-and-future-directions-in-animal-life-history-evolution))
   
   </summary>
   
@@ -145,7 +145,7 @@ h2, h3 {
 
 <br>
   
-  <object data="publications/Gascoigne et al. 2023 Current perspectives.pdf" type = "application/pdf" width = "100%" height = "400px" style="box-shadow: 3px 3px 3px gray;">
+  <object data="publications/Gascoigne et al. 2023 Current perspectives.pdf" type = "application/pdf" width = "100%" height = "325px" style="box-shadow: 3px 3px 3px gray;">
 </object>
   
 </details>
@@ -161,7 +161,7 @@ h2, h3 {
 
   <summary>
   
-  **17|** Uwera Nalukwago D, **Gascoigne SJL**, DeFoe B, Barbosa F. A proximate mechanism for evolutionary trade-offs in the bean beetle Callosobruchus maculatus. *Evolution*. Under review.
+  17| Uwera Nalukwago D, **Gascoigne SJL**, DeFoe B, Barbosa F. A proximate mechanism for evolutionary trade-offs in the bean beetle Callosobruchus maculatus. *Evolution*. Under review.
   
   </summary>
   
@@ -184,7 +184,7 @@ h2, h3 {
 
   <summary>
   
-  **16|** **Gascoigne SJL**, Kajin M, Tuljapurkar SD, Santos GS, Compagnoni A, Steiner UK, Vinton AC, Jaggi H, Sepil I, Salguero-Gómez R. Structured demographic buffering: A framework to explore the environment drivers and demographic mechanisms underlying demographic buffering. *Ecology Letters*. Under review.  ([preprint link](https://www.biorxiv.org/content/10.1101/2023.07.20.549848v1.abstract))
+  16| **Gascoigne SJL**, Kajin M, Tuljapurkar SD, Santos GS, Compagnoni A, Steiner UK, Vinton AC, Jaggi H, Sepil I, Salguero-Gómez R. Structured demographic buffering: A framework to explore the environment drivers and demographic mechanisms underlying demographic buffering. *Ecology Letters*. Under review.  ([preprint link](https://www.biorxiv.org/content/10.1101/2023.07.20.549848v1.abstract))
   
   </summary>
   
@@ -194,7 +194,7 @@ h2, h3 {
 
 <br>
   
-  <object data="publications/Gascoigne et al. 2023 Structured demographic buffering.pdf" type = "application/pdf" width = "100%" height = "400px" style="box-shadow: 3px 3px 3px gray;">
+  <object data="publications/Gascoigne et al. 2023 Structured demographic buffering.pdf" type = "application/pdf" width = "100%" height = "325px" style="box-shadow: 3px 3px 3px gray;">
 </object>
   
 </details>
@@ -212,7 +212,7 @@ h2, h3 {
 
   <summary>
   
-  **15|** Santos GS #, **Gascoigne SJL #**, Dias ATC, Kajin M, Salguero-Gómez R. A unified framework to identify demographic buffering in natural populations. *Ecology Letters*. Under review. ([preprint link](https://www.biorxiv.org/content/10.1101/2023.07.03.547528v1.abstract))
+  15| Santos GS #, **Gascoigne SJL #**, Dias ATC, Kajin M, Salguero-Gómez R. A unified framework to identify demographic buffering in natural populations. *Ecology Letters*. Under review. ([preprint link](https://www.biorxiv.org/content/10.1101/2023.07.03.547528v1.abstract))
   
   </summary>
   
@@ -222,7 +222,7 @@ h2, h3 {
 
 <br>
   
-  <object data="publications/Santos et al. 2023.pdf" type = "application/pdf" width = "100%" height = "400px" style="box-shadow: 3px 3px 3px gray;">
+  <object data="publications/Santos et al. 2023.pdf" type = "application/pdf" width = "100%" height = "325px" style="box-shadow: 3px 3px 3px gray;">
 </object>
   
 </details>
@@ -238,7 +238,7 @@ h2, h3 {
 
   <summary>
   
-  **14|** Veit W, **Gascoigne SJL**, Salguero-Gómez R. Evolution, complexity, and life history theory. *Biological Theory*. Under review.  ([preprint link](http://philsci-archive.pitt.edu/21810/))
+  14| Veit W, **Gascoigne SJL**, Salguero-Gómez R. Evolution, complexity, and life history theory. *Biological Theory*. Under review.  ([preprint link](http://philsci-archive.pitt.edu/21810/))
   
   </summary>
   
@@ -248,7 +248,7 @@ h2, h3 {
 
 <br>
   
-  <object data="publications/Veit et al. 2023.pdf" type = "application/pdf" width = "100%" height = "400px" style="box-shadow: 3px 3px 3px gray;">
+  <object data="publications/Veit et al. 2023.pdf" type = "application/pdf" width = "100%" height = "325px" style="box-shadow: 3px 3px 3px gray;">
 </object>
   
 </details>
@@ -268,7 +268,7 @@ h2, h3 {
 
   <summary>
   
-  **13|** Sanghvi K, Vega-Trejo R, Nakagawa S, **Gascoigne SJL**, Johnson S, Salguero-Gómez R, Pizzari T, Sepil I. 2024. No consistent declines in ejaculate traits with advancing male age across animals: a meta-analysis. *Nature Communications*. *15*(558).  ([link](https://www.nature.com/articles/s41467-024-44768-4))
+  13| Sanghvi K, Vega-Trejo R, Nakagawa S, **Gascoigne SJL**, Johnson S, Salguero-Gómez R, Pizzari T, Sepil I. 2024. No consistent declines in ejaculate traits with advancing male age across animals: a meta-analysis. *Nature Communications*. *15*(558).  ([link](https://www.nature.com/articles/s41467-024-44768-4))
   
   </summary>
   
@@ -278,7 +278,7 @@ h2, h3 {
 
 <br>
   
-  <object data="publications/Sanghvi et al. 2024.pdf" type = "application/pdf" width = "100%" height = "400px" style="box-shadow: 3px 3px 3px gray;">
+  <object data="publications/Sanghvi et al. 2024.pdf" type = "application/pdf" width = "100%" height = "325px" style="box-shadow: 3px 3px 3px gray;">
 </object>
   
 </details>
@@ -309,7 +309,7 @@ h2, h3 {
 
   <summary>
   
-  **12|** **Gascoigne SJL**, Kajin M, Salguero-Gómez R. 2023. Criteria for buffering in ecological modelling. *Trends in Ecology & Evolution*. *39*(2), 116-118. ([link](https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(23)00323-3))  
+  12| **Gascoigne SJL**, Kajin M, Salguero-Gómez R. 2023. Criteria for buffering in ecological modelling. *Trends in Ecology & Evolution*. *39*(2), 116-118. ([link](https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(23)00323-3))  
 
 
 
@@ -338,7 +338,7 @@ h2, h3 {
 
   <summary>
   
-  **11|** Wood A, **Gascoigne SJL**, Gambetta G, Jeffers L, Coulson T. 2023. Seasonal climate impacts wine quality in Bordeaux. *iScience*, *26*(107954). ([link](https://www.sciencedirect.com/science/article/pii/S258900422302031X), also see media coverage: [The Times](https://www.thetimes.co.uk/article/raise-a-glass-to-climate-change-until-you-can-t-gxpqlz3ks), [The Independent](https://www.independent.co.uk/news/science/bordeaux-andrew-wood-weather-university-of-oxford-france-b2427992.html), [Evening Standard](https://www.standard.co.uk/news/science/bordeaux-weather-university-of-oxford-france-experts-b1112881.html), [Daily Mail](https://www.dailymail.co.uk/sciencetech/article-12619357/Climate-change-making-wine-taste-BETTER-Warm-summers-wet-winters-yield-better-quality-vintages-study-finds.html), [National Geographic](https://www.nationalgeographic.com/environment/article/climate-change-french-wine-taste-better), [New Scientist](https://www.newscientist.com/article/2396693-climate-change-may-be-improving-the-quality-of-bordeaux-wines/) and many more) 
+  11| Wood A, **Gascoigne SJL**, Gambetta G, Jeffers L, Coulson T. 2023. Seasonal climate impacts wine quality in Bordeaux. *iScience*, *26*(107954). ([link](https://www.sciencedirect.com/science/article/pii/S258900422302031X), also see media coverage: [The Times](https://www.thetimes.co.uk/article/raise-a-glass-to-climate-change-until-you-can-t-gxpqlz3ks), [The Independent](https://www.independent.co.uk/news/science/bordeaux-andrew-wood-weather-university-of-oxford-france-b2427992.html), [Evening Standard](https://www.standard.co.uk/news/science/bordeaux-weather-university-of-oxford-france-experts-b1112881.html), [Daily Mail](https://www.dailymail.co.uk/sciencetech/article-12619357/Climate-change-making-wine-taste-BETTER-Warm-summers-wet-winters-yield-better-quality-vintages-study-finds.html), [National Geographic](https://www.nationalgeographic.com/environment/article/climate-change-french-wine-taste-better), [New Scientist](https://www.newscientist.com/article/2396693-climate-change-may-be-improving-the-quality-of-bordeaux-wines/) and many more) 
   
   <!-- <div data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.isci.2023.107954" data-hide-no-mentions="true" class="altmetric-embed" style="text-align: right" ></div> -->
 
@@ -352,7 +352,7 @@ h2, h3 {
 
 <br>
   
-  <object data="publications/Wood et al. 2023.pdf" type = "application/pdf" width = "100%" height = "400px" style="box-shadow: 3px 3px 3px gray;">
+  <object data="publications/Wood et al. 2023.pdf" type = "application/pdf" width = "100%" height = "325px" style="box-shadow: 3px 3px 3px gray;">
 </object>
   
 </details>
@@ -370,7 +370,7 @@ h2, h3 {
 
   <summary>
   
-  **10|** **Gascoigne SJL**, Rolph S, Sankey D, Nidadavolu N, Stell Pičman AS, Hernandez CM, Philpott MER, Salam A, Bernard C, Fenollosa E, Lee YJ, McLean J, Hetti Achchige Perera S, Spacey OG, Kajin M, Vinton AC, Archer CR, Burns JH, Buss DL, Caswell H, Che-Castaldo JP, Childs DZ, Capdevila P, Compagnoni A, Crone E, Ezard THG, Hodgson D, Knight TM, Jones OR, Jongejans E, McDonald J, Tenhumberg B, Thomas CC, Tyre AJ, Ramula S, Stott I, Tremblay RL, Wilson P, Vaupel JW, Salguero-Gómez R. 2023. A standard protocol to report discrete stage-structured demographic information. *Methods in Ecology & Evolution*, *14*(8), 2065-2083. ([link](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.14164))
+  10| **Gascoigne SJL**, Rolph S, Sankey D, Nidadavolu N, Stell Pičman AS, Hernandez CM, Philpott MER, Salam A, Bernard C, Fenollosa E, Lee YJ, McLean J, Hetti Achchige Perera S, Spacey OG, Kajin M, Vinton AC, Archer CR, Burns JH, Buss DL, Caswell H, Che-Castaldo JP, Childs DZ, Capdevila P, Compagnoni A, Crone E, Ezard THG, Hodgson D, Knight TM, Jones OR, Jongejans E, McDonald J, Tenhumberg B, Thomas CC, Tyre AJ, Ramula S, Stott I, Tremblay RL, Wilson P, Vaupel JW, Salguero-Gómez R. 2023. A standard protocol to report discrete stage-structured demographic information. *Methods in Ecology & Evolution*, *14*(8), 2065-2083. ([link](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.14164))
   
   
   </summary>
@@ -381,7 +381,7 @@ h2, h3 {
 
 <br>
   
-  <object data="publications/Gascoigne et al. 2023 Standard protocol.pdf" type = "application/pdf" width = "100%" height = "400px" style="box-shadow: 3px 3px 3px gray;">
+  <object data="publications/Gascoigne et al. 2023 Standard protocol.pdf" type = "application/pdf" width = "100%" height = "325px" style="box-shadow: 3px 3px 3px gray;">
 </object>
   
 </details>
@@ -399,7 +399,7 @@ h2, h3 {
 
   <summary>
   
-  **9|** Bernard C, Santos GS, Deere J, Rodriguez-Caro R, Capdevila P, Kusch E, **Gascoigne SJL**, Jackson J, Salguero-Gómez R. 2023. MOSAIC: A unified trait database to complement structured population models. *Scientific Data*, *10*(335). ([link](https://www.nature.com/articles/s41597-023-02070-w))
+  9| Bernard C, Santos GS, Deere J, Rodriguez-Caro R, Capdevila P, Kusch E, **Gascoigne SJL**, Jackson J, Salguero-Gómez R. 2023. MOSAIC: A unified trait database to complement structured population models. *Scientific Data*, *10*(335). ([link](https://www.nature.com/articles/s41597-023-02070-w))
 
 
   
@@ -411,7 +411,7 @@ h2, h3 {
 
 <br>
   
-  <object data="publications/Bernard et al. 2023.pdf" type = "application/pdf" width = "100%" height = "400px" style="box-shadow: 3px 3px 3px gray;">
+  <object data="publications/Bernard et al. 2023.pdf" type = "application/pdf" width = "100%" height = "325px" style="box-shadow: 3px 3px 3px gray;">
 </object>
   
 </details>
@@ -429,7 +429,7 @@ h2, h3 {
 
   <summary>
   
-  **8|** Vinton AC, **Gascoigne SJL**, Sepil I, Salguero-Gómez R. 2023. The importance of spatial and temporal structure in determining the interplay between plasticity and evolution. *Trends in Ecology & Evolution*, *38*(3), 221-223. ([link](https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(22)00335-4))
+  8| Vinton AC, **Gascoigne SJL**, Sepil I, Salguero-Gómez R. 2023. The importance of spatial and temporal structure in determining the interplay between plasticity and evolution. *Trends in Ecology & Evolution*, *38*(3), 221-223. ([link](https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(22)00335-4))
   
   </summary>
   
@@ -465,7 +465,7 @@ h2, h3 {
 
   <summary>
   
-  **7|** Vinton AC, **Gascoigne SJL**, Sepil I, Salguero-Gómez R. 2022. Plasticity’s role in adaptive evolution depends on environmental change components. *Trends in Ecology & Evolution*, *37*(12), 1067-1078. ([link](https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(22)00216-6))
+  7| Vinton AC, **Gascoigne SJL**, Sepil I, Salguero-Gómez R. 2022. Plasticity’s role in adaptive evolution depends on environmental change components. *Trends in Ecology & Evolution*, *37*(12), 1067-1078. ([link](https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(22)00216-6))
   
   </summary>
   
@@ -475,7 +475,7 @@ h2, h3 {
 
 <br>
   
-  <object data="publications/Vinton et al. 2022.pdf" type = "application/pdf" width = "100%" height = "400px" style="box-shadow: 3px 3px 3px gray;">
+  <object data="publications/Vinton et al. 2022.pdf" type = "application/pdf" width = "100%" height = "325px" style="box-shadow: 3px 3px 3px gray;">
 </object>
   
 </details>
@@ -493,7 +493,7 @@ h2, h3 {
 
   <summary>
   
-  **6|** Kapali GP, Callier V, **Gascoigne SJL**, Harrison JF, Shingleton AW. 2022. A steroid hormone regulates growth in response to oxygen availability. *Scientific Reports*, *12*(1), 1-10. ([link](https://www.nature.com/articles/s41598-022-08563-9))
+  6| Kapali GP, Callier V, **Gascoigne SJL**, Harrison JF, Shingleton AW. 2022. A steroid hormone regulates growth in response to oxygen availability. *Scientific Reports*, *12*(1), 1-10. ([link](https://www.nature.com/articles/s41598-022-08563-9))
   
   </summary>
   
@@ -503,7 +503,7 @@ h2, h3 {
 
 <br>
   
-  <object data="publications/Kapali et al. 2022.pdf" type = "application/pdf" width = "100%" height = "400px" style="box-shadow: 3px 3px 3px gray;">
+  <object data="publications/Kapali et al. 2022.pdf" type = "application/pdf" width = "100%" height = "325px" style="box-shadow: 3px 3px 3px gray;">
 </object>
   
 </details>
@@ -521,7 +521,7 @@ h2, h3 {
 
   <summary>
   
-  **5|** **Gascoigne SJL**, Uwera Nalukwago D, Barbosa F. 2022. Larval density, sex, and allocation hierarchy affect life-history trait covariances in a bean beetle. *The American Naturalist*, *199*(02). ([link](https://www.journals.uchicago.edu/doi/abs/10.1086/717639?journalCode=an))
+  5| **Gascoigne SJL**, Uwera Nalukwago D, Barbosa F. 2022. Larval density, sex, and allocation hierarchy affect life-history trait covariances in a bean beetle. *The American Naturalist*, *199*(02). ([link](https://www.journals.uchicago.edu/doi/abs/10.1086/717639?journalCode=an))
   
   </summary>
   
@@ -561,7 +561,7 @@ h2, h3 {
 
   <summary>
   
-  **4|** Salguero-Gómez R, Jackson J, **Gascoigne SJL**. 2021. Four key challenges in the open-data revolution. *Journal of Animal Ecology*, *90*(9), 2000-2004. ([link](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2656.13567))
+  4| Salguero-Gómez R, Jackson J, **Gascoigne SJL**. 2021. Four key challenges in the open-data revolution. *Journal of Animal Ecology*, *90*(9), 2000-2004. ([link](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2656.13567))
 
   </summary>
   
@@ -571,7 +571,7 @@ h2, h3 {
 
 <br>
   
-  <object data="publications/Salguero-Gomez et al. 2021.pdf" type = "application/pdf" width = "100%" height = "400px" style="box-shadow: 3px 3px 3px gray;">
+  <object data="publications/Salguero-Gomez et al. 2021.pdf" type = "application/pdf" width = "100%" height = "325px" style="box-shadow: 3px 3px 3px gray;">
 </object>
   
 </details>
@@ -597,7 +597,7 @@ h2, h3 {
 
   <summary>
   
-  **3|** Sandler A, Anderson J, Balaram A, Ganev Y, **Gascoigne SJL**, Gimondo C, Palmero B, Quraishi A, Rodriguez A, Said OS, Conrad W. 2020. Decitabine Treatment Demethylates Vast Majority of High-Confidence Differentially Methylated Regions In HCT-116 Colorectal Cancer. *F1000 Research*, *9*(886). ([link](https://f1000research.com/articles/9-886/v1?src=rss&utm_source=researcher_app&utm_medium=referral&utm_campaign=RESR_MRKT_Researcher_inbound))
+  3| Sandler A, Anderson J, Balaram A, Ganev Y, **Gascoigne SJL**, Gimondo C, Palmero B, Quraishi A, Rodriguez A, Said OS, Conrad W. 2020. Decitabine Treatment Demethylates Vast Majority of High-Confidence Differentially Methylated Regions In HCT-116 Colorectal Cancer. *F1000 Research*, *9*(886). ([link](https://f1000research.com/articles/9-886/v1?src=rss&utm_source=researcher_app&utm_medium=referral&utm_campaign=RESR_MRKT_Researcher_inbound))
   
   </summary>
   
@@ -607,7 +607,7 @@ h2, h3 {
 
 <br>
   
-  <object data="publications/Sandler et al. 2020.pdf" type = "application/pdf" width = "100%" height = "400px" style="box-shadow: 3px 3px 3px gray;">
+  <object data="publications/Sandler et al. 2020.pdf" type = "application/pdf" width = "100%" height = "325px" style="box-shadow: 3px 3px 3px gray;">
 </object>
   
 </details>
@@ -627,7 +627,7 @@ h2, h3 {
 
   <summary>
   
-  **2|** McDonald JMC, Ghosh SM, **Gascoigne SJL**, Shingleton AW. 2018. Plasticity through canalization: The contrasting effect of temperature on trait size and growth in Drosophila. *Frontiers in Cell and Developmental Biology*, *6*(156). ([link](https://www.frontiersin.org/articles/10.3389/fcell.2018.00156/full))
+  2| McDonald JMC, Ghosh SM, **Gascoigne SJL**, Shingleton AW. 2018. Plasticity through canalization: The contrasting effect of temperature on trait size and growth in Drosophila. *Frontiers in Cell and Developmental Biology*, *6*(156). ([link](https://www.frontiersin.org/articles/10.3389/fcell.2018.00156/full))
     
   </summary>
   
@@ -637,7 +637,7 @@ h2, h3 {
 
 <br>
   
-  <object data="publications/McDonald et al. 2018.pdf" type = "application/pdf" width = "100%" height = "400px" style="box-shadow: 3px 3px 3px gray;">
+  <object data="publications/McDonald et al. 2018.pdf" type = "application/pdf" width = "100%" height = "325px" style="box-shadow: 3px 3px 3px gray;">
 </object>
   
 </details>
@@ -655,7 +655,7 @@ h2, h3 {
 
   <summary>
   
-  **1|** Abeysiriwardena NM, **Gascoigne SJL**, Anandappa A. 2018. Algal bloom expansion increases cyanotoxin risk in food. *Yale Journal of Biology and Medicine*, *91*(2), 129-142. ([link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6020737/))
+  1| Abeysiriwardena NM, **Gascoigne SJL**, Anandappa A. 2018. Algal bloom expansion increases cyanotoxin risk in food. *Yale Journal of Biology and Medicine*, *91*(2), 129-142. ([link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6020737/))
   
   </summary>
   
@@ -665,7 +665,7 @@ h2, h3 {
 
 <br>
   
-  <object data="publications/Abeysiriwardena et al. 2018.pdf" type = "application/pdf" width = "100%" height = "400px" style="box-shadow: 3px 3px 3px gray;">
+  <object data="publications/Abeysiriwardena et al. 2018.pdf" type = "application/pdf" width = "100%" height = "325px" style="box-shadow: 3px 3px 3px gray;">
 </object>
   
 </details>
