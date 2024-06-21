@@ -26,7 +26,7 @@ h2, h3 {
 
 <br>
 
-**Manuscripts: 22 total, 13 published, 9 under review**
+**Manuscripts: 23 total, 13 published, 10 under review**
 
 **[Google Scholar](https://scholar.google.com/citations?user=vQzYzlAAAAAJ&hl=en): h-index = 5**
 
@@ -51,7 +51,23 @@ h2, h3 {
 <details>
   <summary>
   
-  22| Noble DWA, Zoe A, Xirocostas ZA, Wu NC, Martinig AR, Almeida RA, Bairos-Novak KR, Heikel Balti H, Bertram MG, Bliard L, Brand JA, Byrne I, Chan YC, Clink DJ, Corbel Q, Correia RA, Crawford-Ash J, Culina A, D’Bastiani E, Deme GG, de Souza Leite M, Dhellemmes F, Dimri S, Drobniak SM, Elsy AD, Everingham SE, **Gascoigne SJL**, Grainger MJ, Hossack GC, Hovstad KA, Ivimey-Cook ER, Jones ML, Kačergytė I, Küstner G, Leibold DC, Mair MM, Martin J, Mizuno A, Moodie IR, Moreau D, O’Dea RE, Orr JA, Paquet M, Parajuli R, Pick JL, Pottier P, Purgar M, Recio P, Roche DG, Royauté R, Sabet SS, Segovia JMG, Silva I, Sánchez-Tójar A, Soares BE, Szabo B, Takola E, Thoré ESJ, Timilsina B, van Dis NE, Verberk WCEP, Vriend SJG, Wild KH, Williams C, Yang Y, Nakagawa S, Malgorzata Lagisz M. The promise of community-driven preprints in ecology and evolution. *PLoS Biology*. Under review. ([preprint link](https://ecoevorxiv.org/repository/view/7239/))
+  23| Xiao-Lu ST, Yu-Kun H, Katriona S, **Gascoigne SJL**, Qing W, Li-Chen T, Dan-Dan L, Li SL. Germination time affects the responses of seedlings to variation in rainfall. *Annals of Botany*. Under review.
+  
+  </summary>
+  <br>
+  
+  <span style="color: #8B0000;">*Our study demonstrates that germination timing may strongly affect the responses of seedlings to rainfall variation, suggesting that plants with flexible germination timing may better adapt to rainfall fluctuations, and thus more suitable for desert vegetation restoration under climate change. *</span>
+
+<br>
+  
+</details>
+
+<br>
+
+<details>
+  <summary>
+  
+  22| Noble DWA, Zoe A, Xirocostas ZA, Wu NC, Martinig AR, Almeida RA, Bairos-Novak KR, Heikel Balti H, Bertram MG, Bliard L, Brand JA, Byrne I, Chan YC, Clink DJ, Corbel Q, Correia RA, Crawford-Ash J, Culina A, D’Bastiani E, Deme GG, de Souza Leite M, Dhellemmes F, Dimri S, Drobniak SM, Elsy AD, Everingham SE, **Gascoigne SJL**, Grainger MJ, Hossack GC, Hovstad KA, Ivimey-Cook ER, Jones ML, Kačergytė I, Küstner G, Leibold DC, Mair MM, Martin J, Mizuno A, Moodie IR, Moreau D, O’Dea RE, Orr JA, Paquet M, Parajuli R, Pick JL, Pottier P, Purgar M, Recio P, Roche DG, Royauté R, Sabet SS, Segovia JMG, Silva I, Sánchez-Tójar A, Soares BE, Szabo B, Takola E, Thoré ESJ, Timilsina B, van Dis NE, Verberk WCEP, Vriend SJG, Wild KH, Williams C, Yang Y, Nakagawa S, Malgorzata Lagisz M. The promise of community-driven preprints in ecology and evolution. *Proceedings of the Royal Society B*. Under review. ([preprint link](https://ecoevorxiv.org/repository/view/7239/))
   
   </summary>
   <br>
