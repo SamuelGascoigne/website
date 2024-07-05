@@ -51,6 +51,26 @@ h2, h3 {
 <details>
   <summary>
   
+  24| Sanghvi K, Shandilya S, Brown A, Todorova B, Jahn M,Gascoigne SJL, Camilleri TL, Pizzari T, Sepil I. Reproductive output of old polygynous males is limited by seminal fluid, not sperm number. *Evolution*. Under review.
+  
+  </summary>
+  <br>
+  
+  <span style="color: #8B0000;">*Our study demonstrates that seminal fluid is the limiting resource for multiple mating males - not sperm number.*</span>
+
+<br>
+
+<object data="publications/Sanghvi et al. 2024 seminal fluid.pdf" type = "application/pdf" width = "100%" height = "325px" style="box-shadow: 3px 3px 3px gray;">
+</object>
+  
+  
+</details>
+
+<br>
+
+<details>
+  <summary>
+  
   23| Xiao-Lu ST, Yu-Kun H, Katriona S, **Gascoigne SJL**, Qing W, Li-Chen T, Dan-Dan L, Li SL. Germination time affects the responses of seedlings to variation in rainfall. *Annals of Botany*. Under review.
   
   </summary>
