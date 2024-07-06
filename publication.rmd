@@ -51,7 +51,7 @@ h2, h3 {
 <details>
   <summary>
   
-  24| Sanghvi K, Shandilya S, Brown A, Todorova B, Jahn M, **Gascoigne SJL**, Camilleri TL, Pizzari T, Sepil I. Reproductive output of old polygynous males is limited by seminal fluid, not sperm number. *Evolution*. Under review.
+  24| Sanghvi K, Shandilya S, Brown A, Todorova B, Jahn M, **Gascoigne SJL**, Camilleri TL, Pizzari T, Sepil I. Reproductive output of old polygynous males is limited by seminal fluid, not sperm number. *Proceedings of the National Academy of Sciences*. Under review.
   
   </summary>
   <br>
