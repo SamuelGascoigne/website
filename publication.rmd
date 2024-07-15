@@ -26,7 +26,7 @@ h2, h3 {
 
 <br>
 
-**Manuscripts: 24 total, 13 published, 11 under review**
+**Manuscripts: 25 total, 13 published, 12 under review**
 
 **[Google Scholar](https://scholar.google.com/citations?user=vQzYzlAAAAAJ&hl=en): h-index = 5**
 
@@ -45,6 +45,24 @@ h2, h3 {
 
 
 ## Under review
+
+<br>
+
+<details>
+  <summary>
+  
+  25| Santos GS, Yang X, **Gascoigne SJL**, Compagnoni A, Dias ATC, Tuljapurkar S, Kajin M, Salguero-Gómez R. Population responses to environmental stochasticity are primarily driven by survival-reproduction trade-offs and mediated by aridity. *Nature*. Under review.
+  
+  </summary>
+  <br>
+  
+  <span style="color: #8B0000;">*Our study builds on previous work using the summation of stochastic elasticities of variance. Here, we show demographic buffering is driven by life history trade-offs and degree of climate aridity.*</span>
+
+<br>
+  
+  
+</details>
+
 
 <br>
 
