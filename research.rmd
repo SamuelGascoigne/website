@@ -14,7 +14,7 @@ knitr::opts_chunk$set(echo = TRUE)
 body {
 text-align: justify}
 
-h2 {
+h3 {
   text-align: center;
 }
 
@@ -32,9 +32,35 @@ h2 {
 
 <br>
 
-## How do populations respond to variance across *time*?
+### How do populations respond to variance across *time*?
 
-### Relevant publications
+<br>
+
+One of the main threats to populations in a changing world is environmental stochasticity - *i.e.*, the variation in environments across timesteps. Importantly, current climate projections predict increased environmental stochasticity in ecosystems hosting the greatest biodiversity - *e.g.*, the tropics (see Bathiany *et al*. 2019). In turn, over the past four years I have been researching (1) how to measure the sensitivity of populations to environmental stochasticity and (2) what mechanisms underly this sensitivity.
+
+To quantify the impact of environmental stochasticity on populations, my collaborators and I have honed in on the summation of stochastic elasticities of variance, $\sum E^{\sigma^2}_{a_{ij}}$. Whilst its name is a bit verbose and mathematical notation a bit obtuse, $\sum E^{\sigma^2}_{a_{ij}}$ is actually quite simple. In short, $\sum E^{\sigma^2}_{a_{ij}}$ is calculated by (1) performing proportional perturbations to the temporal variation of each demographic rate (*e.g.*, survival-dependent state transitions, fertility) individually, (2) calculating the impact of each of these perturbations on the stochastic population growth rate $\left( \lambda_s \right)$ and (3) adding all of these partial/marginal effects together. In turn, $\sum{E^{\sigma^2}_{a_{ij}}}$ measures the ability of a population's collection of demographic rates to buffer/not buffer the effects of environmental stochasticity - termed *demographic buffering*.
+
+Much of my recent work has been on demographic buffering in particular; how do we measure demographic buffering and what mechanisms underly this strategy.
+
+<br>
+
+**Collaborators:** [Rob Salguero-Gómez](https://www.salgo.ox.ac.uk/people/dr-rob-salguero-gomez), [Irem Sepil](https://www.salgo.ox.ac.uk/people/dr-rob-salguero-gomez),[Maya Kajin](https://www.salgo.ox.ac.uk/people/dr-rob-salguero-gomez), [Gabriel Santos](https://www.salgo.ox.ac.uk/people/dr-rob-salguero-gomez), [Shripad Tuljapurkar](https://www.salgo.ox.ac.uk/people/dr-rob-salguero-gomez), [Aldo Compagnoni](https://www.salgo.ox.ac.uk/people/dr-rob-salguero-gomez)
+
+<br>
+
+#### Relevant publications
+
+Santos GS, Yang X, **Gascoigne SJL**, Compagnoni A, Dias ATC, Tuljapurkar S, Kajin M, Salguero-Gómez R. Population responses to environmental stochasticity are primarily driven by survival-reproduction trade-offs and mediated by aridity. *Nature*. Under review.
+
+**Gascoigne SJL**, Kajin M, Sepil I, Salguero-Gómez R. Testing for efficacy in four measures of demographic buffering. *Methods in Ecology & Evolution*. Under review. ([preprint link](https://ecoevorxiv.org/repository/view/7207/))
+
+Tuljapurkar SD, Jaggi H, **Gascoigne SJL**, Zuo W, Kajin M, Salguero-Gómez R. From disturbances to nonlinear fitness and back. *Ecology*. Under review. ([preprint link](https://www.biorxiv.org/content/10.1101/2023.10.20.563360v2.abstract))
+
+**Gascoigne SJL**, Kajin M, Tuljapurkar SD, Santos GS, Compagnoni A, Steiner UK, Vinton AC, Jaggi H, Sepil I, Salguero-Gómez R. Structured demographic buffering: A framework to explore the environment drivers and demographic mechanisms underlying demographic buffering. *Ecology Letters*. Under review.  ([preprint link](https://www.biorxiv.org/content/10.1101/2023.07.20.549848v1.abstract))
+
+Santos GS #, **Gascoigne SJL #**, Dias ATC, Kajin M, Salguero-Gómez R. A unified framework to identify demographic buffering in natural populations. *Ecology Letters*. Under review. ([preprint link](https://www.biorxiv.org/content/10.1101/2023.07.03.547528v1.abstract))
+
+**Gascoigne SJL**, Kajin M, Salguero-Gómez R. 2023. Criteria for buffering in ecological modelling. *Trends in Ecology & Evolution*. *39*(2), 116-118. ([link](https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(23)00323-3))  
 
 <br>
 
@@ -43,6 +69,10 @@ h2 {
 <br>
 
 ## How do populations respond to variance across *space*?
+
+
+
+
 
 ### Relevant publications
 

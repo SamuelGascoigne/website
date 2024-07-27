@@ -51,7 +51,7 @@ h2, h3 {
 <details>
   <summary>
   
-  25| Santos GS, Yang X, **Gascoigne SJL**, Compagnoni A, Dias ATC, Tuljapurkar S, Kajin M, Salguero-Gómez R. Population responses to environmental stochasticity are primarily driven by survival-reproduction trade-offs and mediated by aridity. *Nature*. Under review.
+  25| Santos GS, Yang X, **Gascoigne SJL**, Compagnoni A, Dias ATC, Tuljapurkar S, Kajin M, Salguero-Gómez R. Population responses to environmental stochasticity are primarily driven by survival-reproduction trade-offs and mediated by aridity. *Nature*. Under review. ([preprint link](https://www.biorxiv.org/content/10.1101/2024.07.24.604949v1))
   
   </summary>
   <br>
@@ -59,6 +59,9 @@ h2, h3 {
   <span style="color: #8B0000;">*Our study builds on previous work using the summation of stochastic elasticities of variance. Here, we show demographic buffering is driven by life history trade-offs and degree of climate aridity.*</span>
 
 <br>
+
+<object data="publications/Santos et al. 2024.pdf" type = "application/pdf" width = "100%" height = "325px" style="box-shadow: 3px 3px 3px gray;">
+</object>
   
   
 </details>
@@ -69,7 +72,7 @@ h2, h3 {
 <details>
   <summary>
   
-  24| Sanghvi K, Shandilya S, Brown A, Todorova B, Jahn M, **Gascoigne SJL**, Camilleri TL, Pizzari T, Sepil I. Reproductive output of old polygynous males is limited by seminal fluid, not sperm number. *Proceedings of the National Academy of Sciences*. Under review.
+  24| Sanghvi K, Shandilya S, Brown A, Todorova B, Jahn M, **Gascoigne SJL**, Camilleri TL, Pizzari T, Sepil I. Reproductive output of old polygynous males is limited by seminal fluid, not sperm number. *Proceedings of the National Academy of Sciences*. Under review. ([preprint link](https://www.biorxiv.org/content/10.1101/2024.07.02.601670v1))
   
   </summary>
   <br>
