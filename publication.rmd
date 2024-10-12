@@ -26,9 +26,9 @@ h2, h3 {
 
 <br>
 
-**Manuscripts: 25 total, 13 published, 12 under review**
+**Manuscripts: 28 total, 13 published, 15 under review**
 
-**[Google Scholar](https://scholar.google.com/citations?user=vQzYzlAAAAAJ&hl=en): h-index = 5**
+**[Google Scholar](https://scholar.google.com/citations?user=vQzYzlAAAAAJ&hl=en): h-index = 6**
 
 **Also see profiles on [ResearchGate](https://www.researchgate.net/profile/Samuel-Gascoigne), [Web of Science](https://www.webofscience.com/wos/author/record/ITV-8261-2023?state=%7B%7D) and [ORCID](https://orcid.org/0000-0002-2984-1810)**
 
@@ -45,6 +45,60 @@ h2, h3 {
 
 
 ## Under review
+
+<br>
+
+<details>
+  <summary>
+  
+  28| Gupta A, **Gascoigne SJL**, Barabás G, Qi M, Fenollosa E, Thornley R, Hernández C, Hector A, Salguero-Gómez R. Variation in precipitation drives differences in short-term transient instability between grassland functional groups: A stage structured community approach. *Ecology Letters*. Under review. ([preprint link](https://www.biorxiv.org/content/10.1101/2024.10.07.617067v1))
+  
+  </summary>
+  <br>
+  
+  <span style="color: #8B0000;">*Our study shows how precipitation can lead to transient instability in grassland communities.*</span>
+
+<br>
+
+<object data="publications/Gupta et al. 2024.pdf" type = "application/pdf" width = "100%" height = "325px" style="box-shadow: 3px 3px 3px gray;">
+</object>
+
+</details>
+
+<br>
+
+<details>
+  <summary>
+  
+  27| Li D, Hu Y, Salguero-Gómez R, **Gascoigne SJL**, Qing W, Meisi R, Weiwei X, Wei W, Haitao M, Li S. Clonal integration differentially impacts grassland plants under simulated homogeneous and heterogeneous grazing. *Journal of Applied Ecology*. Under review.
+  
+  </summary>
+  <br>
+  
+  <span style="color: #8B0000;">*Our study shows that clonal integration and heterogenous grazing behaviours can lead to increased productivity in a grassland species.*</span>
+
+
+</details>
+
+<br>
+
+<details>
+  <summary>
+  
+  26| Sanghvi K, **Gascoigne SJL**, Todorova B, Vega-Trejo R, Pizzari T, Sepil I. No evidence for paternal age effects on sons or
+daughters, when accounting for paternal sperm storage. *Functional Ecology*. Under review. ([preprint link](https://www.biorxiv.org/content/10.1101/2024.09.19.613916v1.abstract))
+  
+  </summary>
+  <br>
+  
+  <span style="color: #8B0000;">*Our study implicates sperm age as a primary driver of male age related declines in sperm performance in Drosophila melanogaster.*</span>
+
+<br>
+
+<object data="publications/Sanghvi et al. 2024 sperm age.pdf" type = "application/pdf" width = "100%" height = "325px" style="box-shadow: 3px 3px 3px gray;">
+</object>
+
+</details>
 
 <br>
 
@@ -349,24 +403,12 @@ h2, h3 {
 <br>
 <br>
 
-<br>
-
----
-
-<br>
-
-
-
-## 2023
-
-<br>
-
 
 <details>
 
   <summary>
   
-  12| **Gascoigne SJL**, Kajin M, Salguero-Gómez R. 2023. Criteria for buffering in ecological modelling. *Trends in Ecology & Evolution*. *39*(2), 116-118. ([link](https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(23)00323-3))  
+  12| **Gascoigne SJL**, Kajin M, Salguero-Gómez R. 2024. Criteria for buffering in ecological modelling. *Trends in Ecology & Evolution*. *39*(2), 116-118. ([link](https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(23)00323-3))  
 
 
 
@@ -390,6 +432,18 @@ h2, h3 {
 <br>
 <br>
 <br>
+
+<br>
+
+---
+
+<br>
+
+
+
+## 2023
+
+
 
 <details>
 
