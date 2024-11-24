@@ -26,11 +26,11 @@ h2, h3 {
 
 <br>
 
-**Manuscripts: 28 total, 13 published, 15 under review**
+**Manuscripts: 29 total, 13 published, 1 in press, 15 under review**
 
 **[Google Scholar](https://scholar.google.com/citations?user=vQzYzlAAAAAJ&hl=en): h-index = 6**
 
-**Also see profiles on [ResearchGate](https://www.researchgate.net/profile/Samuel-Gascoigne), [Web of Science](https://www.webofscience.com/wos/author/record/ITV-8261-2023?state=%7B%7D) and [ORCID](https://orcid.org/0000-0002-2984-1810)**
+**Also see profiles on [ResearchGate](https://www.researchgate.net/profile/Samuel-Gascoigne), [Web of Science](https://www.webofscience.com/wos/author/record/ITV-8261-2023?state=%7B%7D), [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57202744858&origin=resultslist) and [ORCID](https://orcid.org/0000-0002-2984-1810)**
 
 
 **# = shared first authorship**
@@ -45,6 +45,22 @@ h2, h3 {
 
 
 ## Under review
+
+<br>
+
+<details>
+  <summary>
+  
+  29| Morrison C, Scherer C, O'Callaghan E, Layton C, Boisvert C, Aranciaga-Rolando M, Durrant L Salas P, Allain S, **Gascoigne SJL**. Rise of the King: Gondwanan Origins and Evolution of Megaraptoran Dinosaurs. *Science*. Under review.
+  
+  </summary>
+  <br>
+  
+  <span style="color: #8B0000;">*Using biogeogrpahical models, we show Megaraptorans may have had a cosmopolitan distribution prior to the splitting of Laurasia and Gondwana. Also, gigantism in these clades may be associated with climatic shifts in the Late Cretaceous.*</span>
+
+<br>
+
+</details>
 
 <br>
 
@@ -340,16 +356,19 @@ daughters, when accounting for paternal sperm storage. *Functional Ecology*. Und
 
 <br>
 
+---
 
+<br>
 
+## In Press
 
-
+<br>
 
 <details>
 
   <summary>
   
-  14| Veit W, **Gascoigne SJL**, Salguero-Gómez R. Evolution, complexity, and life history theory. *Biological Theory*. Under review.  ([preprint link](http://philsci-archive.pitt.edu/21810/))
+  14| Veit W, **Gascoigne SJL**, Salguero-Gómez R. Evolution, complexity, and life history theory. *Biological Theory*. In Press.  ([preprint link](http://philsci-archive.pitt.edu/21810/))
   
   </summary>
   
@@ -374,6 +393,7 @@ daughters, when accounting for paternal sperm storage. *Functional Ecology*. Und
 ## 2024
 
 <br>
+
 
 <details>
 
