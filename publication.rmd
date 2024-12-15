@@ -26,7 +26,7 @@ h2, h3 {
 
 <br>
 
-**Manuscripts: 29 total, 13 published, 2 in press, 14 under review**
+**Manuscripts: 30 total, 13 published, 2 in press, 15 under review**
 
 **[Google Scholar](https://scholar.google.com/citations?user=vQzYzlAAAAAJ&hl=en): h-index = 6**
 
@@ -45,6 +45,22 @@ h2, h3 {
 
 
 ## Under review
+
+<br>
+
+<details>
+  <summary>
+  
+  30| Zurell D, Bocedi G, Santiago JEV, Gonzalez A, Purvis A, Wintle B, Merow C, Lundquist C, Guillera-Arriota G, Settele J, Serra-Diaz JM, Cabral JS, Travis JMJ, Schifferle K, Buckley L, Briscoe NJ, Isaac NJB, Peres-Neto PR, Keuth R, **Gascoigne SJL**, Ferrier S, Urban MC. Predicting the way forward for the Global Biodiversity Framework. *Science*. Under review.
+  
+  </summary>
+  <br>
+  
+  <span style="color: #8B0000;">*Here, we make a pitch for the introduction of predictive modelling as a key component for the coordination and facilitation of the goals set in the Kunming-Montreal Global Biodiversity Framework.*</span>
+
+<br>
+
+</details>
 
 <br>
 
