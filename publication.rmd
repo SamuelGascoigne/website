@@ -26,7 +26,7 @@ h2, h3 {
 
 <br>
 
-**Manuscripts: 30 total, 13 published, 2 in press, 15 under review**
+**Manuscripts: 30 total, 13 published, 3 in press, 14 under review**
 
 **[Google Scholar](https://scholar.google.com/citations?user=vQzYzlAAAAAJ&hl=en): h-index = 6**
 
@@ -155,30 +155,12 @@ daughters, when accounting for paternal sperm storage. *Functional Ecology*. Und
 
 <br>
 
-<details>
-  <summary>
-  
-  24| Sanghvi K, Shandilya S, Brown A, Todorova B, Jahn M, **Gascoigne SJL**, Camilleri TL, Pizzari T, Sepil I. Reproductive output of old polygynous males is limited by seminal fluid, not sperm number. *Proceedings of the National Academy of Sciences*. Under review. ([preprint link](https://www.biorxiv.org/content/10.1101/2024.07.02.601670v1))
-  
-  </summary>
-  <br>
-  
-  <span style="color: #8B0000;">*Our study demonstrates that seminal fluid is the limiting resource for multiple mating males - not sperm number.*</span>
 
-<br>
-
-<object data="publications/Sanghvi et al. 2024 seminal fluid.pdf" type = "application/pdf" width = "100%" height = "325px" style="box-shadow: 3px 3px 3px gray;">
-</object>
-  
-  
-</details>
-
-<br>
 
 <details>
   <summary>
   
-  23| Xiao-Lu ST, Yu-Kun H, Katriona S, **Gascoigne SJL**, Qing W, Li-Chen T, Dan-Dan L, Li SL. Germination time affects the responses of seedlings to variation in rainfall. *Annals of Botany*. Under review.
+  24| Xiao-Lu ST, Yu-Kun H, Katriona S, **Gascoigne SJL**, Qing W, Li-Chen T, Dan-Dan L, Li SL. Germination time affects the responses of seedlings to variation in rainfall. *Annals of Botany*. Under review.
   
   </summary>
   <br>
@@ -194,7 +176,7 @@ daughters, when accounting for paternal sperm storage. *Functional Ecology*. Und
 <details>
   <summary>
   
-  22| Noble DWA, Zoe A, Xirocostas ZA, Wu NC, Martinig AR, Almeida RA, Bairos-Novak KR, Heikel Balti H, Bertram MG, Bliard L, Brand JA, Byrne I, Chan YC, Clink DJ, Corbel Q, Correia RA, Crawford-Ash J, Culina A, D’Bastiani E, Deme GG, de Souza Leite M, Dhellemmes F, Dimri S, Drobniak SM, Elsy AD, Everingham SE, **Gascoigne SJL**, Grainger MJ, Hossack GC, Hovstad KA, Ivimey-Cook ER, Jones ML, Kačergytė I, Küstner G, Leibold DC, Mair MM, Martin J, Mizuno A, Moodie IR, Moreau D, O’Dea RE, Orr JA, Paquet M, Parajuli R, Pick JL, Pottier P, Purgar M, Recio P, Roche DG, Royauté R, Sabet SS, Segovia JMG, Silva I, Sánchez-Tójar A, Soares BE, Szabo B, Takola E, Thoré ESJ, Timilsina B, van Dis NE, Verberk WCEP, Vriend SJG, Wild KH, Williams C, Yang Y, Nakagawa S, Malgorzata Lagisz M. The promise of community-driven preprints in ecology and evolution. *Proceedings of the Royal Society B*. Under review. ([preprint link](https://ecoevorxiv.org/repository/view/7239/))
+  23| Noble DWA, Zoe A, Xirocostas ZA, Wu NC, Martinig AR, Almeida RA, Bairos-Novak KR, Heikel Balti H, Bertram MG, Bliard L, Brand JA, Byrne I, Chan YC, Clink DJ, Corbel Q, Correia RA, Crawford-Ash J, Culina A, D’Bastiani E, Deme GG, de Souza Leite M, Dhellemmes F, Dimri S, Drobniak SM, Elsy AD, Everingham SE, **Gascoigne SJL**, Grainger MJ, Hossack GC, Hovstad KA, Ivimey-Cook ER, Jones ML, Kačergytė I, Küstner G, Leibold DC, Mair MM, Martin J, Mizuno A, Moodie IR, Moreau D, O’Dea RE, Orr JA, Paquet M, Parajuli R, Pick JL, Pottier P, Purgar M, Recio P, Roche DG, Royauté R, Sabet SS, Segovia JMG, Silva I, Sánchez-Tójar A, Soares BE, Szabo B, Takola E, Thoré ESJ, Timilsina B, van Dis NE, Verberk WCEP, Vriend SJG, Wild KH, Williams C, Yang Y, Nakagawa S, Malgorzata Lagisz M. The promise of community-driven preprints in ecology and evolution. *Proceedings of the Royal Society B*. Under review. ([preprint link](https://ecoevorxiv.org/repository/view/7239/))
   
   </summary>
   <br>
@@ -213,7 +195,7 @@ daughters, when accounting for paternal sperm storage. *Functional Ecology*. Und
 <details>
   <summary>
   
-  21| **Gascoigne SJL**, Kajin M, Sepil I, Salguero-Gómez R. Testing for efficacy in four measures of demographic buffering. *Methods in Ecology & Evolution*. Under review. ([preprint link](https://ecoevorxiv.org/repository/view/7207/))
+  22| **Gascoigne SJL**, Kajin M, Sepil I, Salguero-Gómez R. Testing for efficacy in four measures of demographic buffering. *Methods in Ecology & Evolution*. Under review. ([preprint link](https://ecoevorxiv.org/repository/view/7207/))
   
   </summary>
   <br>
@@ -232,7 +214,7 @@ daughters, when accounting for paternal sperm storage. *Functional Ecology*. Und
 <details>
   <summary>
   
-  20| Huang Y, Wu C, Huang W, Liu Y, Qi M, Bai J, Dong Y, **Gascoigne SJL**, Ciais P, Peñuelas J, Salguero-Gómez R. Climate change has desynchronized insect and vegetation phenologies across Europe. *Nature Communications*. Under review. ([preprint link](https://www.biorxiv.org/content/10.1101/2023.12.11.571152v1.abstract))
+  21| Huang Y, Wu C, Huang W, Liu Y, Qi M, Bai J, Dong Y, **Gascoigne SJL**, Ciais P, Peñuelas J, Salguero-Gómez R. Climate change has desynchronized insect and vegetation phenologies across Europe. *Global Change Biology*. Under review. ([preprint link](https://www.biorxiv.org/content/10.1101/2023.12.11.571152v1.abstract))
   
   </summary>
   <br>
@@ -252,7 +234,7 @@ daughters, when accounting for paternal sperm storage. *Functional Ecology*. Und
 <details>
   <summary>
   
-  19| Tuljapurkar SD, Jaggi H, **Gascoigne SJL**, Zuo W, Kajin M, Salguero-Gómez R. From disturbances to nonlinear fitness and back. *Ecology*. Under review. ([preprint link](https://www.biorxiv.org/content/10.1101/2023.10.20.563360v2.abstract))
+  20| Tuljapurkar SD, Jaggi H, **Gascoigne SJL**, Zuo W, Kajin M, Salguero-Gómez R. From disturbances to nonlinear fitness and back. *Ecology*. Under review. ([preprint link](https://www.biorxiv.org/content/10.1101/2023.10.20.563360v2.abstract))
   
   </summary>
   <br>
@@ -278,7 +260,7 @@ daughters, when accounting for paternal sperm storage. *Functional Ecology*. Und
 
   <summary>
   
-  18| **Gascoigne SJL**, Rosen A, Sanghvi K, Compagnoni A, Steiner UK, Bocedi G, Sepil I. Current perspectives and future directions in animal life history evolution. *Journal of Animal Ecology*. Under review. ([preprint link](https://www.authorea.com/users/657075/articles/670780-current-perspectives-and-future-directions-in-animal-life-history-evolution))
+  19| **Gascoigne SJL**, Rosen A, Sanghvi K, Compagnoni A, Steiner UK, Bocedi G, Sepil I. Current perspectives and future directions in animal life history evolution. *Journal of Animal Ecology*. Under review. ([preprint link](https://www.authorea.com/users/657075/articles/670780-current-perspectives-and-future-directions-in-animal-life-history-evolution))
   
   </summary>
   
@@ -304,7 +286,7 @@ daughters, when accounting for paternal sperm storage. *Functional Ecology*. Und
 
   <summary>
   
-  17| Uwera Nalukwago D, **Gascoigne SJL**, DeFoe B, Barbosa F. A proximate mechanism for evolutionary trade-offs in the bean beetle Callosobruchus maculatus. *Evolution*. Under review.
+  18| Uwera Nalukwago D, **Gascoigne SJL**, DeFoe B, Barbosa F. A proximate mechanism for evolutionary trade-offs in the bean beetle Callosobruchus maculatus. *Evolution*. Under review.
   
   </summary>
   
@@ -326,7 +308,7 @@ daughters, when accounting for paternal sperm storage. *Functional Ecology*. Und
 
   <summary>
   
-  16| Santos GS #, **Gascoigne SJL #**, Dias ATC, Kajin M, Salguero-Gómez R. A unified framework to identify demographic buffering in natural populations. *Ecology Letters*. Under review. ([preprint link](https://www.biorxiv.org/content/10.1101/2023.07.03.547528v1.abstract))
+  17| Santos GS #, **Gascoigne SJL #**, Dias ATC, Kajin M, Salguero-Gómez R. A unified framework to identify demographic buffering in natural populations. *Ecology Letters*. Under review. ([preprint link](https://www.biorxiv.org/content/10.1101/2023.07.03.547528v1.abstract))
   
   </summary>
   
@@ -348,6 +330,26 @@ daughters, when accounting for paternal sperm storage. *Functional Ecology*. Und
 <br>
 
 ## In Press
+
+<br>
+
+<details>
+  <summary>
+  
+  16| Sanghvi K, Shandilya S, Brown A, Todorova B, Jahn M, **Gascoigne SJL**, Camilleri TL, Pizzari T, Sepil I. Reproductive output of old polygynous males is limited by seminal fluid, not sperm number. *Evolution Letters*. In press. ([preprint link](https://www.biorxiv.org/content/10.1101/2024.07.02.601670v1))
+  
+  </summary>
+  <br>
+  
+  <span style="color: #8B0000;">*Our study demonstrates that seminal fluid is the limiting resource for multiple mating males - not sperm number.*</span>
+
+<br>
+
+<object data="publications/Sanghvi et al. 2024 seminal fluid.pdf" type = "application/pdf" width = "100%" height = "325px" style="box-shadow: 3px 3px 3px gray;">
+</object>
+  
+  
+</details>
 
 <br>
 
