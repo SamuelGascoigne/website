@@ -26,7 +26,7 @@ h2, h3 {
 
 <br>
 
-**Manuscripts: 30 total, 13 published, 4 in press, 13 under review**
+**Manuscripts: 31 total, 14 published, 3 in press, 14 under review**
 
 **[Google Scholar](https://scholar.google.com/citations?user=vQzYzlAAAAAJ&hl=en): h-index = 6**
 
@@ -51,6 +51,23 @@ h2, h3 {
 <details>
   <summary>
   
+  31| Rosen A, Battison R, Hernández C, Spacey O, McLean J, Prober S, **Gascoigne SJL**, McMahon S, Jucker T, Salguero-Gómez. Modelling forest dynamics using integral projection models (IPMs) and repeat LiDAR. *Methods in Ecology & Evolution*. Under review.
+
+  
+  </summary>
+  <br>
+  
+  <span style="color: #8B0000;">*Here, we demonstrate a pipeline for constructing structured population models, in the form of IPMs, from repeat LiDAR data for tree populations.*</span>
+
+<br>
+
+</details>
+
+<br>
+
+<details>
+  <summary>
+  
   30| Zurell D, Bocedi G, Santiago JEV, Gonzalez A, Purvis A, Wintle B, Merow C, Lundquist C, Guillera-Arriota G, Settele J, Serra-Diaz JM, Cabral JS, Travis JMJ, Schifferle K, Buckley L, Briscoe NJ, Isaac NJB, Peres-Neto PR, Keuth R, **Gascoigne SJL**, Ferrier S, Urban MC. Predicting the way forward for the Global Biodiversity Framework. *Science*. Under review.
   
   </summary>
@@ -67,7 +84,7 @@ h2, h3 {
 <details>
   <summary>
   
-  29| Morrison C, Scherer C, O'Callaghan E, Layton C, Boisvert C, Aranciaga-Rolando M, Durrant L Salas P, Allain S, **Gascoigne SJL**. Rise of the King: Gondwanan Origins and Evolution of Megaraptoran Dinosaurs. *Science*. Under review.
+  29| Morrison C, Scherer C, O'Callaghan E, Layton C, Boisvert C, Aranciaga-Rolando M, Durrant L Salas P, Allain S, **Gascoigne SJL**. Rise of the King: Gondwanan Origins and Evolution of Megaraptoran Dinosaurs. *Royal Society Open Science*. Under review.
   
   </summary>
   <br>
@@ -175,11 +192,7 @@ daughters, when accounting for paternal sperm storage. *Functional Ecology*. Und
 
 
   
-  
-  
-</details>
 
-<br>
 
 <details>
   <summary>
@@ -342,31 +355,13 @@ daughters, when accounting for paternal sperm storage. *Functional Ecology*. Und
 
 <br>
 
-<details>
-  <summary>
-  
-  16| Sanghvi K, Shandilya S, Brown A, Todorova B, Jahn M, **Gascoigne SJL**, Camilleri TL, Pizzari T, Sepil I. Reproductive output of old polygynous males is limited by seminal fluid, not sperm number. *Evolution Letters*. In press. ([preprint link](https://www.biorxiv.org/content/10.1101/2024.07.02.601670v1))
-  
-  </summary>
-  <br>
-  
-  <span style="color: #8B0000;">*Our study demonstrates that seminal fluid is the limiting resource for multiple mating males - not sperm number.*</span>
 
-<br>
-
-<object data="publications/Sanghvi et al. 2024 seminal fluid.pdf" type = "application/pdf" width = "100%" height = "325px" style="box-shadow: 3px 3px 3px gray;">
-</object>
-  
-  
-</details>
-
-<br>
 
 <details>
 
   <summary>
   
-  15| **Gascoigne SJL**, Kajin M, Tuljapurkar SD, Santos GS, Compagnoni A, Steiner UK, Vinton AC, Jaggi H, Sepil I, Salguero-Gómez R. Structured demographic buffering: A framework to explore the environment drivers and demographic mechanisms underlying demographic buffering. *Ecology Letters*. In Press.  ([preprint link](https://www.biorxiv.org/content/10.1101/2023.07.20.549848v1.abstract))
+  16| **Gascoigne SJL**, Kajin M, Tuljapurkar SD, Santos GS, Compagnoni A, Steiner UK, Vinton AC, Jaggi H, Sepil I, Salguero-Gómez R. Structured demographic buffering: A framework to explore the environment drivers and demographic mechanisms underlying demographic buffering. *Ecology Letters*. In Press.  ([preprint link](https://www.biorxiv.org/content/10.1101/2023.07.20.549848v1.abstract))
   
   </summary>
   
@@ -387,7 +382,7 @@ daughters, when accounting for paternal sperm storage. *Functional Ecology*. Und
 
   <summary>
   
-  14| Veit W, **Gascoigne SJL**, Salguero-Gómez R. Evolution, complexity, and life history theory. *Biological Theory*. In Press.  ([preprint link](http://philsci-archive.pitt.edu/21810/))
+  15| Veit W, **Gascoigne SJL**, Salguero-Gómez R. Evolution, complexity, and life history theory. *Biological Theory*. In Press.  ([preprint link](http://philsci-archive.pitt.edu/21810/))
   
   </summary>
   
@@ -409,9 +404,47 @@ daughters, when accounting for paternal sperm storage. *Functional Ecology*. Und
 
 <br>
 
-## 2024
+## 2025
 
 <br>
+
+<details>
+  <summary>
+  
+  14| Sanghvi K, Shandilya S, Brown A, Todorova B, Jahn M, **Gascoigne SJL**, Camilleri TL, Pizzari T, Sepil I. Reproductive output of old males is limited by seminal fluid, not sperm number. *Evolution Letters*. qrae071, 1-10. ([link](https://academic.oup.com/evlett/advance-article/doi/10.1093/evlett/qrae071/7943589))
+  
+  </summary>
+  <br>
+  
+  <span style="color: #8B0000;">*Our study demonstrates that seminal fluid is the limiting resource for multiple mating males - not sperm number.*</span>
+
+<br>
+
+<object data="publications/Sanghvi et al. 2025.pdf" type = "application/pdf" width = "100%" height = "325px" style="box-shadow: 3px 3px 3px gray;">
+</object>
+  
+  
+</details>
+
+<div>  
+  <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1093/evlett/qrae071
+" data-hide-no-mentions="true" class="altmetric-embed" style="float:right; display:inline;"></span> 
+  <span class="__dimensions_badge_embed__" data-doi="10.1093/evlett/qrae071" data-style="small_circle" style="float:right; display:inline;"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+</div>
+
+<br>
+<br>
+<br>
+
+<br>
+
+---
+
+<br>
+
+
+
+## 2024
 
 
 <details>
