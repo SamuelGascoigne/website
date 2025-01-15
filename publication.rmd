@@ -26,7 +26,7 @@ h2, h3 {
 
 <br>
 
-**Manuscripts: 31 total, 14 published, 3 in press, 14 under review**
+**Manuscripts: 32 total, 15 published, 2 in press, 15 under review**
 
 **[Google Scholar](https://scholar.google.com/citations?user=vQzYzlAAAAAJ&hl=en): h-index = 6**
 
@@ -51,7 +51,24 @@ h2, h3 {
 <details>
   <summary>
   
-  31| Rosen A, Battison R, Hernández C, Spacey O, McLean J, Prober S, **Gascoigne SJL**, McMahon S, Jucker T, Salguero-Gómez. Modelling forest dynamics using integral projection models (IPMs) and repeat LiDAR. *Methods in Ecology & Evolution*. Under review.
+  32| Boisvert C, Perkins J, Morrison C, **Gascoigne SJL**, Holtz TR, Curtice B. Hypercarnivorous megatheropod size class patterns across the Jurassic-Cretaceous Periods. *PeerJ*. Under review.
+
+  
+  </summary>
+  <br>
+  
+  <span style="color: #8B0000;">*Here, we suggest that the distribution of size classes across five clades of hypercarnivorous megatheropods may have arisen through ecological mechanisms.*</span>
+
+<br>
+
+</details>
+
+<br>
+
+<details>
+  <summary>
+  
+  31| Rosen A, Battison R, Hernández C, Spacey O, McLean J, Prober S, **Gascoigne SJL**, McMahon S, Jucker T, Salguero-Gómez. Modelling forest dynamics using integral projection models (IPMs) and repeat LiDAR. *Methods in Ecology & Evolution*. Under review. ([preprint link](https://www.biorxiv.org/content/10.1101/2025.01.06.631514v1.abstract))
 
   
   </summary>
@@ -60,6 +77,9 @@ h2, h3 {
   <span style="color: #8B0000;">*Here, we demonstrate a pipeline for constructing structured population models, in the form of IPMs, from repeat LiDAR data for tree populations.*</span>
 
 <br>
+
+<object data="publications/Rosen et al. 2025.pdf" type = "application/pdf" width = "100%" height = "325px" style="box-shadow: 3px 3px 3px gray;">
+</object>
 
 </details>
 
@@ -376,26 +396,7 @@ daughters, when accounting for paternal sperm storage. *Functional Ecology*. Und
   
 </details>
 
-<br>
 
-<details>
-
-  <summary>
-  
-  15| Veit W, **Gascoigne SJL**, Salguero-Gómez R. Evolution, complexity, and life history theory. *Biological Theory*. In Press.  ([preprint link](http://philsci-archive.pitt.edu/21810/))
-  
-  </summary>
-  
-  <br>
-  
-  <span style="color: #8B0000;">*Here, we begin the philosophical argument for a new approach to quantify life history complexity in structured population models.*</span>
-
-<br>
-  
-  <object data="publications/Veit et al. 2023.pdf" type = "application/pdf" width = "100%" height = "325px" style="box-shadow: 3px 3px 3px gray;">
-</object>
-  
-</details>
 
 <br>
 
@@ -409,9 +410,40 @@ daughters, when accounting for paternal sperm storage. *Functional Ecology*. Und
 <br>
 
 <details>
+
   <summary>
   
-  14| Sanghvi K, Shandilya S, Brown A, Todorova B, Jahn M, **Gascoigne SJL**, Camilleri TL, Pizzari T, Sepil I. Reproductive output of old males is limited by seminal fluid, not sperm number. *Evolution Letters*. qrae071, 1-10. ([link](https://academic.oup.com/evlett/advance-article/doi/10.1093/evlett/qrae071/7943589))
+  15| Veit W, **Gascoigne SJL**, Salguero-Gómez R. Evolution, complexity, and life history theory. 2025. *Biological Theory*. ([link](https://doi.org/10.1007/s13752-024-00487-z))
+  
+  </summary>
+  
+  <br>
+  
+  <span style="color: #8B0000;">*Here, we begin the philosophical argument for a new approach to quantify life history complexity in structured population models.*</span>
+
+<br>
+  
+  <object data="publications/Veit et al. 2025.pdf" type = "application/pdf" width = "100%" height = "325px" style="box-shadow: 3px 3px 3px gray;">
+</object>
+  
+</details>
+
+<div>  
+  <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/s13752-024-00487-z
+" data-hide-no-mentions="true" class="altmetric-embed" style="float:right; display:inline;"></span> 
+  <span class="__dimensions_badge_embed__" data-doi="10.1007/s13752-024-00487-z" data-style="small_circle" style="float:right; display:inline;"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+</div>
+
+<br>
+<br>
+<br>
+
+<br>
+
+<details>
+  <summary>
+  
+  14| Sanghvi K, Shandilya S, Brown A, Todorova B, Jahn M, **Gascoigne SJL**, Camilleri TL, Pizzari T, Sepil I. 2025. Reproductive output of old males is limited by seminal fluid, not sperm number. *Evolution Letters*. qrae071, 1-10. ([link](https://academic.oup.com/evlett/advance-article/doi/10.1093/evlett/qrae071/7943589))
   
   </summary>
   <br>
