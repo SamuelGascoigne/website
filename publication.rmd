@@ -26,7 +26,7 @@ h2, h3 {
 
 <br>
 
-**Manuscripts: 32 total, 16 published, 1 in press, 15 under review**
+**Manuscripts: 32 total, 16 published, 2 in press, 14 under review**
 
 **[Google Scholar](https://scholar.google.com/citations?user=vQzYzlAAAAAJ&hl=en): h-index = 6**
 
@@ -190,23 +190,7 @@ daughters, when accounting for paternal sperm storage. *Functional Ecology*. Und
 </details>
 
 
-<br>
 
-
-
-<details>
-  <summary>
-  
-  24| Xiao-Lu ST, Yu-Kun H, Katriona S, **Gascoigne SJL**, Qing W, Li-Chen T, Dan-Dan L, Li SL. Germination time affects the responses of seedlings to variation in rainfall. *Annals of Botany*. Under review.
-  
-  </summary>
-  <br>
-  
-  <span style="color: #8B0000;">*Our study demonstrates that germination timing may strongly affect the responses of seedlings to rainfall variation, suggesting that plants with flexible germination timing may better adapt to rainfall fluctuations, and thus more suitable for desert vegetation restoration under climate change. *</span>
-
-<br>
-  
-</details>
 
 <br>
 
@@ -217,7 +201,7 @@ daughters, when accounting for paternal sperm storage. *Functional Ecology*. Und
 <details>
   <summary>
   
-  23| **Gascoigne SJL**, Kajin M, Sepil I, Salguero-Gómez R. Testing for efficacy in four measures of demographic buffering. *Methods in Ecology & Evolution*. Under review. ([preprint link](https://ecoevorxiv.org/repository/view/7207/))
+  24| **Gascoigne SJL**, Kajin M, Sepil I, Salguero-Gómez R. Testing for efficacy in four measures of demographic buffering. *Methods in Ecology & Evolution*. Under review. ([preprint link](https://ecoevorxiv.org/repository/view/7207/))
   
   </summary>
   <br>
@@ -236,7 +220,7 @@ daughters, when accounting for paternal sperm storage. *Functional Ecology*. Und
 <details>
   <summary>
   
-  22| Huang Y, Wu C, Huang W, Liu Y, Qi M, Bai J, Dong Y, **Gascoigne SJL**, Ciais P, Peñuelas J, Salguero-Gómez R. Climate change has desynchronized insect and vegetation phenologies across Europe. *Global Change Biology*. Under review. ([preprint link](https://www.biorxiv.org/content/10.1101/2023.12.11.571152v1.abstract))
+  23| Huang Y, Wu C, Huang W, Liu Y, Qi M, Bai J, Dong Y, **Gascoigne SJL**, Ciais P, Peñuelas J, Salguero-Gómez R. Climate change has desynchronized insect and vegetation phenologies across Europe. *Global Change Biology*. Under review. ([preprint link](https://www.biorxiv.org/content/10.1101/2023.12.11.571152v1.abstract))
   
   </summary>
   <br>
@@ -256,7 +240,7 @@ daughters, when accounting for paternal sperm storage. *Functional Ecology*. Und
 <details>
   <summary>
   
-  21| Tuljapurkar SD, Jaggi H, **Gascoigne SJL**, Zuo W, Kajin M, Salguero-Gómez R. From disturbances to nonlinear fitness and back. *Ecology*. Under review. ([preprint link](https://www.biorxiv.org/content/10.1101/2023.10.20.563360v2.abstract))
+  22| Tuljapurkar SD, Jaggi H, **Gascoigne SJL**, Zuo W, Kajin M, Salguero-Gómez R. From disturbances to nonlinear fitness and back. *Ecology*. Under review. ([preprint link](https://www.biorxiv.org/content/10.1101/2023.10.20.563360v2.abstract))
   
   </summary>
   <br>
@@ -282,7 +266,7 @@ daughters, when accounting for paternal sperm storage. *Functional Ecology*. Und
 
   <summary>
   
-  20| **Gascoigne SJL**, Rosen A, Sanghvi K, Compagnoni A, Steiner UK, Bocedi G, Sepil I. Current perspectives and future directions in animal life history evolution. *Journal of Animal Ecology*. Under review. ([preprint link](https://www.authorea.com/users/657075/articles/670780-current-perspectives-and-future-directions-in-animal-life-history-evolution))
+  21| **Gascoigne SJL**, Rosen A, Sanghvi K, Compagnoni A, Steiner UK, Bocedi G, Sepil I. Current perspectives and future directions in animal life history evolution. *Journal of Animal Ecology*. Under review. ([preprint link](https://www.authorea.com/users/657075/articles/670780-current-perspectives-and-future-directions-in-animal-life-history-evolution))
   
   </summary>
   
@@ -308,7 +292,7 @@ daughters, when accounting for paternal sperm storage. *Functional Ecology*. Und
 
   <summary>
   
-  19| Uwera Nalukwago D, **Gascoigne SJL**, DeFoe B, Barbosa F. A proximate mechanism for evolutionary trade-offs in the bean beetle Callosobruchus maculatus. *Evolution*. Under review.
+  20| Uwera Nalukwago D, **Gascoigne SJL**, DeFoe B, Barbosa F. A proximate mechanism for evolutionary trade-offs in the bean beetle Callosobruchus maculatus. *Evolution*. Under review.
   
   </summary>
   
@@ -330,7 +314,7 @@ daughters, when accounting for paternal sperm storage. *Functional Ecology*. Und
 
   <summary>
   
-  18| Santos GS #, **Gascoigne SJL #**, Dias ATC, Kajin M, Salguero-Gómez R. A unified framework to identify demographic buffering in natural populations. *Ecology Letters*. Under review. ([preprint link](https://www.biorxiv.org/content/10.1101/2023.07.03.547528v1.abstract))
+  19| Santos GS #, **Gascoigne SJL #**, Dias ATC, Kajin M, Salguero-Gómez R. A unified framework to identify demographic buffering in natural populations. *Ecology Letters*. Under review. ([preprint link](https://www.biorxiv.org/content/10.1101/2023.07.03.547528v1.abstract))
   
   </summary>
   
@@ -353,6 +337,27 @@ daughters, when accounting for paternal sperm storage. *Functional Ecology*. Und
 
 ## In Press
 
+
+<br>
+
+
+
+<details>
+  <summary>
+  
+  18| Xiao-Lu ST, Yu-Kun H, Katriona S, **Gascoigne SJL**, Qing W, Li-Chen T, Dan-Dan L, Li SL. Seedling size affects the strategy of dune seedlings responding to rainfall
+variation. *Annals of Botany*. In press.
+  
+  </summary>
+  <br>
+  
+  <span style="color: #8B0000;">*Our study demonstrates that germination timing may strongly affect the responses of seedlings to rainfall variation, suggesting that plants with flexible germination timing may better adapt to rainfall fluctuations, and thus more suitable for desert vegetation restoration under climate change. *</span>
+
+<br>
+  
+</details>
+
+
 <br>
 
 
@@ -363,7 +368,7 @@ daughters, when accounting for paternal sperm storage. *Functional Ecology*. Und
 
   <summary>
   
-  17| **Gascoigne SJL**, Kajin M, Tuljapurkar SD, Santos GS, Compagnoni A, Steiner UK, Vinton AC, Jaggi H, Sepil I, Salguero-Gómez R. Structured demographic buffering: A framework to explore the environment drivers and demographic mechanisms underlying demographic buffering. *Ecology Letters*. In Press.  ([preprint link](https://www.biorxiv.org/content/10.1101/2023.07.20.549848v1.abstract))
+  17| **Gascoigne SJL**, Kajin M, Tuljapurkar SD, Santos GS, Compagnoni A, Steiner UK, Vinton AC, Jaggi H, Sepil I, Salguero-Gómez R. Structured demographic buffering: A framework to explore the environment drivers and demographic mechanisms underlying demographic buffering. *Ecology Letters*. In press.  ([preprint link](https://www.biorxiv.org/content/10.1101/2023.07.20.549848v1.abstract))
   
   </summary>
   
