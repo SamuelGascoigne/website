@@ -26,9 +26,9 @@ h2, h3 {
 
 <br>
 
-**Manuscripts: 32 total, 18 published, 14 under review**
+**Manuscripts: 34 total, 18 published, 2 in press, 14 under review**
 
-**[Google Scholar](https://scholar.google.com/citations?user=vQzYzlAAAAAJ&hl=en): h-index = 7**
+**[Google Scholar](https://scholar.google.com/citations?user=vQzYzlAAAAAJ&hl=en): h-index = 8**
 
 **Also see profiles on [ResearchGate](https://www.researchgate.net/profile/Samuel-Gascoigne), [Web of Science](https://www.webofscience.com/wos/author/record/ITV-8261-2023?state=%7B%7D), [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57202744858&origin=resultslist) and [ORCID](https://orcid.org/0000-0002-2984-1810)**
 
@@ -45,6 +45,41 @@ h2, h3 {
 
 
 ## Under review
+
+<br>
+
+<details>
+  <summary>
+  
+  34| Zurell D, Albert C, Bocedi G, Briscoe N, Buckley LB, **Gascoigne SJL**, Gonzalez A, Guillera-Arroita G, Isaac N, Karger D, Lundquist C, Merow C, Cabral JS, Schifferle K, Velazco S, Urban M. Biodiversity science and policy need more model intercomparisons. *Nature Reviews Biodiversity*. Under review.
+
+  
+  </summary>
+  <br>
+  
+  <span style="color: #8B0000;">*Here, we suggest identify a key gap in our ability to forecast biodiversity in the Anthropocene. Specifically, we argue that models implicitly bias forcasts and, just as intercomparisons improved climate projections, model intercomparisons are vital for effective biodiverstiy forecasts.*</span>
+
+<br>
+
+</details>
+
+<br>
+
+<details>
+  <summary>
+  
+  33| Vinton AC, Ibbott B, Chen J, **Gascoigne SJL**, Coulson T, Sepil I. Environmental predictability drives different routes to
+adaptation. *Nature Ecology & Evolution*. Under review.
+
+  
+  </summary>
+  <br>
+  
+  <span style="color: #8B0000;">*Through a high throughput evolution experiment using Drosophila melanogaster, we demonstrate the role of environmental predictability in life history evolution trajectories across generations.*</span>
+
+<br>
+
+</details>
 
 <br>
 
@@ -88,7 +123,7 @@ h2, h3 {
 <details>
   <summary>
   
-  30| Zurell D, Bocedi G, Santiago JEV, Gonzalez A, Purvis A, Wintle B, Merow C, Lundquist C, Guillera-Arriota G, Settele J, Serra-Diaz JM, Cabral JS, Travis JMJ, Schifferle K, Buckley L, Briscoe NJ, Isaac NJB, Peres-Neto PR, Keuth R, **Gascoigne SJL**, Ferrier S, Urban MC. Predicting the way forward for the Global Biodiversity Framework. *Science*. Under review.
+  30| Zurell D, Bocedi G, Santiago JEV, Gonzalez A, Purvis A, Wintle B, Merow C, Lundquist C, Guillera-Arriota G, Settele J, Serra-Diaz JM, Cabral JS, Travis JMJ, Schifferle K, Buckley L, Briscoe NJ, Isaac NJB, Peres-Neto PR, Keuth R, **Gascoigne SJL**, Ferrier S, Urban MC. Predicting the way forward for the Global Biodiversity Framework. *PNAS*. Under review.
   
   </summary>
   <br>
@@ -99,28 +134,14 @@ h2, h3 {
 
 </details>
 
-<br>
 
-<details>
-  <summary>
-  
-  29| Morrison C, Scherer C, O'Callaghan E, Layton C, Boisvert C, Aranciaga-Rolando M, Durrant L Salas P, Allain S, **Gascoigne SJL**. Rise of the King: Gondwanan Origins and Evolution of Megaraptoran Dinosaurs. *Royal Society Open Science*. Under review.
-  
-  </summary>
-  <br>
-  
-  <span style="color: #8B0000;">*Using biogeogrpahical models, we show Megaraptorans may have had a cosmopolitan distribution prior to the splitting of Laurasia and Gondwana. Also, gigantism in these clades may be associated with climatic shifts in the Late Cretaceous.*</span>
-
-<br>
-
-</details>
 
 <br>
 
 <details>
   <summary>
   
-  28| Gupta A, **Gascoigne SJL**, Barabás G, Qi M, Fenollosa E, Thornley R, Hernández C, Hector A, Salguero-Gómez R. Variation in precipitation drives differences in short-term transient instability between grassland functional groups: A stage structured community approach. *Ecology Letters*. Under review. ([preprint link](https://www.biorxiv.org/content/10.1101/2024.10.07.617067v1))
+  29| Gupta A, **Gascoigne SJL**, Barabás G, Qi M, Fenollosa E, Thornley R, Hernández C, Hector A, Salguero-Gómez R. Variation in precipitation drives differences in short-term transient instability between grassland functional groups: A stage structured community approach. *Ecology Letters*. Under review. ([preprint link](https://www.biorxiv.org/content/10.1101/2024.10.07.617067v1))
   
   </summary>
   <br>
@@ -139,7 +160,7 @@ h2, h3 {
 <details>
   <summary>
   
-  27| Li D, Hu Y, Salguero-Gómez R, **Gascoigne SJL**, Qing W, Meisi R, Weiwei X, Wei W, Haitao M, Li S. Clonal integration differentially impacts grassland plants under simulated homogeneous and heterogeneous grazing. *Journal of Applied Ecology*. Under review.
+  28| Li D, Hu Y, Salguero-Gómez R, **Gascoigne SJL**, Qing W, Meisi R, Weiwei X, Wei W, Haitao M, Li S. Clonal integration differentially impacts grassland plants under simulated homogeneous and heterogeneous grazing. *Journal of Applied Ecology*. Under review.
   
   </summary>
   <br>
@@ -149,32 +170,14 @@ h2, h3 {
 
 </details>
 
-<br>
 
-<details>
-  <summary>
-  
-  26| Sanghvi K, **Gascoigne SJL**, Todorova B, Vega-Trejo R, Pizzari T, Sepil I. No evidence for paternal age effects on sons or
-daughters, when accounting for paternal sperm storage. *Functional Ecology*. Under review. ([preprint link](https://www.biorxiv.org/content/10.1101/2024.09.19.613916v1.abstract))
-  
-  </summary>
-  <br>
-  
-  <span style="color: #8B0000;">*Our study implicates sperm age as a primary driver of male age related declines in sperm performance in Drosophila melanogaster.*</span>
-
-<br>
-
-<object data="publications/Sanghvi et al. 2024 sperm age.pdf" type = "application/pdf" width = "100%" height = "325px" style="box-shadow: 3px 3px 3px gray;">
-</object>
-
-</details>
 
 <br>
 
 <details>
   <summary>
   
-  25| Santos GS, Yang X, **Gascoigne SJL**, Compagnoni A, Dias ATC, Tuljapurkar S, Kajin M, Salguero-Gómez R. Population responses to environmental stochasticity are primarily driven by survival-reproduction trade-offs and mediated by aridity. *Nature*. Under review. ([preprint link](https://www.biorxiv.org/content/10.1101/2024.07.24.604949v1))
+  27| Santos GS, Yang X, **Gascoigne SJL**, Compagnoni A, Dias ATC, Tuljapurkar S, Kajin M, Salguero-Gómez R. Population responses to environmental stochasticity are primarily driven by survival-reproduction trade-offs and mediated by aridity. *Nature*. Under review. ([preprint link](https://www.biorxiv.org/content/10.1101/2024.07.24.604949v1))
   
   </summary>
   <br>
@@ -201,7 +204,7 @@ daughters, when accounting for paternal sperm storage. *Functional Ecology*. Und
 <details>
   <summary>
   
-  24| **Gascoigne SJL**, Kajin M, Sepil I, Salguero-Gómez R. Testing for efficacy in four measures of demographic buffering. *Methods in Ecology & Evolution*. Under review. ([preprint link](https://ecoevorxiv.org/repository/view/7207/))
+  26| **Gascoigne SJL**, Kajin M, Sepil I, Salguero-Gómez R. Testing for efficacy in four measures of demographic buffering. *Methods in Ecology & Evolution*. Under review. ([preprint link](https://ecoevorxiv.org/repository/view/7207/))
   
   </summary>
   <br>
@@ -220,7 +223,7 @@ daughters, when accounting for paternal sperm storage. *Functional Ecology*. Und
 <details>
   <summary>
   
-  23| Huang Y, Wu C, Huang W, Liu Y, Qi M, Bai J, Dong Y, **Gascoigne SJL**, Ciais P, Peñuelas J, Salguero-Gómez R. Climate change has desynchronized insect and vegetation phenologies across Europe. *Global Change Biology*. Under review. ([preprint link](https://www.biorxiv.org/content/10.1101/2023.12.11.571152v1.abstract))
+  25| Huang Y, Wu C, Huang W, Liu Y, Qi M, Bai J, Dong Y, **Gascoigne SJL**, Ciais P, Peñuelas J, Salguero-Gómez R. Climate change has desynchronized insect and vegetation phenologies across Europe. *Global Change Biology*. Under review. ([preprint link](https://www.biorxiv.org/content/10.1101/2023.12.11.571152v1.abstract))
   
   </summary>
   <br>
@@ -240,7 +243,7 @@ daughters, when accounting for paternal sperm storage. *Functional Ecology*. Und
 <details>
   <summary>
   
-  22| Tuljapurkar SD, Jaggi H, **Gascoigne SJL**, Zuo W, Kajin M, Salguero-Gómez R. From disturbances to nonlinear fitness and back. *Ecology*. Under review. ([preprint link](https://www.biorxiv.org/content/10.1101/2023.10.20.563360v2.abstract))
+  24| Tuljapurkar SD, Jaggi H, **Gascoigne SJL**, Zuo W, Kajin M, Salguero-Gómez R. From disturbances to nonlinear fitness and back. *Ecology*. Under review. ([preprint link](https://www.biorxiv.org/content/10.1101/2023.10.20.563360v2.abstract))
   
   </summary>
   <br>
@@ -266,7 +269,7 @@ daughters, when accounting for paternal sperm storage. *Functional Ecology*. Und
 
   <summary>
   
-  21| **Gascoigne SJL**, Rosen A, Sanghvi K, Compagnoni A, Steiner UK, Bocedi G, Sepil I. Current perspectives and future directions in animal life history evolution. *Journal of Animal Ecology*. Under review. ([preprint link](https://www.authorea.com/users/657075/articles/670780-current-perspectives-and-future-directions-in-animal-life-history-evolution))
+  23| **Gascoigne SJL**, Rosen A, Sanghvi K, Compagnoni A, Steiner UK, Bocedi G, Sepil I. Current perspectives and future directions in animal life history evolution. *Journal of Animal Ecology*. Under review. ([preprint link](https://www.authorea.com/users/657075/articles/670780-current-perspectives-and-future-directions-in-animal-life-history-evolution))
   
   </summary>
   
@@ -292,7 +295,7 @@ daughters, when accounting for paternal sperm storage. *Functional Ecology*. Und
 
   <summary>
   
-  20| Uwera Nalukwago D, **Gascoigne SJL**, DeFoe B, Barbosa F. A proximate mechanism for evolutionary trade-offs in the bean beetle Callosobruchus maculatus. *Evolution*. Under review.
+  22| Uwera Nalukwago D, **Gascoigne SJL**, DeFoe B, Barbosa F. A proximate mechanism for evolutionary trade-offs in the bean beetle Callosobruchus maculatus. *Evolution*. Under review.
   
   </summary>
   
@@ -314,7 +317,7 @@ daughters, when accounting for paternal sperm storage. *Functional Ecology*. Und
 
   <summary>
   
-  19| Santos GS #, **Gascoigne SJL #**, Dias ATC, Kajin M, Salguero-Gómez R. A unified framework to identify demographic buffering in natural populations. *Ecology Letters*. Under review. ([preprint link](https://www.biorxiv.org/content/10.1101/2023.07.03.547528v1.abstract))
+  21| Santos GS #, **Gascoigne SJL #**, Dias ATC, Kajin M, Salguero-Gómez R. A unified framework to identify demographic buffering in natural populations. *Ecology Letters*. Under review. ([preprint link](https://www.biorxiv.org/content/10.1101/2023.07.03.547528v1.abstract))
   
   </summary>
   
@@ -327,6 +330,54 @@ daughters, when accounting for paternal sperm storage. *Functional Ecology*. Und
   <object data="publications/Santos et al. 2023.pdf" type = "application/pdf" width = "100%" height = "325px" style="box-shadow: 3px 3px 3px gray;">
 </object>
   
+</details>
+
+<br>
+
+---
+
+
+<br>
+
+
+
+## In press
+
+
+<br>
+
+<details>
+  <summary>
+  
+  20| Sanghvi K, **Gascoigne SJL**, Todorova B, Vega-Trejo R, Pizzari T, Sepil I. No evidence for paternal age effects on sons or
+daughters, when accounting for paternal sperm storage. *The American Naturalist*. In press. ([preprint link](https://www.biorxiv.org/content/10.1101/2024.09.19.613916v1.abstract))
+  
+  </summary>
+  <br>
+  
+  <span style="color: #8B0000;">*Our study implicates sperm age as a primary driver of male age related declines in sperm performance in Drosophila melanogaster.*</span>
+
+<br>
+
+<object data="publications/Sanghvi et al. 2024 sperm age.pdf" type = "application/pdf" width = "100%" height = "325px" style="box-shadow: 3px 3px 3px gray;">
+</object>
+
+</details>
+
+<br>
+
+<details>
+  <summary>
+  
+  19| Morrison C, Scherer C, O'Callaghan E, Layton C, Boisvert C, Aranciaga-Rolando M, Durrant L Salas P, Allain S, **Gascoigne SJL**. Rise of the King: Gondwanan Origins and Evolution of Megaraptoran Dinosaurs. *Royal Society Open Science*. In press.
+  
+  </summary>
+  <br>
+  
+  <span style="color: #8B0000;">*Using biogeogrpahical models, we show Megaraptorans may have had a cosmopolitan distribution prior to the splitting of Laurasia and Gondwana. Also, gigantism in these clades may be associated with climatic shifts in the Late Cretaceous.*</span>
+
+<br>
+
 </details>
 
 <br>
