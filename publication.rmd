@@ -26,7 +26,7 @@ h2, h3 {
 
 <br>
 
-**Manuscripts: 34 total, 18 published, 2 in press, 14 under review**
+**Manuscripts: 36 total, 18 published, 2 in press, 16 under review**
 
 **[Google Scholar](https://scholar.google.com/citations?user=vQzYzlAAAAAJ&hl=en): h-index = 8**
 
@@ -45,6 +45,40 @@ h2, h3 {
 
 
 ## Under review
+
+<br>
+
+<details>
+  <summary>
+  
+  36| Kajin M, Tuljapurkar S, Zuo W, Jaggi H, **Gascoigne SJL**, Salguero-Gómez R. Second-order elasticities for ecology and evolution: Unravelling nonlinear fitness responses to perturbations. *Ecology*. Under review.
+
+  
+  </summary>
+  <br>
+  
+  <span style="color: #8B0000;">*Here, we summarize linear and non-linear approaches to calulating elasticities of population growth rate with respect to demographic rates.*</span>
+
+<br>
+
+</details>
+
+<br>
+
+<details>
+  <summary>
+  
+  35| Salguero-Gómez R, Santos G, Brent L, **Gascoigne SJL**, Bonsall M, Firth J, Albery G, Mondal R, Kajin M, & Davis K. Support for the social buffering hypothesis, especially under unpredictable regimes. *Journal of Animal Ecology* . Under review.
+
+  
+  </summary>
+  <br>
+  
+  <span style="color: #8B0000;">*Here, we combine two disparates areas of buffering in population biology - scoial buffering and demographic buffering. Specifically, we perform a comparative study of animal species that illustrates sociality positively correlates with a population's ability to demographically buffer.*</span>
+
+<br>
+
+</details>
 
 <br>
 
