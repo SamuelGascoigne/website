@@ -400,21 +400,7 @@ daughters, when accounting for paternal sperm storage. *The American Naturalist*
 
 <br>
 
-<details>
-  <summary>
-  
-  19| Morrison C, Scherer C, O'Callaghan E, Layton C, Boisvert C, Aranciaga-Rolando M, Durrant L Salas P, Allain S, **Gascoigne SJL**. Rise of the King: Gondwanan Origins and Evolution of Megaraptoran Dinosaurs. *Royal Society Open Science*. In press.
-  
-  </summary>
-  <br>
-  
-  <span style="color: #8B0000;">*Using biogeogrpahical models, we show Megaraptorans may have had a cosmopolitan distribution prior to the splitting of Laurasia and Gondwana. Also, gigantism in these clades may be associated with climatic shifts in the Late Cretaceous.*</span>
 
-<br>
-
-</details>
-
-<br>
 
 ---
 
@@ -424,6 +410,35 @@ daughters, when accounting for paternal sperm storage. *The American Naturalist*
 
 ## 2025
 
+
+<br>
+
+<details>
+  <summary>
+  
+  19| Morrison C, Scherer C, O'Callaghan E, Layton C, Boisvert C, Aranciaga-Rolando M, Durrant L Salas P, Allain S, **Gascoigne SJL**. Rise of the King: Gondwanan Origins and Evolution of Megaraptoran Dinosaurs. *Royal Society Open Science*. In press.
+  
+  </summary>
+  <br>
+  
+  <span style="color: #8B0000;">*Using biogeographic models, we show Megaraptorans may have had a cosmopolitan distribution prior to the splitting of Laurasia and Gondwana. Also, gigantism in these clades may be associated with climatic shifts in the Late Cretaceous.*</span>
+
+<br>
+  
+  <object data="publications/Morrison et al. 2025.pdf" type = "application/pdf" width = "100%" height = "325px" style="box-shadow: 3px 3px 3px gray;">
+</object>
+
+</details>
+
+<div>  
+  <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1098/rsos.242238
+" data-hide-no-mentions="true" class="altmetric-embed" style="float:right; display:inline;"></span> 
+  <span class="__dimensions_badge_embed__" data-doi="10.1098/rsos.242238" data-style="small_circle" style="float:right; display:inline;"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+</div>
+
+<br>
+<br>
+<br>
 
 <br>
 
