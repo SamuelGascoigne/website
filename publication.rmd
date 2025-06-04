@@ -26,7 +26,7 @@ h2, h3 {
 
 <br>
 
-**Manuscripts: 36 total, 19 published, 1 in press, 16 under review**
+**Manuscripts: 36 total, 19 published, 2 in press, 15 under review**
 
 **[Google Scholar](https://scholar.google.com/citations?user=vQzYzlAAAAAJ&hl=en): h-index = 8**
 
@@ -44,7 +44,7 @@ h2, h3 {
 <br>
 
 
-## Under review
+## Under review (15)
 
 <br>
 
@@ -170,31 +170,14 @@ adaptation. *Nature Ecology & Evolution*. Under review.
 
 
 
-<br>
 
-<details>
-  <summary>
-  
-  29| Gupta A, **Gascoigne SJL**, Barabás G, Qi M, Fenollosa E, Thornley R, Hernández C, Hector A, Salguero-Gómez R. Variation in precipitation drives differences in short-term transient instability between grassland functional groups: A stage structured community approach. *Ecology Letters*. Under review. ([preprint link](https://www.biorxiv.org/content/10.1101/2024.10.07.617067v1))
-  
-  </summary>
-  <br>
-  
-  <span style="color: #8B0000;">*Our study shows how precipitation can lead to transient instability in grassland communities.*</span>
-
-<br>
-
-<object data="publications/Gupta et al. 2024.pdf" type = "application/pdf" width = "100%" height = "325px" style="box-shadow: 3px 3px 3px gray;">
-</object>
-
-</details>
 
 <br>
 
 <details>
   <summary>
   
-  28| Li D, Hu Y, Salguero-Gómez R, **Gascoigne SJL**, Qing W, Meisi R, Weiwei X, Wei W, Haitao M, Li S. Clonal integration differentially impacts grassland plants under simulated homogeneous and heterogeneous grazing. *Journal of Applied Ecology*. Under review.
+  29| Li D, Hu Y, Salguero-Gómez R, **Gascoigne SJL**, Qing W, Meisi R, Weiwei X, Wei W, Haitao M, Li S. Clonal integration differentially impacts grassland plants under simulated homogeneous and heterogeneous grazing. *Journal of Applied Ecology*. Under review.
   
   </summary>
   <br>
@@ -211,7 +194,7 @@ adaptation. *Nature Ecology & Evolution*. Under review.
 <details>
   <summary>
   
-  27| Santos GS, Yang X, **Gascoigne SJL**, Compagnoni A, Dias ATC, Tuljapurkar S, Kajin M, Salguero-Gómez R. Population responses to environmental stochasticity are primarily driven by survival-reproduction trade-offs and mediated by aridity. *Nature*. Under review. ([preprint link](https://www.biorxiv.org/content/10.1101/2024.07.24.604949v1))
+  28| Santos GS, Yang X, **Gascoigne SJL**, Compagnoni A, Dias ATC, Tuljapurkar S, Kajin M, Salguero-Gómez R. Population responses to environmental stochasticity are primarily driven by survival-reproduction trade-offs and mediated by aridity. *Nature*. Under review. ([preprint link](https://www.biorxiv.org/content/10.1101/2024.07.24.604949v1))
   
   </summary>
   <br>
@@ -238,7 +221,7 @@ adaptation. *Nature Ecology & Evolution*. Under review.
 <details>
   <summary>
   
-  26| **Gascoigne SJL**, Kajin M, Sepil I, Salguero-Gómez R. Testing for efficacy in four measures of demographic buffering. *Methods in Ecology & Evolution*. Under review. ([preprint link](https://ecoevorxiv.org/repository/view/7207/))
+  27| **Gascoigne SJL**, Kajin M, Sepil I, Salguero-Gómez R. Testing for efficacy in four measures of demographic buffering. *Methods in Ecology & Evolution*. Under review. ([preprint link](https://ecoevorxiv.org/repository/view/7207/))
   
   </summary>
   <br>
@@ -257,7 +240,7 @@ adaptation. *Nature Ecology & Evolution*. Under review.
 <details>
   <summary>
   
-  25| Huang Y, Wu C, Huang W, Liu Y, Qi M, Bai J, Dong Y, **Gascoigne SJL**, Ciais P, Peñuelas J, Salguero-Gómez R. Climate change has desynchronized insect and vegetation phenologies across Europe. *Global Change Biology*. Under review. ([preprint link](https://www.biorxiv.org/content/10.1101/2023.12.11.571152v1.abstract))
+  26| Huang Y, Wu C, Huang W, Liu Y, Qi M, Bai J, Dong Y, **Gascoigne SJL**, Ciais P, Peñuelas J, Salguero-Gómez R. Climate change has desynchronized insect and vegetation phenologies across Europe. *Global Change Biology*. Under review. ([preprint link](https://www.biorxiv.org/content/10.1101/2023.12.11.571152v1.abstract))
   
   </summary>
   <br>
@@ -277,7 +260,7 @@ adaptation. *Nature Ecology & Evolution*. Under review.
 <details>
   <summary>
   
-  24| Tuljapurkar SD, Jaggi H, **Gascoigne SJL**, Zuo W, Kajin M, Salguero-Gómez R. From disturbances to nonlinear fitness and back. *Ecology*. Under review. ([preprint link](https://www.biorxiv.org/content/10.1101/2023.10.20.563360v2.abstract))
+  25| Tuljapurkar SD, Jaggi H, **Gascoigne SJL**, Zuo W, Kajin M, Salguero-Gómez R. From disturbances to nonlinear fitness and back. *Ecology*. Under review. ([preprint link](https://www.biorxiv.org/content/10.1101/2023.10.20.563360v2.abstract))
   
   </summary>
   <br>
@@ -303,7 +286,7 @@ adaptation. *Nature Ecology & Evolution*. Under review.
 
   <summary>
   
-  23| **Gascoigne SJL**, Rosen A, Sanghvi K, Compagnoni A, Steiner UK, Bocedi G, Sepil I. Current perspectives and future directions in animal life history evolution. *Journal of Animal Ecology*. Under review. ([preprint link](https://www.authorea.com/users/657075/articles/670780-current-perspectives-and-future-directions-in-animal-life-history-evolution))
+  24| **Gascoigne SJL**, Rosen A, Sanghvi K, Compagnoni A, Steiner UK, Bocedi G, Sepil I. Current perspectives and future directions in animal life history evolution. *Journal of Animal Ecology*. Under review. ([preprint link](https://www.authorea.com/users/657075/articles/670780-current-perspectives-and-future-directions-in-animal-life-history-evolution))
   
   </summary>
   
@@ -329,7 +312,7 @@ adaptation. *Nature Ecology & Evolution*. Under review.
 
   <summary>
   
-  22| Uwera Nalukwago D, **Gascoigne SJL**, DeFoe B, Barbosa F. A proximate mechanism for evolutionary trade-offs in the bean beetle Callosobruchus maculatus. *Evolution*. Under review.
+  23| Uwera Nalukwago D, **Gascoigne SJL**, DeFoe B, Barbosa F. A proximate mechanism for evolutionary trade-offs in the bean beetle Callosobruchus maculatus. *Evolution*. Under review.
   
   </summary>
   
@@ -351,7 +334,7 @@ adaptation. *Nature Ecology & Evolution*. Under review.
 
   <summary>
   
-  21| Santos GS #, **Gascoigne SJL #**, Dias ATC, Kajin M, Salguero-Gómez R. A unified framework to identify demographic buffering in natural populations. *Ecology Letters*. Under review. ([preprint link](https://www.biorxiv.org/content/10.1101/2023.07.03.547528v1.abstract))
+  22| Santos GS #, **Gascoigne SJL #**, Dias ATC, Kajin M, Salguero-Gómez R. A unified framework to identify demographic buffering in natural populations. *Ecology Letters*. Under review. ([preprint link](https://www.biorxiv.org/content/10.1101/2023.07.03.547528v1.abstract))
   
   </summary>
   
@@ -375,7 +358,26 @@ adaptation. *Nature Ecology & Evolution*. Under review.
 
 
 
-## In press
+## In press (2)
+
+<br>
+
+<details>
+  <summary>
+  
+  21| Gupta A, **Gascoigne SJL**, Barabás G, Qi M, Fenollosa E, Thornley R, Hernández C, Hector A, Salguero-Gómez R. Variation in precipitation drives differences in short-term transient instability between grassland functional groups: A stage structured community approach. *Ecology Letters*. In press. ([preprint link](https://www.biorxiv.org/content/10.1101/2024.10.07.617067v1))
+  
+  </summary>
+  <br>
+  
+  <span style="color: #8B0000;">*Our study shows how precipitation can lead to transient instability in grassland communities.*</span>
+
+<br>
+
+<object data="publications/Gupta et al. 2024.pdf" type = "application/pdf" width = "100%" height = "325px" style="box-shadow: 3px 3px 3px gray;">
+</object>
+
+</details>
 
 
 <br>
@@ -408,7 +410,7 @@ daughters, when accounting for paternal sperm storage. *The American Naturalist*
 
 
 
-## 2025
+## 2025 (6)
 
 
 <br>
@@ -599,7 +601,7 @@ daughters, when accounting for paternal sperm storage. *The American Naturalist*
 
 
 
-## 2024
+## 2024 (2)
 
 <br>
 
@@ -669,7 +671,7 @@ daughters, when accounting for paternal sperm storage. *The American Naturalist*
 
 
 
-## 2023
+## 2023 (4)
 
 <br>
 
@@ -795,7 +797,7 @@ daughters, when accounting for paternal sperm storage. *The American Naturalist*
 
 <br>
 
-## 2022
+## 2022 (3)
 
 
 <br>
@@ -892,7 +894,7 @@ daughters, when accounting for paternal sperm storage. *The American Naturalist*
 
 <br>
 
-## 2021
+## 2021 (1)
 
 <br>
 
@@ -928,7 +930,7 @@ daughters, when accounting for paternal sperm storage. *The American Naturalist*
 
 <br>
 
-## 2020
+## 2020 and before (3)
 
 <br>
 
@@ -953,11 +955,11 @@ daughters, when accounting for paternal sperm storage. *The American Naturalist*
 
 
 
----
+<!-- --- -->
 
-<br>
+<!-- <br> -->
 
-## 2018
+<!-- ## 2018 -->
 
 
 <br>

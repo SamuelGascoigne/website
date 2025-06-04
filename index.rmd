@@ -22,7 +22,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <center>
 
-<img src="images/sam profile picture.png" alt="Alt text" style="box-shadow: 3px 3px 3px gray;">
+<img src="images/headshot 2 resize3.jpg" alt="Alt text" style="box-shadow: 3px 3px 3px gray;">
 
 </center>
 
