@@ -20,7 +20,11 @@ h2, h3 {
   text-align: right;
 }
 
+
+
 </style>
+
+
 
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
@@ -39,7 +43,21 @@ h2, h3 {
 
 <span style="color: #8B0000;"><em><strong>For more details on each publication and a downloadable pdf, click on the triangle beside each reference.</em></strong></span>
 
+<br>
+
+<center>
+
+<img src="images/wordcloud.png" alt="Alt text" style="width: 400x; height: 350px; object-fit: cover;">
+
+</center>
+
+<br>
+
 ---
+
+
+
+
 
 <br>
 
