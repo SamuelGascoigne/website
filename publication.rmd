@@ -30,7 +30,7 @@ h2, h3 {
 
 <br>
 
-**Manuscripts: 36 total, 19 published, 2 in press, 15 under review**
+**Manuscripts: 38 total, 19 published, 2 in press, 17 under review**
 
 **[Google Scholar](https://scholar.google.com/citations?user=vQzYzlAAAAAJ&hl=en): h-index = 8**
 
@@ -62,7 +62,44 @@ h2, h3 {
 <br>
 
 
-## Under review (15)
+## Under review (17)
+
+<br>
+
+<details>
+  <summary>
+  
+  38| Sanghvi K#, **Gascoigne SJL#**, Sepil I. Mechanisms of phenotypic trade-offs in the resource acquisition-allocation Y-model.
+*Ecology Letters*. Under review.
+
+  
+  </summary>
+  <br>
+  
+  <span style="color: #8B0000;">*Here, we introduce a new framework for hypothesizing phenotypic correlations from a Y-model paradigm using a ratio of coefficients of variation in resource acquisition and allocation.*</span>
+
+<br>
+
+</details>
+
+<br>
+
+<details>
+  <summary>
+  
+  37| Morrison C, Gregory J, Jackson C, Bestwick J, Schroeder K, **Gascoigne SJL**, Bills P, Porro LB, Mannion PD, Barrett PM.
+Inter- and intraspecific variation in theropod dinosaur dental microwear and its palaeoecological implications. *The
+Anatomical Record*. Under review.
+
+  
+  </summary>
+  <br>
+  
+  <span style="color: #8B0000;">*Here, we show the similarities and differences of microwear metrics from multiple teeth locations derived in theropod dinosaurs.*</span>
+
+<br>
+
+</details>
 
 <br>
 
