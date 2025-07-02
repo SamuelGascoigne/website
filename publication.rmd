@@ -37,7 +37,8 @@ h2, h3 {
 **Also see profiles on [ResearchGate](https://www.researchgate.net/profile/Samuel-Gascoigne), [Web of Science](https://www.webofscience.com/wos/author/record/ITV-8261-2023?state=%7B%7D), [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57202744858&origin=resultslist) and [ORCID](https://orcid.org/0000-0002-2984-1810)**
 
 
-**# = shared first authorship**
+**<sup>\*</sup> = shared first authorship;**
+**<sup>+</sup> = mentored student**
 
 <br>
 
@@ -69,7 +70,7 @@ h2, h3 {
 <details>
   <summary>
   
-  38| Sanghvi K#, **Gascoigne SJL#**, Sepil I. Mechanisms of phenotypic trade-offs in the resource acquisition-allocation Y-model.
+  38| Sanghvi K<sup>\*</sup>, **Gascoigne SJL<sup>\*</sup>**, Sepil I. Mechanisms of phenotypic trade-offs in the resource acquisition-allocation Y-model.
 *Ecology Letters*. Under review.
 
   
@@ -106,7 +107,7 @@ Anatomical Record*. Under review.
 <details>
   <summary>
   
-  36| Kajin M, Tuljapurkar S, Zuo W, Jaggi H, **Gascoigne SJL**, Salguero-Gómez R. Second-order elasticities for ecology and evolution: Unravelling nonlinear fitness responses to perturbations. *Ecology*. Under review.
+  36| Kajin M, Tuljapurkar S, Zuo W, Jaggi H, **Gascoigne SJL**, Salguero-Gómez R. Second-order elasticities for ecology and evolution: Unravelling nonlinear fitness responses to perturbations. *Ecology*. Under review. ([preprint link](https://www.biorxiv.org/content/10.1101/2025.04.30.651456v1.abstract)) 
 
   
   </summary>
@@ -123,7 +124,7 @@ Anatomical Record*. Under review.
 <details>
   <summary>
   
-  35| Salguero-Gómez R, Santos G, Brent L, **Gascoigne SJL**, Bonsall M, Firth J, Albery G, Mondal R, Kajin M, & Davis K. Support for the social buffering hypothesis, especially under unpredictable regimes. *Journal of Animal Ecology* . Under review.
+  35| Salguero-Gómez R, Santos G, Brent L, **Gascoigne SJL**, Bonsall M, Firth J, Albery G, Mondal R, Kajin M, & Davis K. Support for the social buffering hypothesis, especially under unpredictable regimes. *Journal of Animal Ecology* . Under review. ([preprint link](https://www.biorxiv.org/content/10.1101/2025.04.30.651380v2.abstract))
 
   
   </summary>
@@ -157,8 +158,7 @@ Anatomical Record*. Under review.
 <details>
   <summary>
   
-  33| Vinton AC, Ibbott B, Chen J, **Gascoigne SJL**, Coulson T, Sepil I. Environmental predictability drives different routes to
-adaptation. *Nature Ecology & Evolution*. Under review.
+  33| Vinton AC, Ibbott B, Chen J, **Gascoigne SJL**, Coulson T, Sepil I. Environmental predictability drives different routes to adaptation. *Nature Ecology & Evolution*. Under review.
 
   
   </summary>
@@ -192,7 +192,7 @@ adaptation. *Nature Ecology & Evolution*. Under review.
 <details>
   <summary>
   
-  31| Rosen A, Battison R, Hernández C, Spacey O, McLean J, Prober S, **Gascoigne SJL**, McMahon S, Jucker T, Salguero-Gómez. Modelling forest dynamics using integral projection models (IPMs) and repeat LiDAR. *Methods in Ecology & Evolution*. Under review. ([preprint link](https://www.biorxiv.org/content/10.1101/2025.01.06.631514v1.abstract))
+  31| Rosen A, Battison R, Hernández C, Spacey O, McLean J, Prober S, **Gascoigne SJL**, McMahon S, Jucker T, Salguero-Gómez R. Modelling forest dynamics using integral projection models (IPMs) and repeat LiDAR. *Methods in Ecology & Evolution*. Under review. ([preprint link](https://www.biorxiv.org/content/10.1101/2025.01.06.631514v1.abstract))
 
   
   </summary>
@@ -367,7 +367,7 @@ adaptation. *Nature Ecology & Evolution*. Under review.
 
   <summary>
   
-  23| Uwera Nalukwago D, **Gascoigne SJL**, DeFoe B, Barbosa F. A proximate mechanism for evolutionary trade-offs in the bean beetle Callosobruchus maculatus. *Evolution*. Under review.
+  23| Uwera Nalukwago D<sup>+</sup>, **Gascoigne SJL**, DeFoe B, Barbosa F. A proximate mechanism for evolutionary trade-offs in the bean beetle Callosobruchus maculatus. *Evolution*. Under review.
   
   </summary>
   
@@ -389,7 +389,7 @@ adaptation. *Nature Ecology & Evolution*. Under review.
 
   <summary>
   
-  22| Santos GS #, **Gascoigne SJL #**, Dias ATC, Kajin M, Salguero-Gómez R. A unified framework to identify demographic buffering in natural populations. *Ecology Letters*. Under review. ([preprint link](https://www.biorxiv.org/content/10.1101/2023.07.03.547528v1.abstract))
+  22| Santos GS<sup>\*</sup>, **Gascoigne SJL<sup>\*</sup>**, Dias ATC, Kajin M, Salguero-Gómez R. A unified framework to identify demographic buffering in natural populations. *Ecology Letters*. Under review. ([preprint link](https://www.biorxiv.org/content/10.1101/2023.07.03.547528v1.abstract))
   
   </summary>
   
@@ -473,7 +473,7 @@ daughters, when accounting for paternal sperm storage. *The American Naturalist*
 <details>
   <summary>
   
-  19| Morrison C, Scherer C, O'Callaghan E, Layton C, Boisvert C, Aranciaga-Rolando M, Durrant L Salas P, Allain S, **Gascoigne SJL**. Rise of the King: Gondwanan Origins and Evolution of Megaraptoran Dinosaurs. *Royal Society Open Science*. In press.
+  19| Morrison C, Scherer C, O'Callaghan E, Layton C, Boisvert C, Aranciaga-Rolando M, Durrant L Salas P, Allain S, **Gascoigne SJL**. Rise of the King: Gondwanan Origins and Evolution of Megaraptoran Dinosaurs. *Royal Society Open Science*. 12:242238. ([link](https://royalsocietypublishing.org/doi/full/10.1098/rsos.242238))
   
   </summary>
   <br>
@@ -766,7 +766,8 @@ daughters, when accounting for paternal sperm storage. *The American Naturalist*
 
   <summary>
   
-  10| **Gascoigne SJL**, Rolph S, Sankey D, Nidadavolu N, Stell Pičman AS, Hernandez CM, Philpott MER, Salam A, Bernard C, Fenollosa E, Lee YJ, McLean J, Hetti Achchige Perera S, Spacey OG, Kajin M, Vinton AC, Archer CR, Burns JH, Buss DL, Caswell H, Che-Castaldo JP, Childs DZ, Capdevila P, Compagnoni A, Crone E, Ezard THG, Hodgson D, Knight TM, Jones OR, Jongejans E, McDonald J, Tenhumberg B, Thomas CC, Tyre AJ, Ramula S, Stott I, Tremblay RL, Wilson P, Vaupel JW, Salguero-Gómez R. 2023. A standard protocol to report discrete stage-structured demographic information. *Methods in Ecology & Evolution*, *14*(8), 2065-2083. ([link](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.14164))
+  10| **Gascoigne SJL**, Rolph S, Sankey D<sup>+</sup>
+, Nidadavolu N<sup>+</sup>, Stell Pičman AS<sup>+</sup>, Hernandez CM, Philpott MER<sup>+</sup>, Salam A<sup>+</sup>, Bernard C, Fenollosa E, Lee YJ<sup>+</sup>, McLean J<sup>+</sup>, Hetti Achchige Perera S<sup>+</sup>, Spacey OG, Kajin M, Vinton AC, Archer CR, Burns JH, Buss DL, Caswell H, Che-Castaldo JP, Childs DZ, Capdevila P, Compagnoni A, Crone E, Ezard THG, Hodgson D, Knight TM, Jones OR, Jongejans E, McDonald J, Tenhumberg B, Thomas CC, Tyre AJ, Ramula S, Stott I, Tremblay RL, Wilson P, Vaupel JW, Salguero-Gómez R. 2023. A standard protocol to report discrete stage-structured demographic information. *Methods in Ecology & Evolution*, *14*(8), 2065-2083. ([link](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.14164))
   
   
   </summary>
@@ -917,7 +918,7 @@ daughters, when accounting for paternal sperm storage. *The American Naturalist*
 
   <summary>
   
-  5| **Gascoigne SJL**, Uwera Nalukwago D, Barbosa F. 2022. Larval density, sex, and allocation hierarchy affect life-history trait covariances in a bean beetle. *The American Naturalist*, *199*(02). ([link](https://www.journals.uchicago.edu/doi/abs/10.1086/717639?journalCode=an))
+  5| **Gascoigne SJL**, Uwera Nalukwago D<sup>+</sup>, Barbosa F. 2022. Larval density, sex, and allocation hierarchy affect life-history trait covariances in a bean beetle. *The American Naturalist*, *199*(02). ([link](https://www.journals.uchicago.edu/doi/abs/10.1086/717639?journalCode=an))
   
   </summary>
   
