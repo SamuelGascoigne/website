@@ -30,9 +30,9 @@ h2, h3 {
 
 <br>
 
-**Manuscripts: 38 total, 19 published, 2 in press, 17 under review**
+**Manuscripts: 38 total, 21 published, 1 in press, 16 under review**
 
-**[Google Scholar](https://scholar.google.com/citations?user=vQzYzlAAAAAJ&hl=en): h-index = 8**
+**[Google Scholar](https://scholar.google.com/citations?user=vQzYzlAAAAAJ&hl=en): h-index = 9**
 
 **Also see profiles on [ResearchGate](https://www.researchgate.net/profile/Samuel-Gascoigne), [Web of Science](https://www.webofscience.com/wos/author/record/ITV-8261-2023?state=%7B%7D), [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57202744858&origin=resultslist) and [ORCID](https://orcid.org/0000-0002-2984-1810)**
 
@@ -207,21 +207,7 @@ Anatomical Record*. Under review.
 
 </details>
 
-<br>
 
-<details>
-  <summary>
-  
-  30| Zurell D, Bocedi G, Santiago JEV, Gonzalez A, Purvis A, Wintle B, Merow C, Lundquist C, Guillera-Arriota G, Settele J, Serra-Diaz JM, Cabral JS, Travis JMJ, Schifferle K, Buckley L, Briscoe NJ, Isaac NJB, Peres-Neto PR, Keuth R, **Gascoigne SJL**, Ferrier S, Urban MC. Predicting the way forward for the Global Biodiversity Framework. *PNAS*. Under review.
-  
-  </summary>
-  <br>
-  
-  <span style="color: #8B0000;">*Here, we make a pitch for the introduction of predictive modelling as a key component for the coordination and facilitation of the goals set in the Kunming-Montreal Global Biodiversity Framework.*</span>
-
-<br>
-
-</details>
 
 
 
@@ -232,7 +218,7 @@ Anatomical Record*. Under review.
 <details>
   <summary>
   
-  29| Li D, Hu Y, Salguero-Gómez R, **Gascoigne SJL**, Qing W, Meisi R, Weiwei X, Wei W, Haitao M, Li S. Clonal integration differentially impacts grassland plants under simulated homogeneous and heterogeneous grazing. *Journal of Applied Ecology*. Under review.
+  30| Li D, Hu Y, Salguero-Gómez R, **Gascoigne SJL**, Qing W, Meisi R, Weiwei X, Wei W, Haitao M, Li S. Clonal integration differentially impacts grassland plants under simulated homogeneous and heterogeneous grazing. *Journal of Applied Ecology*. Under review.
   
   </summary>
   <br>
@@ -249,7 +235,7 @@ Anatomical Record*. Under review.
 <details>
   <summary>
   
-  28| Santos GS, Yang X, **Gascoigne SJL**, Compagnoni A, Dias ATC, Tuljapurkar S, Kajin M, Salguero-Gómez R. Population responses to environmental stochasticity are primarily driven by survival-reproduction trade-offs and mediated by aridity. *Nature*. Under review. ([preprint link](https://www.biorxiv.org/content/10.1101/2024.07.24.604949v1))
+  29| Santos GS, Yang X, **Gascoigne SJL**, Compagnoni A, Dias ATC, Tuljapurkar S, Kajin M, Salguero-Gómez R. Population responses to environmental stochasticity are primarily driven by survival-reproduction trade-offs and mediated by aridity. *Nature*. Under review. ([preprint link](https://www.biorxiv.org/content/10.1101/2024.07.24.604949v1))
   
   </summary>
   <br>
@@ -276,7 +262,7 @@ Anatomical Record*. Under review.
 <details>
   <summary>
   
-  27| **Gascoigne SJL**, Kajin M, Sepil I, Salguero-Gómez R. Testing for efficacy in four measures of demographic buffering. *Methods in Ecology & Evolution*. Under review. ([preprint link](https://ecoevorxiv.org/repository/view/7207/))
+  28| **Gascoigne SJL**, Kajin M, Sepil I, Salguero-Gómez R. Testing for efficacy in four measures of demographic buffering. *Methods in Ecology & Evolution*. Under review. ([preprint link](https://ecoevorxiv.org/repository/view/7207/))
   
   </summary>
   <br>
@@ -295,7 +281,7 @@ Anatomical Record*. Under review.
 <details>
   <summary>
   
-  26| Huang Y, Wu C, Huang W, Liu Y, Qi M, Bai J, Dong Y, **Gascoigne SJL**, Ciais P, Peñuelas J, Salguero-Gómez R. Climate change has desynchronized insect and vegetation phenologies across Europe. *Global Change Biology*. Under review. ([preprint link](https://www.biorxiv.org/content/10.1101/2023.12.11.571152v1.abstract))
+  27| Huang Y, Wu C, Huang W, Liu Y, Qi M, Bai J, Dong Y, **Gascoigne SJL**, Ciais P, Peñuelas J, Salguero-Gómez R. Climate change has desynchronized insect and vegetation phenologies across Europe. *Global Change Biology*. Under review. ([preprint link](https://www.biorxiv.org/content/10.1101/2023.12.11.571152v1.abstract))
   
   </summary>
   <br>
@@ -315,7 +301,7 @@ Anatomical Record*. Under review.
 <details>
   <summary>
   
-  25| Tuljapurkar SD, Jaggi H, **Gascoigne SJL**, Zuo W, Kajin M, Salguero-Gómez R. From disturbances to nonlinear fitness and back. *Ecology*. Under review. ([preprint link](https://www.biorxiv.org/content/10.1101/2023.10.20.563360v2.abstract))
+  26| Tuljapurkar SD, Jaggi H, **Gascoigne SJL**, Zuo W, Kajin M, Salguero-Gómez R. From disturbances to nonlinear fitness and back. *Ecology*. Under review. ([preprint link](https://www.biorxiv.org/content/10.1101/2023.10.20.563360v2.abstract))
   
   </summary>
   <br>
@@ -341,7 +327,7 @@ Anatomical Record*. Under review.
 
   <summary>
   
-  24| **Gascoigne SJL**, Rosen A, Sanghvi K, Compagnoni A, Steiner UK, Bocedi G, Sepil I. Current perspectives and future directions in animal life history evolution. *Journal of Animal Ecology*. Under review. ([preprint link](https://www.authorea.com/users/657075/articles/670780-current-perspectives-and-future-directions-in-animal-life-history-evolution))
+  25| **Gascoigne SJL**, Rosen A, Sanghvi K, Compagnoni A, Steiner UK, Bocedi G, Sepil I. Current perspectives and future directions in animal life history evolution. *Journal of Animal Ecology*. Under review. ([preprint link](https://www.authorea.com/users/657075/articles/670780-current-perspectives-and-future-directions-in-animal-life-history-evolution))
   
   </summary>
   
@@ -367,7 +353,7 @@ Anatomical Record*. Under review.
 
   <summary>
   
-  23| Uwera Nalukwago D<sup>+</sup>, **Gascoigne SJL**, DeFoe B, Barbosa F. A proximate mechanism for evolutionary trade-offs in the bean beetle Callosobruchus maculatus. *Evolution*. Under review.
+  24| Uwera Nalukwago D<sup>+</sup>, **Gascoigne SJL**, DeFoe B, Barbosa F. A proximate mechanism for evolutionary trade-offs in the bean beetle Callosobruchus maculatus. *Evolution*. Under review.
   
   </summary>
   
@@ -389,7 +375,7 @@ Anatomical Record*. Under review.
 
   <summary>
   
-  22| Santos GS<sup>\*</sup>, **Gascoigne SJL<sup>\*</sup>**, Dias ATC, Kajin M, Salguero-Gómez R. A unified framework to identify demographic buffering in natural populations. *Ecology Letters*. Under review. ([preprint link](https://www.biorxiv.org/content/10.1101/2023.07.03.547528v1.abstract))
+  23| Santos GS<sup>\*</sup>, **Gascoigne SJL<sup>\*</sup>**, Dias ATC, Kajin M, Salguero-Gómez R. A unified framework to identify demographic buffering in natural populations. *Ecology Letters*. Under review. ([preprint link](https://www.biorxiv.org/content/10.1101/2023.07.03.547528v1.abstract))
   
   </summary>
   
@@ -413,45 +399,21 @@ Anatomical Record*. Under review.
 
 
 
-## In press (2)
+## In press (1)
 
 <br>
 
 <details>
   <summary>
   
-  21| Gupta A, **Gascoigne SJL**, Barabás G, Qi M, Fenollosa E, Thornley R, Hernández C, Hector A, Salguero-Gómez R. Variation in precipitation drives differences in short-term transient instability between grassland functional groups: A stage structured community approach. *Ecology Letters*. In press. ([preprint link](https://www.biorxiv.org/content/10.1101/2024.10.07.617067v1))
+  22| Zurell D, Bocedi G, Santiago JEV, Gonzalez A, Purvis A, Wintle B, Merow C, Lundquist C, Guillera-Arriota G, Settele J, Serra-Diaz JM, Cabral JS, Travis JMJ, Schifferle K, Buckley L, Briscoe NJ, Isaac NJB, Peres-Neto PR, Keuth R, **Gascoigne SJL**, Ferrier S, Urban MC. Predicting the way forward for the Global Biodiversity Framework. *PNAS*. In press.
   
   </summary>
   <br>
   
-  <span style="color: #8B0000;">*Our study shows how precipitation can lead to transient instability in grassland communities.*</span>
+  <span style="color: #8B0000;">*Here, we make a pitch for the introduction of predictive modelling as a key component for the coordination and facilitation of the goals set in the Kunming-Montreal Global Biodiversity Framework.*</span>
 
 <br>
-
-<object data="publications/Gupta et al. 2024.pdf" type = "application/pdf" width = "100%" height = "325px" style="box-shadow: 3px 3px 3px gray;">
-</object>
-
-</details>
-
-
-<br>
-
-<details>
-  <summary>
-  
-  20| Sanghvi K, **Gascoigne SJL**, Todorova B, Vega-Trejo R, Pizzari T, Sepil I. No evidence for paternal age effects on sons or
-daughters, when accounting for paternal sperm storage. *The American Naturalist*. In press. ([preprint link](https://www.biorxiv.org/content/10.1101/2024.09.19.613916v1.abstract))
-  
-  </summary>
-  <br>
-  
-  <span style="color: #8B0000;">*Our study implicates sperm age as a primary driver of male age related declines in sperm performance in Drosophila melanogaster.*</span>
-
-<br>
-
-<object data="publications/Sanghvi et al. 2024 sperm age.pdf" type = "application/pdf" width = "100%" height = "325px" style="box-shadow: 3px 3px 3px gray;">
-</object>
 
 </details>
 
@@ -465,8 +427,67 @@ daughters, when accounting for paternal sperm storage. *The American Naturalist*
 
 
 
-## 2025 (6)
+## 2025 (10)
 
+
+<br>
+
+<details>
+  <summary>
+  
+  21| Gupta A, **Gascoigne SJL**, Barabás G, Qi M, Fenollosa E, Thornley R, Hernández C, Hector A, Salguero-Gómez R. Variation in precipitation drives differences in short-term transient instability between grassland functional groups: A stage structured community approach. *Ecology Letters*. 28(8), e70182. ([link](https://onlinelibrary.wiley.com/doi/full/10.1111/ele.70182))
+  
+  </summary>
+  <br>
+  
+  <span style="color: #8B0000;">*Our study shows how precipitation can lead to transient instability in grassland communities.*</span>
+
+<br>
+
+<object data="publications/Gupta et al. 2025.pdf" type = "application/pdf" width = "100%" height = "325px" style="box-shadow: 3px 3px 3px gray;">
+</object>
+
+</details>
+
+<div>  
+  <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/ele.70182
+" data-hide-no-mentions="true" class="altmetric-embed" style="float:right; display:inline;"></span> 
+  <span class="__dimensions_badge_embed__" data-doi="10.1111/ele.70182" data-style="small_circle" style="float:right; display:inline;"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+</div>
+
+<br>
+<br>
+<br>
+
+
+<br>
+
+<details>
+  <summary>
+  
+  20| Sanghvi K, **Gascoigne SJL**, Todorova B, Vega-Trejo R, Pizzari T, Sepil I. No evidence for paternal age effects on sons or daughters, when accounting for paternal sperm storage. *The American Naturalist*. 206(2), E29-E46. ([link](https://www.journals.uchicago.edu/doi/full/10.1086/736479))
+  
+  </summary>
+  <br>
+  
+  <span style="color: #8B0000;">*Our study implicates sperm age as a primary driver of male age related declines in sperm performance in Drosophila melanogaster.*</span>
+
+<br>
+
+<object data="publications/Sanghvi et al. 2024 sperm age.pdf" type = "application/pdf" width = "100%" height = "325px" style="box-shadow: 3px 3px 3px gray;">
+</object>
+
+</details>
+
+<div>  
+  <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1086/736479
+" data-hide-no-mentions="true" class="altmetric-embed" style="float:right; display:inline;"></span> 
+  <span class="__dimensions_badge_embed__" data-doi="10.1086/736479" data-style="small_circle" style="float:right; display:inline;"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+</div>
+
+<br>
+<br>
+<br>
 
 <br>
 
