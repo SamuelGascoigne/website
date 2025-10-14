@@ -30,7 +30,7 @@ h2, h3 {
 
 <br>
 
-**Manuscripts: 38 total, 21 published, 1 in press, 16 under review**
+**Manuscripts: 38 total, 22 published, 1 in press, 15 under review**
 
 **[Google Scholar](https://scholar.google.com/citations?user=vQzYzlAAAAAJ&hl=en): h-index = 9**
 
@@ -63,7 +63,7 @@ h2, h3 {
 <br>
 
 
-## Under review (17)
+## Under review (15)
 
 <br>
 
@@ -136,29 +136,15 @@ Anatomical Record*. Under review.
 
 </details>
 
-<br>
 
-<details>
-  <summary>
-  
-  34| Zurell D, Albert C, Bocedi G, Briscoe N, Buckley LB, **Gascoigne SJL**, Gonzalez A, Guillera-Arroita G, Isaac N, Karger D, Lundquist C, Merow C, Cabral JS, Schifferle K, Velazco S, Urban M. Biodiversity science and policy need more model intercomparisons. *Nature Reviews Biodiversity*. Under review.
 
-  
-  </summary>
-  <br>
-  
-  <span style="color: #8B0000;">*Here, we suggest identify a key gap in our ability to forecast biodiversity in the Anthropocene. Specifically, we argue that models implicitly bias forcasts and, just as intercomparisons improved climate projections, model intercomparisons are vital for effective biodiverstiy forecasts.*</span>
-
-<br>
-
-</details>
 
 <br>
 
 <details>
   <summary>
   
-  33| Vinton AC, Ibbott B, Chen J, **Gascoigne SJL**, Coulson T, Sepil I. Environmental predictability drives different routes to adaptation. *Nature Ecology & Evolution*. Under review.
+  34| Vinton AC, Ibbott B, Chen J, **Gascoigne SJL**, Coulson T, Sepil I. Environmental predictability drives different routes to adaptation. *Nature Ecology & Evolution*. Under review.
 
   
   </summary>
@@ -175,7 +161,7 @@ Anatomical Record*. Under review.
 <details>
   <summary>
   
-  32| Boisvert C, Perkins J, Morrison C, **Gascoigne SJL**, Holtz TR, Curtice B. Hypercarnivorous megatheropod size class patterns across the Jurassic-Cretaceous Periods. *PeerJ*. Under review.
+  33| Boisvert C, Perkins J, Morrison C, **Gascoigne SJL**, Holtz TR, Curtice B. Hypercarnivorous megatheropod size class patterns across the Jurassic-Cretaceous Periods. *PeerJ*. Under review.
 
   
   </summary>
@@ -192,7 +178,7 @@ Anatomical Record*. Under review.
 <details>
   <summary>
   
-  31| Rosen A, Battison R, Hernández C, Spacey O, McLean J, Prober S, **Gascoigne SJL**, McMahon S, Jucker T, Salguero-Gómez R. Modelling forest dynamics using integral projection models (IPMs) and repeat LiDAR. *Methods in Ecology & Evolution*. Under review. ([preprint link](https://www.biorxiv.org/content/10.1101/2025.01.06.631514v1.abstract))
+  32| Rosen A, Battison R, Hernández C, Spacey O, McLean J, Prober S, **Gascoigne SJL**, McMahon S, Jucker T, Salguero-Gómez R. Modelling forest dynamics using integral projection models (IPMs) and repeat LiDAR. *Methods in Ecology & Evolution*. Under review. ([preprint link](https://www.biorxiv.org/content/10.1101/2025.01.06.631514v1.abstract))
 
   
   </summary>
@@ -218,7 +204,7 @@ Anatomical Record*. Under review.
 <details>
   <summary>
   
-  30| Li D, Hu Y, Salguero-Gómez R, **Gascoigne SJL**, Qing W, Meisi R, Weiwei X, Wei W, Haitao M, Li S. Clonal integration differentially impacts grassland plants under simulated homogeneous and heterogeneous grazing. *Journal of Applied Ecology*. Under review.
+  31| Li D, Hu Y, Salguero-Gómez R, **Gascoigne SJL**, Qing W, Meisi R, Weiwei X, Wei W, Haitao M, Li S. Clonal integration differentially impacts grassland plants under simulated homogeneous and heterogeneous grazing. *Journal of Applied Ecology*. Under review.
   
   </summary>
   <br>
@@ -235,7 +221,7 @@ Anatomical Record*. Under review.
 <details>
   <summary>
   
-  29| Santos GS, Yang X, **Gascoigne SJL**, Compagnoni A, Dias ATC, Tuljapurkar S, Kajin M, Salguero-Gómez R. Population responses to environmental stochasticity are primarily driven by survival-reproduction trade-offs and mediated by aridity. *Nature*. Under review. ([preprint link](https://www.biorxiv.org/content/10.1101/2024.07.24.604949v1))
+  30| Santos GS, Yang X, **Gascoigne SJL**, Compagnoni A, Dias ATC, Tuljapurkar S, Kajin M, Salguero-Gómez R. Population responses to environmental stochasticity are primarily driven by survival-reproduction trade-offs and mediated by aridity. *Nature*. Under review. ([preprint link](https://www.biorxiv.org/content/10.1101/2024.07.24.604949v1))
   
   </summary>
   <br>
@@ -262,7 +248,7 @@ Anatomical Record*. Under review.
 <details>
   <summary>
   
-  28| **Gascoigne SJL**, Kajin M, Sepil I, Salguero-Gómez R. Testing for efficacy in four measures of demographic buffering. *Methods in Ecology & Evolution*. Under review. ([preprint link](https://ecoevorxiv.org/repository/view/7207/))
+  29| **Gascoigne SJL**, Kajin M, Sepil I, Salguero-Gómez R. Testing for efficacy in four measures of demographic buffering. *Methods in Ecology & Evolution*. Under review. ([preprint link](https://ecoevorxiv.org/repository/view/7207/))
   
   </summary>
   <br>
@@ -281,7 +267,7 @@ Anatomical Record*. Under review.
 <details>
   <summary>
   
-  27| Huang Y, Wu C, Huang W, Liu Y, Qi M, Bai J, Dong Y, **Gascoigne SJL**, Ciais P, Peñuelas J, Salguero-Gómez R. Climate change has desynchronized insect and vegetation phenologies across Europe. *Global Change Biology*. Under review. ([preprint link](https://www.biorxiv.org/content/10.1101/2023.12.11.571152v1.abstract))
+  28| Huang Y, Wu C, Huang W, Liu Y, Qi M, Bai J, Dong Y, **Gascoigne SJL**, Ciais P, Peñuelas J, Salguero-Gómez R. Climate change has desynchronized insect and vegetation phenologies across Europe. *Global Change Biology*. Under review. ([preprint link](https://www.biorxiv.org/content/10.1101/2023.12.11.571152v1.abstract))
   
   </summary>
   <br>
@@ -301,7 +287,7 @@ Anatomical Record*. Under review.
 <details>
   <summary>
   
-  26| Tuljapurkar SD, Jaggi H, **Gascoigne SJL**, Zuo W, Kajin M, Salguero-Gómez R. From disturbances to nonlinear fitness and back. *Ecology*. Under review. ([preprint link](https://www.biorxiv.org/content/10.1101/2023.10.20.563360v2.abstract))
+  27| Tuljapurkar SD, Jaggi H, **Gascoigne SJL**, Zuo W, Kajin M, Salguero-Gómez R. From disturbances to nonlinear fitness and back. *Ecology*. Under review. ([preprint link](https://www.biorxiv.org/content/10.1101/2023.10.20.563360v2.abstract))
   
   </summary>
   <br>
@@ -327,7 +313,7 @@ Anatomical Record*. Under review.
 
   <summary>
   
-  25| **Gascoigne SJL**, Rosen A, Sanghvi K, Compagnoni A, Steiner UK, Bocedi G, Sepil I. Current perspectives and future directions in animal life history evolution. *Journal of Animal Ecology*. Under review. ([preprint link](https://www.authorea.com/users/657075/articles/670780-current-perspectives-and-future-directions-in-animal-life-history-evolution))
+  26| **Gascoigne SJL**, Rosen A, Sanghvi K, Compagnoni A, Steiner UK, Bocedi G, Sepil I. Current perspectives and future directions in animal life history evolution. *Journal of Animal Ecology*. Under review. ([preprint link](https://www.authorea.com/users/657075/articles/670780-current-perspectives-and-future-directions-in-animal-life-history-evolution))
   
   </summary>
   
@@ -353,7 +339,7 @@ Anatomical Record*. Under review.
 
   <summary>
   
-  24| Uwera Nalukwago D<sup>+</sup>, **Gascoigne SJL**, DeFoe B, Barbosa F. A proximate mechanism for evolutionary trade-offs in the bean beetle Callosobruchus maculatus. *Evolution*. Under review.
+  25| Uwera Nalukwago D<sup>+</sup>, **Gascoigne SJL**, DeFoe B, Barbosa F. A proximate mechanism for evolutionary trade-offs in the bean beetle Callosobruchus maculatus. *Evolution*. Under review.
   
   </summary>
   
@@ -375,7 +361,7 @@ Anatomical Record*. Under review.
 
   <summary>
   
-  23| Santos GS<sup>\*</sup>, **Gascoigne SJL<sup>\*</sup>**, Dias ATC, Kajin M, Salguero-Gómez R. A unified framework to identify demographic buffering in natural populations. *Ecology Letters*. Under review. ([preprint link](https://www.biorxiv.org/content/10.1101/2023.07.03.547528v1.abstract))
+  24| Santos GS<sup>\*</sup>, **Gascoigne SJL<sup>\*</sup>**, Dias ATC, Kajin M, Salguero-Gómez R. A unified framework to identify demographic buffering in natural populations. *Ecology Letters*. Under review. ([preprint link](https://www.biorxiv.org/content/10.1101/2023.07.03.547528v1.abstract))
   
   </summary>
   
@@ -401,17 +387,21 @@ Anatomical Record*. Under review.
 
 ## In press (1)
 
+
+
 <br>
 
 <details>
   <summary>
   
-  22| Zurell D, Bocedi G, Santiago JEV, Gonzalez A, Purvis A, Wintle B, Merow C, Lundquist C, Guillera-Arriota G, Settele J, Serra-Diaz JM, Cabral JS, Travis JMJ, Schifferle K, Buckley L, Briscoe NJ, Isaac NJB, Peres-Neto PR, Keuth R, **Gascoigne SJL**, Ferrier S, Urban MC. Predicting the way forward for the Global Biodiversity Framework. *PNAS*. In press.
+  23| Zurell D, Albert C, Bocedi G, Briscoe N, Buckley LB, **Gascoigne SJL**, Gonzalez A, Guillera-Arroita G, Isaac N, Karger D, Lundquist C, Merow C, Cabral JS, Schifferle K, Velazco S, Urban M. Biodiversity science and policy need more model intercomparisons. *Nature Reviews Biodiversity*. Under review.
+
   
   </summary>
   <br>
   
-  <span style="color: #8B0000;">*Here, we make a pitch for the introduction of predictive modelling as a key component for the coordination and facilitation of the goals set in the Kunming-Montreal Global Biodiversity Framework.*</span>
+  <span style="color: #8B0000;">*Here, we suggest identify a key gap in our ability to forecast biodiversity in the Anthropocene. Specifically, we argue that models implicitly bias forcasts and, just as intercomparisons improved climate projections, model intercomparisons are vital for effective biodiverstiy forecasts.*</span>
+
 
 <br>
 
@@ -427,8 +417,41 @@ Anatomical Record*. Under review.
 
 
 
-## 2025 (10)
+## 2025 (9)
 
+
+
+
+<br>
+
+<details>
+  <summary>
+  
+  22| Zurell D, Bocedi G, Santiago JEV, Gonzalez A, Purvis A, Wintle B, Merow C, Lundquist C, Guillera-Arriota G, Settele J, Serra-Diaz JM, Cabral JS, Travis JMJ, Schifferle K, Buckley L, Briscoe NJ, Isaac NJB, Peres-Neto PR, Keuth R, **Gascoigne SJL**, Ferrier S, Urban MC. Predicting the way forward for the Global Biodiversity Framework. *PNAS*. 122(41) e2501695122.
+  
+  </summary>
+  <br>
+  
+  <span style="color: #8B0000;">*Here, we make a pitch for the introduction of predictive modelling as a key component for the coordination and facilitation of the goals set in the Kunming-Montreal Global Biodiversity Framework.*</span>
+
+<br>
+
+<object data="publications/Zurell et al. 2025.pdf" type = "application/pdf" width = "100%" height = "325px" style="box-shadow: 3px 3px 3px gray;">
+</object>
+
+</details>
+<div>  
+  <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1073/pnas.2501695122
+" data-hide-no-mentions="true" class="altmetric-embed" style="float:right; display:inline;"></span> 
+  <span class="__dimensions_badge_embed__" data-doi="10.1073/pnas.2501695122" data-style="small_circle" style="float:right; display:inline;"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+</div>
+
+<br>
+<br>
+<br>
+
+
+<br>
 
 <br>
 
