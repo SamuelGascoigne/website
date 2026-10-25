@@ -38,22 +38,22 @@ University of Aberdeen
 
 ::: {}
 **Environmental variability**
-How populations respond to variable environments
+How spatial and temporal variation impact population dynamics
 :::
 
 ::: {}
-**Eco-evolutionary dynamics**
-How populations evolve as their environments change
+**Demographic methods**
+Building high resolution models of population dynamics to produce forecasts and infer drivers 
 :::
 
 ::: {}
-**Structured population models**
-Matrix population models and integral projection models
+**Ecological genetics**
+Inferring the contributions of landcover to population genetic diversity and structure
 :::
 
 ::: {}
-***Drosophila* experiments**
-Mechanistic tests in the humble fruit fly
+**Experimental ecology**
+Identifying the mechanisms underlying ecological dynamics
 :::
 
 :::
