@@ -1,0 +1,55 @@
+project:
+  type: website
+  output-dir: docs
+  # Only these pages are built. Add research.qmd, teaching.qmd etc. here
+  # (and to the navbar below) once they are ready to go live.
+  render:
+    - index.qmd
+    - publication.qmd
+    - cv.qmd
+    - contact.qmd
+  resources:
+    - CV/
+    - publications/
+    - images/
+
+website:
+  title: "Samuel J. L. Gascoigne"
+  description: "Population ecologist working on eco-evolutionary dynamics and demographic buffering."
+  site-url: "https://samuelgascoigne.github.io/website/"
+  navbar:
+    left:
+      - text: "About"
+        href: index.qmd
+      - text: "Publications"
+        href: publication.qmd
+      - text: "CV"
+        href: cv.qmd
+      - text: "Contact"
+        href: contact.qmd
+    right:
+      - icon: mortarboard-fill
+        href: https://scholar.google.com/citations?user=vQzYzlAAAAAJ&hl=en
+        aria-label: Google Scholar
+      - text: ResearchGate
+        href: https://www.researchgate.net/profile/Samuel-Gascoigne
+        aria-label: ResearchGate
+      - icon: linkedin
+        href: https://www.linkedin.com/in/samuel-gascoigne-5b3294219/
+        aria-label: LinkedIn
+      - icon: envelope-fill
+        href: mailto:samuel.gascoigne@abdn.ac.uk
+        aria-label: Email
+  page-footer:
+    left: "© 2026 Samuel J. L. Gascoigne"
+    right: "School of Biological Sciences, University of Aberdeen"
+
+format:
+  html:
+    theme:
+      light: [cosmo, styles/fluent.scss]
+      dark: [cosmo, styles/fluent.scss, styles/fluent-dark.scss]
+    toc: false
+    page-layout: article
+    smooth-scroll: true
+    link-external-newwindow: true

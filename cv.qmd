@@ -1,0 +1,9 @@
+---
+title: "Curriculum Vitae"
+---
+
+[<i class="bi bi-download"></i> Download PDF](CV/Gascoigne_CV.pdf){.btn .btn-primary download=""}
+
+<object data="CV/Gascoigne_CV.pdf" type="application/pdf" class="cv-frame mt-3">
+<p>Your browser can't show the PDF here. [Download the CV](CV/Gascoigne_CV.pdf) instead.</p>
+</object>

@@ -1,0 +1,88 @@
+---
+title: "Samuel J. L. Gascoigne"
+pagetitle: "Samuel J. L. Gascoigne | Population ecologist"
+image: "images/headshot 2 resize3.jpg"
+about:
+  template: trestles
+  image-shape: round
+  image-width: 14em
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:samuel.gascoigne@abdn.ac.uk
+    - icon: mortarboard
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=vQzYzlAAAAAJ&hl=en
+    - text: ResearchGate
+      href: https://www.researchgate.net/profile/Samuel-Gascoigne
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/samuel-gascoigne-5b3294219/
+    - text: ORCID
+      href: https://orcid.org/0000-0002-2984-1810
+    - icon: file-earmark-pdf
+      text: CV
+      href: CV/Gascoigne_CV.pdf
+---
+
+<!-- Job title: a script at the bottom of this page moves it under your name -->
+::: {.role}
+[Research Fellow]{.role-title}
+School of Biological Sciences\
+University of Aberdeen
+:::
+
+## Research interests
+
+::: {.interest-grid}
+
+::: {}
+**Environmental variability**
+How spatial and temporal variation impact population dynamics
+:::
+
+::: {}
+**Demographic methods**
+Building high resolution models of population dynamics to produce forecasts and infer drivers 
+:::
+
+::: {}
+**Ecological genetics**
+Inferring the contributions of landcover to population genetic diversity and structure
+:::
+
+::: {}
+**Experimental ecology**
+Identifying the mechanisms underlying ecological dynamics
+:::
+
+:::
+
+## About me
+
+::: {.lead-text}
+**I am a population ecologist with broad interests in eco-evolutionary dynamics.**
+:::
+
+Currently, I am particularly interested in (1) how populations respond to variable environments and (2) how populations evolve to accommodate the impacts of changing environments. To address these topics, I have an interdisciplinary research program including the humble fruit fly (*Drosophila melanogaster*) for more proximate (mechanistic) questions and structured population models (*i.e.*, matrix population models and integral projection models) for more ultimate (evolutionary) questions.
+
+## Background
+
+I received my undergraduate degrees in Biology and Neuroscience from Lake Forest College. At LFC, I gained a passion for research at the intersection of ecology and evolution by working with [Dr. Alexander Shingleton](http://www.shingletonlab.org) on the physiological mechanisms behind plastic morphological traits in *Drosophila melanogaster* and [Dr. Flavia Barbosa](https://sites.google.com/view/barbosalab/home?authuser=0) on the structure of life-history trait hierarchies and covariances in *Callosobruchus maculatus*. After my undergrad, I began a DPhil in Biology at the University of Oxford advised by [Dr. Roberto Salguero-Gómez](https://www.salgo.ox.ac.uk/people/dr-rob-salguero-gomez) and [Dr. Irem Sepil](https://www.biology.ox.ac.uk/people/dr-irem-sepil) where I researched the impacts of variable environments on population dynamics and life history evolution. In addition to my DPhil, I helped grow, curate and do outreach for the [COMPADRE and COMADRE databases](https://compadre-db.org).
+
+After my DPhil, I am excited to say I have started a research fellowship with [Dr. Greta Bocedi](https://gretabocedi.com) at the University of Aberdeen, as well as research groups across Aarhus University and University of Helsinki, in the Novo Nordisk funded [Centre for Ecological Genetics](https://bio.au.dk/forskning/forskningscentre/centre-for-ecological-genetics/people). Our work is focused on (1) quantifying the impact of genetic structure on extinction risk across arthropod species in Denmark and (2) building new theory linking life-history evolution, dispersal ecology and population genetics to better understand *how* and *why* populations do or don't persist in a changing world.
+
+::: {.institutions .card-surface .p-3 .mt-4}
+![](images/institutions_1.png){fig-alt="Logos of institutions I have worked with"}
+:::
+
+```{=html}
+<script>
+  // Put the job title between the name and the link buttons
+  (function () {
+    var role = document.querySelector(".role");
+    var links = document.querySelector(".about-entity .about-links");
+    if (role && links) links.parentNode.insertBefore(role, links);
+  })();
+</script>
+```
