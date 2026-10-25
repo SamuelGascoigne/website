@@ -1,0 +1,246 @@
+/*-- scss:defaults --*/
+
+// Fluent 2 design tokens with University of Sheffield colours
+// (Deep Violet #440099, Powder Blue #9ADBE8, Midnight #131E29)
+$fluent-brand:        #440099 !default;
+$fluent-brand-hover:  #5719a3 !default;
+$fluent-bg:           #fafafa !default;
+$fluent-surface:      #ffffff !default;
+$fluent-stroke:       #e0e0e0 !default;
+$fluent-fg:           #131e29 !default;
+$fluent-fg-muted:     #4f5761 !default;
+$fluent-accent-bg:    #f1ebf8 !default;
+$fluent-accent-2:     #9adbe8 !default;
+
+$primary:   $fluent-brand !default;
+$callout-color-note: $fluent-brand !default;
+$body-bg:   $fluent-bg !default;
+$body-color: $fluent-fg !default;
+$link-color: $fluent-brand !default;
+
+$font-family-sans-serif: "Segoe UI Variable Text", "Segoe UI", -apple-system, BlinkMacSystemFont, "Inter", "Helvetica Neue", Arial, sans-serif !default;
+$headings-font-family: "Segoe UI Variable Display", "Segoe UI", -apple-system, BlinkMacSystemFont, "Inter", "Helvetica Neue", Arial, sans-serif !default;
+$font-size-root: 16px !default;
+$headings-font-weight: 600 !default;
+$line-height-base: 1.6 !default;
+
+$navbar-bg: $fluent-surface !default;
+$navbar-fg: $fluent-fg !default;
+$navbar-hl: $fluent-brand !default;
+$footer-bg: $fluent-surface !default;
+$footer-fg: $fluent-fg-muted !default;
+
+$border-radius: 8px !default;
+$btn-border-radius-sm: 4px !default;
+
+/*-- scss:rules --*/
+
+// Fluent elevation (shadow-4 / shadow-8)
+$fluent-shadow-4: 0 2px 4px rgba(0, 0, 0, 0.14), 0 0 2px rgba(0, 0, 0, 0.12);
+$fluent-shadow-8: 0 4px 8px rgba(0, 0, 0, 0.14), 0 0 2px rgba(0, 0, 0, 0.12);
+
+.navbar {
+  border-bottom: 1px solid $fluent-stroke;
+  box-shadow: none;
+  .navbar-title { font-weight: 600; }
+  .nav-link.active { box-shadow: inset 0 -3px 0 $fluent-brand; }
+}
+
+.nav-footer { border-top: 1px solid $fluent-stroke; font-size: 0.85rem; }
+
+#title-block-header .title { font-weight: 600; letter-spacing: -0.01em; }
+
+h2 {
+  margin-top: 2.5rem;
+  padding-bottom: 0.4rem;
+  border-bottom: 1px solid $fluent-stroke;
+  font-size: 1.4rem;
+}
+
+// Generic card surface
+.card-surface, .pub, .contact-card {
+  background: $fluent-surface;
+  border: 1px solid $fluent-stroke;
+  border-radius: 8px;
+  box-shadow: $fluent-shadow-4;
+}
+
+// ---- About page -------------------------------------------------------------
+.quarto-about-trestles {
+  .about-entity .about-image { box-shadow: $fluent-shadow-8; }
+  .about-entity .about-link {
+    border-radius: 4px;
+    border-color: $fluent-stroke;
+    &:hover { border-color: $fluent-brand; color: $fluent-brand; }
+  }
+}
+
+.role { color: $fluent-fg-muted; font-size: 1.05rem; margin-bottom: 1.5rem; }
+
+.lead-text { font-size: 1.1rem; }
+
+.interest-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 0.75rem;
+  margin: 1.5rem 0;
+  > div {
+    background: $fluent-accent-bg;
+    border-radius: 8px;
+    padding: 0.9rem 1rem;
+    font-size: 0.95rem;
+    p { margin: 0; }
+    strong { display: block; color: $fluent-brand; margin-bottom: 0.2rem; }
+  }
+}
+
+.institutions img { max-width: 100%; }
+
+// ---- Publications -----------------------------------------------------------
+.stat-row {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(110px, 1fr));
+  gap: 0.75rem;
+  margin: 1rem 0 1.25rem;
+}
+
+.stat {
+  background: $fluent-surface;
+  border: 1px solid $fluent-stroke;
+  border-radius: 8px;
+  box-shadow: $fluent-shadow-4;
+  padding: 0.8rem 1rem;
+  p { margin: 0; }
+  .stat-num { display: block; font-size: 1.75rem; font-weight: 600; color: $fluent-brand; line-height: 1.1; }
+  .stat-label { font-size: 0.85rem; color: $fluent-fg-muted; }
+}
+
+.profile-links {
+  margin-bottom: 1rem;
+  p { display: flex; flex-wrap: wrap; gap: 0.5rem; }
+}
+
+.pub {
+  padding: 0.9rem 1.1rem;
+  margin: 0.75rem 0;
+  transition: box-shadow 0.15s ease;
+  details { margin-bottom: 0; }
+  &:hover { box-shadow: $fluent-shadow-8; }
+
+  details > summary {
+    cursor: pointer;
+    list-style: none;
+    position: relative;
+    padding-left: 1.4rem;
+    &::-webkit-details-marker { display: none; }
+    &::before {
+      content: "\203A";
+      position: absolute;
+      left: 0.2rem;
+      top: -0.1rem;
+      font-size: 1.3rem;
+      color: $fluent-brand;
+      transition: transform 0.15s ease;
+    }
+    p { margin: 0; }
+  }
+  details[open] > summary::before { transform: rotate(90deg); }
+  details[open] > summary { margin-bottom: 0.75rem; }
+
+  .pub-summary {
+    display: block;
+    color: $fluent-fg-muted;
+    border-left: 3px solid $fluent-brand;
+    padding-left: 0.75rem;
+    margin: 0.5rem 0 0.75rem 1.4rem;
+  }
+
+  .pub-pdf {
+    border: 1px solid $fluent-stroke;
+    border-radius: 4px;
+    margin-top: 0.5rem;
+  }
+
+  .pub-badges {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 0.5rem;
+    margin-top: 0.5rem;
+    min-height: 0;
+    &:empty { display: none; }
+  }
+}
+
+// ---- CV / contact -----------------------------------------------------------
+.cv-frame {
+  width: 100%;
+  height: 1000px;
+  border: 1px solid $fluent-stroke;
+  border-radius: 8px;
+  box-shadow: $fluent-shadow-4;
+}
+
+.contact-card {
+  padding: 1.5rem;
+  max-width: 520px;
+  p { margin-bottom: 0.4rem; }
+  .bi { color: $fluent-brand; margin-right: 0.5rem; }
+}
+
+// ---- Sheffield accent + layout tweaks ----------------------------------------
+.navbar { border-top: 4px solid $fluent-brand; }
+
+// Job title under the name (moved there by a small script in index.qmd)
+.about-entity .role {
+  text-align: center;
+  margin: -0.25rem 0 1rem;
+  font-size: 1rem;
+  line-height: 1.45;
+  .role-title { display: block; font-weight: 600; color: $fluent-fg; }
+}
+
+// First heading on a page shouldn't have a big gap above it
+.about-contents > h2:first-child,
+.about-contents > section:first-child > h2 { margin-top: 0; }
+
+.interest-grid > div { border-left: 3px solid $fluent-brand; }
+
+// ResearchGate has no Bootstrap icon, so draw its logo with a CSS mask
+.rg-icon,
+.navbar a[href*="researchgate.net"] .menu-text,
+.about-link[href*="researchgate.net"]::before {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  vertical-align: -0.125em;
+  background-color: currentColor;
+  -webkit-mask: url("data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+UmVzZWFyY2hHYXRlPC90aXRsZT48cGF0aCBkPSJNMTkuNTg2IDBjLS44MTggMC0xLjUwOC4xOS0yLjA3My41NjUtLjU2My4zNzctLjk3LjkzNi0xLjIxMyAxLjY4YTMuMTkzIDMuMTkzIDAgMCAwLS4xMTIuNDM3IDguMzY1IDguMzY1IDAgMCAwLS4wNzguNTMgOSA5IDAgMCAwLS4wNS43MjdjLS4wMS4yODItLjAxMy42MjEtLjAxMyAxLjAxNmEzMS4xMjEgMzEuMTIzIDAgMCAwIC4wMTQgMS4wMTcgOSA5IDAgMCAwIC4wNS43MjcgNy45NDYgNy45NDYgMCAwIDAgLjA3Ny41M2gtLjAwNWEzLjMzNCAzLjMzNCAwIDAgMCAuMTEzLjQzOGMuMjQ1Ljc0My42NSAxLjMwMyAxLjIxNCAxLjY4LjU2NS4zNzYgMS4yNTYuNTY0IDIuMDc1LjU2NC44IDAgMS41MzYtLjIxMyAyLjEwNS0uNjAzLjU3LS4zOS45NC0uOTE2IDEuMTc1LTEuNjUuMDc2LS4yMzUuMTM1LS41NTguMTc3LS45M2ExMC45IDEwLjkgMCAwIDAgLjA0My0xLjIwN3YtLjgyYzAtLjA5NS0uMDQ3LS4xNDItLjE0LS4xNDJoLTMuMDY0Yy0uMDk0IDAtLjE0LjA0Ny0uMTQuMTQxdi45NTZjMCAuMDk0LjA0Ni4xNC4xNC4xNGgxLjY2NmMuMDU2IDAgLjA4NC4wMy4wODQuMDg2IDAgLjM2IDAgLjYyLS4wMzYuODY1LS4wMzguMjQ0LS4xLjQ0Ny0uMTQ3LjYwNi0uMTA4LjM4NS0uMzQ4LjY2NC0uNjM4Ljg3Ni0uMjkuMjEyLS43MzguMzUtMS4yMjcuMzUtLjU0NSAwLS45MDEtLjE1LTEuMjEtLjM1My0uMzA2LS4yMDMtLjUxNy0uNDU0LS42Ny0uOTE1YTMuMTM2IDMuMTM2IDAgMCAxLS4xNDctLjc2MiAxNy4zNjYgMTcuMzY3IDAgMCAxLS4wMzQtLjY1NmMtLjAxLS4yNi0uMDE0LS41NzItLjAxNC0uOTM5YTI2LjQwMSAyNi40MDMgMCAwIDEgLjAxNC0uOTM4IDE1LjgyMSAxNS44MjIgMCAwIDEgLjAzNS0uNjU2IDMuMTkgMy4xOSAwIDAgMSAuMTQ4LS43NiAxLjg5IDEuODkgMCAwIDEgLjc0Mi0xLjAxYy4zNDQtLjI0NC41OTMtLjM1MiAxLjEzNy0uMzUyLjUwOCAwIC44MTUuMDk2IDEuMTQ0LjMwMy4zMy4yMDcuNTI4LjQ5Mi43NjQuOTI1LjA0Ny4wOTQuMTExLjExOC4xOTguMDdsMS4wNDQtLjQzYy4wNzUtLjA0OC4wOS0uMTE1LjA0Mi0uMTk5YTMuNTQ5IDMuNTQ5IDAgMCAwLS40NjYtLjc0MiAzIDMgMCAwIDAtLjY3OS0uNjA3IDMuMzEzIDMuMzEzIDAgMCAwLS45MDMtLjQxQTQuMDY4IDQuMDY4IDAgMCAwIDE5LjU4NiAwek04LjIxNyA1LjgzNmMtMS42OSAwLTMuMDM2LjA4Ni00LjI5Ny4wODYtMS4xNDYgMC0yLjI5MSAwLTMuMDA3LS4wMjl2LjgzMWwxLjA4OC4yYy43NDQuMTQ0IDEuMTc0LjQ4OCAxLjE3NCAyLjI2NHYxMS4yODhjMCAxLjc3Ny0uNDMgMi4xMi0xLjE3NCAyLjI2M2wtMS4wODguMnYuODMyYy43NzMtLjAyOSAyLjEyLS4wODYgMy40NjUtLjA4NiAxLjI5IDAgMi45NTEuMDU3IDMuNjY3LjA4NnYtLjgzMWwtMS40OS0uMmMtLjc3My0uMTE1LTEuMTc0LS40ODctMS4xNzQtMi4yNjR2LTQuNzg0Yy42ODguMDU3IDEuMjkuMDU3IDIuMjA2LjA1NyAxLjc0OCAzLjEyMyAzLjQxIDUuNDcyIDQuMzU1IDYuNTYuODYgMS4wMzIgMi4xNzcgMS42OTEgMy44MzkgMS42OTEuNDg3IDAgMS4wMDMtLjA4NiAxLjMxOC0uMjN2LS43NDRjLTEuMDMxIDAtMi4wNjMtLjcxNi0yLjgwOC0xLjUxOC0xLjI2LTEuMzc2LTIuOTUtMy41ODItNC4zNTUtNi4wNzQgMi4zMi0uNTQ1IDQuMDQtMi43MjIgNC4wNC00LjkgMC0zLjIwOC0yLjQ5Mi00LjY5OC01Ljc1OC00LjY5OHptLS41MTUgMS4yOWMyLjQwNiAwIDMuODM5IDEuMjYgMy44MzkgMy41NTIgMCAyLjI2My0xLjU0NyAzLjc4Mi00LjA5NyAzLjc4Mi0uOTc0IDAtMS40MDQtLjAzLTIuMDYzLS4wODZ2LTcuMTljLjY2LS4wNTkgMS41NDctLjA1OSAyLjMyLS4wNTl6Ii8+PC9zdmc+") center / contain no-repeat;
+  mask: url("data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+UmVzZWFyY2hHYXRlPC90aXRsZT48cGF0aCBkPSJNMTkuNTg2IDBjLS44MTggMC0xLjUwOC4xOS0yLjA3My41NjUtLjU2My4zNzctLjk3LjkzNi0xLjIxMyAxLjY4YTMuMTkzIDMuMTkzIDAgMCAwLS4xMTIuNDM3IDguMzY1IDguMzY1IDAgMCAwLS4wNzguNTMgOSA5IDAgMCAwLS4wNS43MjdjLS4wMS4yODItLjAxMy42MjEtLjAxMyAxLjAxNmEzMS4xMjEgMzEuMTIzIDAgMCAwIC4wMTQgMS4wMTcgOSA5IDAgMCAwIC4wNS43MjcgNy45NDYgNy45NDYgMCAwIDAgLjA3Ny41M2gtLjAwNWEzLjMzNCAzLjMzNCAwIDAgMCAuMTEzLjQzOGMuMjQ1Ljc0My42NSAxLjMwMyAxLjIxNCAxLjY4LjU2NS4zNzYgMS4yNTYuNTY0IDIuMDc1LjU2NC44IDAgMS41MzYtLjIxMyAyLjEwNS0uNjAzLjU3LS4zOS45NC0uOTE2IDEuMTc1LTEuNjUuMDc2LS4yMzUuMTM1LS41NTguMTc3LS45M2ExMC45IDEwLjkgMCAwIDAgLjA0My0xLjIwN3YtLjgyYzAtLjA5NS0uMDQ3LS4xNDItLjE0LS4xNDJoLTMuMDY0Yy0uMDk0IDAtLjE0LjA0Ny0uMTQuMTQxdi45NTZjMCAuMDk0LjA0Ni4xNC4xNC4xNGgxLjY2NmMuMDU2IDAgLjA4NC4wMy4wODQuMDg2IDAgLjM2IDAgLjYyLS4wMzYuODY1LS4wMzguMjQ0LS4xLjQ0Ny0uMTQ3LjYwNi0uMTA4LjM4NS0uMzQ4LjY2NC0uNjM4Ljg3Ni0uMjkuMjEyLS43MzguMzUtMS4yMjcuMzUtLjU0NSAwLS45MDEtLjE1LTEuMjEtLjM1My0uMzA2LS4yMDMtLjUxNy0uNDU0LS42Ny0uOTE1YTMuMTM2IDMuMTM2IDAgMCAxLS4xNDctLjc2MiAxNy4zNjYgMTcuMzY3IDAgMCAxLS4wMzQtLjY1NmMtLjAxLS4yNi0uMDE0LS41NzItLjAxNC0uOTM5YTI2LjQwMSAyNi40MDMgMCAwIDEgLjAxNC0uOTM4IDE1LjgyMSAxNS44MjIgMCAwIDEgLjAzNS0uNjU2IDMuMTkgMy4xOSAwIDAgMSAuMTQ4LS43NiAxLjg5IDEuODkgMCAwIDEgLjc0Mi0xLjAxYy4zNDQtLjI0NC41OTMtLjM1MiAxLjEzNy0uMzUyLjUwOCAwIC44MTUuMDk2IDEuMTQ0LjMwMy4zMy4yMDcuNTI4LjQ5Mi43NjQuOTI1LjA0Ny4wOTQuMTExLjExOC4xOTguMDdsMS4wNDQtLjQzYy4wNzUtLjA0OC4wOS0uMTE1LjA0Mi0uMTk5YTMuNTQ5IDMuNTQ5IDAgMCAwLS40NjYtLjc0MiAzIDMgMCAwIDAtLjY3OS0uNjA3IDMuMzEzIDMuMzEzIDAgMCAwLS45MDMtLjQxQTQuMDY4IDQuMDY4IDAgMCAwIDE5LjU4NiAwek04LjIxNyA1LjgzNmMtMS42OSAwLTMuMDM2LjA4Ni00LjI5Ny4wODYtMS4xNDYgMC0yLjI5MSAwLTMuMDA3LS4wMjl2LjgzMWwxLjA4OC4yYy43NDQuMTQ0IDEuMTc0LjQ4OCAxLjE3NCAyLjI2NHYxMS4yODhjMCAxLjc3Ny0uNDMgMi4xMi0xLjE3NCAyLjI2M2wtMS4wODguMnYuODMyYy43NzMtLjAyOSAyLjEyLS4wODYgMy40NjUtLjA4NiAxLjI5IDAgMi45NTEuMDU3IDMuNjY3LjA4NnYtLjgzMWwtMS40OS0uMmMtLjc3My0uMTE1LTEuMTc0LS40ODctMS4xNzQtMi4yNjR2LTQuNzg0Yy42ODguMDU3IDEuMjkuMDU3IDIuMjA2LjA1NyAxLjc0OCAzLjEyMyAzLjQxIDUuNDcyIDQuMzU1IDYuNTYuODYgMS4wMzIgMi4xNzcgMS42OTEgMy44MzkgMS42OTEuNDg3IDAgMS4wMDMtLjA4NiAxLjMxOC0uMjN2LS43NDRjLTEuMDMxIDAtMi4wNjMtLjcxNi0yLjgwOC0xLjUxOC0xLjI2LTEuMzc2LTIuOTUtMy41ODItNC4zNTUtNi4wNzQgMi4zMi0uNTQ1IDQuMDQtMi43MjIgNC4wNC00LjkgMC0zLjIwOC0yLjQ5Mi00LjY5OC01Ljc1OC00LjY5OHptLS41MTUgMS4yOWMyLjQwNiAwIDMuODM5IDEuMjYgMy44MzkgMy41NTIgMCAyLjI2My0xLjU0NyAzLjc4Mi00LjA5NyAzLjc4Mi0uOTc0IDAtMS40MDQtLjAzLTIuMDYzLS4wODZ2LTcuMTljLjY2LS4wNTkgMS41NDctLjA1OSAyLjMyLS4wNTl6Ii8+PC9zdmc+") center / contain no-repeat;
+}
+.navbar a[href*="researchgate.net"] .menu-text { font-size: 0; width: 1.05rem; height: 1.05rem; vertical-align: middle; position: relative; top: -5px; }
+.about-link[href*="researchgate.net"]::before { content: ""; margin-right: 0.3em; }
+
+// ---- Publication cards: badges sit to the right of the reference ------------
+.pub {
+  display: flex;
+  align-items: flex-start;
+  gap: 1rem;
+  > details { flex: 1 1 auto; min-width: 0; }
+  > .pub-badges {
+    flex: 0 0 auto;
+    margin-top: 0;
+    justify-content: flex-end;
+    align-items: center;
+    p { margin: 0; }
+  }
+  @media (max-width: 575.98px) {
+    flex-wrap: wrap;
+    > .pub-badges { flex-basis: 100%; }
+  }
+}
+.pub > .pub-badges {
+  &, > p { display: flex; flex-direction: row; align-items: center; gap: 0.4rem; margin: 0; }
+  .altmetric-embed, .__dimensions_badge_embed__ { display: inline-block; float: none !important; }
+  .altmetric-embed > *, .__dimensions_badge_embed__ > * { display: block; }
+}

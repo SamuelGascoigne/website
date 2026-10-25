@@ -1,0 +1,18 @@
+---
+title: "Contact"
+---
+
+::: {.contact-card}
+
+**Samuel Gascoigne**
+
+School of Biological Sciences\
+University of Aberdeen
+
+<i class="bi bi-envelope-fill"></i> samuel.gascoigne[at]abdn.ac.uk
+
+<span class="rg-icon bi"></span> [ResearchGate](https://www.researchgate.net/profile/Samuel-Gascoigne)
+
+<i class="bi bi-linkedin"></i> [LinkedIn](https://www.linkedin.com/in/samuel-gascoigne-5b3294219/)
+
+:::
